@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 title: Dime Marketing (Spain)
-img: dime_marketing.png
+img: dime-marketing.png
 alt: "Screenshot of Dime Marketing website"
 project-date: October 2015
 client: Dime Marketing

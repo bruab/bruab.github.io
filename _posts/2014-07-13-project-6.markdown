@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 title: Social Network Analysis - reddit.com
-img: reddit_sna.png
+img: reddit-sna.png
 alt: "Image of a social network graph"
 project-date: November 2014
 client: (side project)

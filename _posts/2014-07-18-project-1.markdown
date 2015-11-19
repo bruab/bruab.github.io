@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 title: Second Spring Market Garden
-img: second_spring.png
+img: second-spring.png
 alt: "Screenshot of secondspringfarm.com website"
 project-date: June 2015
 client: Second Spring Market Garden, Asheville, NC

@@ -3,7 +3,7 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 title: "Slice Like a Ninja"
-img: slice_like_a_ninja.png
+img: slice-like-a-ninja.png
 alt: "Screenshot of Slice Like a Ninja web game"
 project-date: May 2015
 client: (side project)
