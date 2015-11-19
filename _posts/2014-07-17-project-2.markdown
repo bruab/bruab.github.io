@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+title: Dime Marketing (Spain)
+img: dime_marketing.png
+alt: "Screenshot of Dime Marketing website"
+project-date: October 2015
+client: Dime Marketing
+client_url: "http://dimemarketing.es"
+category: Web Development, Marketing
+description: I built a responsive site for this Madrid-based agency, implemented Google Analytics to track behavior and conducted a market test to define the client base.
+
+---

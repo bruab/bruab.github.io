@@ -1,0 +1,46 @@
+# Site settings
+title: Brian David Hall
+email: briandavidhall@gmail.com
+url: https://bruab.github.io
+description: "Portfolio site for freelance software developer Brian David Hall"
+skills: "Web Development - User Experience Design - Social Media Analytics"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Brian David Hall
+  location: Location
+  social: Social
+  credits: Thanks
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/_bruab_
+  - title: facebook
+    url: https://www.facebook.com/hall.brian.david
+  - title: github
+    url: http://github.com/bruab
+  - title: linkedin
+    url: https://www.linkedin.com/in/briandavidhall
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: PO Box 10367
+  - line: Hilo, HI 96721
+
+# Credits content
+credits: 'Theme based on Freelancer by <a href="http://startbootstrap.com">Start Bootstrap</a>. Hosting by <a href="https://pages.github.com/">GitHub Pages</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

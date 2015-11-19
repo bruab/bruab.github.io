@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+title: "Slice Like a Ninja"
+img: slice_like_a_ninja.png
+alt: "Screenshot of Slice Like a Ninja web game"
+project-date: May 2015
+client: (side project)
+client_url: "http://bruab.github.io/slice_like_a_ninja"
+category: Web Development, Education
+description: This is a simple web browser game I made. Players are challenged to demonstrate their mastery of Python string slice syntax in order to earn points. Okay, I know, but some people are into that sort of thing.
+
+---
