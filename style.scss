@@ -4,14 +4,15 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-$bodyBackgroundColor: #18bc9c;
-$headerBackgroundColor: #2c3e50;
-$darkHeaderBackgroundColor: #233140;
-$textColor: #FFFFFF;
+$bodyBackgroundColor: #0CA5B0;
+$headerBackgroundColor: #A5B3AA;
+$darkHeaderBackgroundColor: #4E3F30;
+$textColor: #FEFEEB;
 
 body {
     overflow-x: hidden;
     background-color: $textColor;
+    color: $headerBackgroundColor;
 }
 
 p {
@@ -173,6 +174,7 @@ header .intro-text .skills {
 
 .navbar-default,
 .navbar-inverse {
+    background-color: $headerBackgroundColor !important;
     border: 0;
 }
 
@@ -191,7 +193,7 @@ section.success {
 }
 
 section.success a {
-    color: #2C3E50;
+    color: $headerBackgroundColor;
 }
 
 @media(max-width:767px) {
@@ -263,6 +265,13 @@ section.success a {
 
 .btn-success {
     color: $textColor;
+    background-color: $bodyBackgroundColor;
+    border-color: $bodyBackgroundColor;
+}
+
+.btn-primary {
+  background-color: $headerBackgroundColor;
+  border-color: $headerBackgroundColor;
 }
 
 .btn-outline {
