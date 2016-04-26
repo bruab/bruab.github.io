@@ -4,10 +4,11 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-$bodyBackgroundColor: #0CA5B0;
-$headerBackgroundColor: #A5B3AA;
-$darkHeaderBackgroundColor: #4E3F30;
-$textColor: #FEFEEB;
+$bodyBackgroundColor: rgb(3,101,100);
+$headerBackgroundColor: rgb(3,54,73);
+$darkHeaderBackgroundColor: rgb(3,22,52);
+$textColor: rgb(232,221,203);
+$linkColor: rgb(205,179,128);
 
 body {
     overflow-x: hidden;
@@ -29,7 +30,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: $bodyBackgroundColor;
+    color: $linkColor;
 }
 
 h1,
@@ -41,6 +42,22 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+}
+
+/* Placeholder styling */
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color:    $linkColor !important;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color:    $linkColor !important;
+  opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color:    $linkColor !important;
+  opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color:    $linkColor !important;
 }
 
 hr.star-light,
@@ -193,7 +210,7 @@ section.success {
 }
 
 section.success a {
-    color: $headerBackgroundColor;
+    color: $linkColor;
 }
 
 @media(max-width:767px) {

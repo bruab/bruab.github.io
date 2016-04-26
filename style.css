@@ -3,34 +3,34 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-/* line 12, style.scss */
+/* line 13, style.scss */
 body {
   overflow-x: hidden;
-  background-color: #FEFEEB;
-  color: #A5B3AA;
+  background-color: #e8ddcb;
+  color: #033649;
 }
 
-/* line 18, style.scss */
+/* line 19, style.scss */
 p {
   font-size: 20px;
 }
 
-/* line 22, style.scss */
+/* line 23, style.scss */
 p.small {
   font-size: 16px;
 }
 
-/* line 26, style.scss */
+/* line 27, style.scss */
 a,
 a:hover,
 a:focus,
 a:active,
 a.active {
   outline: 0;
-  color: #0CA5B0;
+  color: #cdb380;
 }
 
-/* line 35, style.scss */
+/* line 36, style.scss */
 h1,
 h2,
 h3,
@@ -42,7 +42,34 @@ h6 {
   font-weight: 700;
 }
 
-/* line 46, style.scss */
+/* Placeholder styling */
+/* line 48, style.scss */
+::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #cdb380 !important;
+}
+
+/* line 51, style.scss */
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #cdb380 !important;
+  opacity: 1;
+}
+
+/* line 55, style.scss */
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #cdb380 !important;
+  opacity: 1;
+}
+
+/* line 59, style.scss */
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #cdb380 !important;
+}
+
+/* line 63, style.scss */
 hr.star-light,
 hr.star-primary {
   margin: 25px auto 30px;
@@ -53,7 +80,7 @@ hr.star-primary {
   text-align: center;
 }
 
-/* line 56, style.scss */
+/* line 73, style.scss */
 hr.star-light:after,
 hr.star-primary:after {
   content: "\f005";
@@ -65,53 +92,53 @@ hr.star-primary:after {
   font-size: 2em;
 }
 
-/* line 67, style.scss */
+/* line 84, style.scss */
 hr.star-light {
-  border-color: #FEFEEB;
+  border-color: #e8ddcb;
 }
 
-/* line 71, style.scss */
+/* line 88, style.scss */
 hr.star-light:after {
-  color: #FEFEEB;
-  background-color: #0CA5B0;
+  color: #e8ddcb;
+  background-color: #036564;
 }
 
-/* line 76, style.scss */
+/* line 93, style.scss */
 hr.star-primary {
-  border-color: #A5B3AA;
+  border-color: #033649;
 }
 
-/* line 80, style.scss */
+/* line 97, style.scss */
 hr.star-primary:after {
-  color: #A5B3AA;
-  background-color: #FEFEEB;
+  color: #033649;
+  background-color: #e8ddcb;
 }
 
-/* line 85, style.scss */
+/* line 102, style.scss */
 .img-centered {
   margin: 0 auto;
 }
 
-/* line 89, style.scss */
+/* line 106, style.scss */
 header {
   text-align: center;
-  color: #FEFEEB;
-  background: #0CA5B0;
+  color: #e8ddcb;
+  background: #036564;
 }
 
-/* line 95, style.scss */
+/* line 112, style.scss */
 header .container {
   padding-top: 100px;
   padding-bottom: 50px;
 }
 
-/* line 100, style.scss */
+/* line 117, style.scss */
 header img {
   display: block;
   margin: 0 auto 20px;
 }
 
-/* line 105, style.scss */
+/* line 122, style.scss */
 header .intro-text .name {
   display: block;
   text-transform: uppercase;
@@ -120,31 +147,31 @@ header .intro-text .name {
   font-weight: 700;
 }
 
-/* line 113, style.scss */
+/* line 130, style.scss */
 header .intro-text .skills {
   font-size: 1.25em;
   font-weight: 300;
 }
 
 @media (min-width: 768px) {
-  /* line 119, style.scss */
+  /* line 136, style.scss */
   header .container {
     padding-top: 200px;
     padding-bottom: 100px;
   }
 
-  /* line 124, style.scss */
+  /* line 141, style.scss */
   header .intro-text .name {
     font-size: 4.75em;
   }
 
-  /* line 128, style.scss */
+  /* line 145, style.scss */
   header .intro-text .skills {
     font-size: 1.75em;
   }
 }
 @media (min-width: 768px) {
-  /* line 134, style.scss */
+  /* line 151, style.scss */
   .navbar-fixed-top {
     padding: 25px 0;
     -webkit-transition: padding .3s;
@@ -152,7 +179,7 @@ header .intro-text .skills {
     transition: padding .3s;
   }
 
-  /* line 141, style.scss */
+  /* line 158, style.scss */
   .navbar-fixed-top .navbar-brand {
     font-size: 2em;
     -webkit-transition: all .3s;
@@ -160,85 +187,85 @@ header .intro-text .skills {
     transition: all .3s;
   }
 
-  /* line 148, style.scss */
+  /* line 165, style.scss */
   .navbar-fixed-top.navbar-shrink {
     padding: 10px 0;
   }
 
-  /* line 152, style.scss */
+  /* line 169, style.scss */
   .navbar-fixed-top.navbar-shrink .navbar-brand {
     font-size: 1.5em;
   }
 }
-/* line 157, style.scss */
+/* line 174, style.scss */
 .navbar {
   text-transform: uppercase;
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 700;
 }
 
-/* line 163, style.scss */
+/* line 180, style.scss */
 .navbar a:focus {
   outline: 0;
 }
 
-/* line 167, style.scss */
+/* line 184, style.scss */
 .navbar .navbar-nav {
   letter-spacing: 1px;
 }
 
-/* line 171, style.scss */
+/* line 188, style.scss */
 .navbar .navbar-nav li a:focus {
   outline: 0;
 }
 
-/* line 175, style.scss */
+/* line 192, style.scss */
 .navbar-default,
 .navbar-inverse {
-  background-color: #A5B3AA !important;
+  background-color: #033649 !important;
   border: 0;
 }
 
-/* line 181, style.scss */
+/* line 198, style.scss */
 section {
   padding: 100px 0;
 }
 
-/* line 185, style.scss */
+/* line 202, style.scss */
 section h2 {
   margin: 0;
   font-size: 3em;
 }
 
-/* line 190, style.scss */
+/* line 207, style.scss */
 section.success {
-  color: #FEFEEB;
-  background: #0CA5B0;
+  color: #e8ddcb;
+  background: #036564;
 }
 
-/* line 195, style.scss */
+/* line 212, style.scss */
 section.success a {
-  color: #A5B3AA;
+  color: #cdb380;
 }
 
 @media (max-width: 767px) {
-  /* line 200, style.scss */
+  /* line 217, style.scss */
   section {
     padding: 75px 0;
   }
 
-  /* line 204, style.scss */
+  /* line 221, style.scss */
   section.first {
     padding-top: 75px;
   }
 }
-/* line 209, style.scss */
+/* line 226, style.scss */
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px;
 }
 
-/* line 214, style.scss */
+/* line 231, style.scss */
 #portfolio .portfolio-item .portfolio-link {
   display: block;
   position: relative;
@@ -246,7 +273,7 @@ section.success a {
   max-width: 400px;
 }
 
-/* line 221, style.scss */
+/* line 238, style.scss */
 #portfolio .portfolio-item .portfolio-link .caption {
   position: absolute;
   width: 100%;
@@ -258,12 +285,12 @@ section.success a {
   transition: all ease .5s;
 }
 
-/* line 232, style.scss */
+/* line 249, style.scss */
 #portfolio .portfolio-item .portfolio-link .caption:hover {
   opacity: 1;
 }
 
-/* line 236, style.scss */
+/* line 253, style.scss */
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
   position: absolute;
   top: 50%;
@@ -272,65 +299,65 @@ section.success a {
   margin-top: -12px;
   text-align: center;
   font-size: 20px;
-  color: #FEFEEB;
+  color: #e8ddcb;
 }
 
-/* line 247, style.scss */
+/* line 264, style.scss */
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
   margin-top: -12px;
 }
 
-/* line 251, style.scss */
+/* line 268, style.scss */
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
   margin: 0;
 }
 
-/* line 256, style.scss */
+/* line 273, style.scss */
 #portfolio * {
   z-index: 2;
 }
 
 @media (min-width: 767px) {
-  /* line 261, style.scss */
+  /* line 278, style.scss */
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
 }
-/* line 266, style.scss */
+/* line 283, style.scss */
 .btn-success {
-  color: #FEFEEB;
-  background-color: #0CA5B0;
-  border-color: #0CA5B0;
+  color: #e8ddcb;
+  background-color: #036564;
+  border-color: #036564;
 }
 
-/* line 272, style.scss */
+/* line 289, style.scss */
 .btn-primary {
-  background-color: #A5B3AA;
-  border-color: #A5B3AA;
+  background-color: #033649;
+  border-color: #033649;
 }
 
-/* line 277, style.scss */
+/* line 294, style.scss */
 .btn-outline {
   margin-top: 15px;
-  border: solid 2px #FEFEEB;
+  border: solid 2px #e8ddcb;
   font-size: 20px;
-  color: #FEFEEB;
+  color: #e8ddcb;
   background: 0 0;
   transition: all .3s ease-in-out;
 }
 
-/* line 286, style.scss */
+/* line 303, style.scss */
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  border: solid 2px #FEFEEB;
-  color: #0CA5B0;
-  background: #FEFEEB;
+  border: solid 2px #e8ddcb;
+  color: #036564;
+  background: #e8ddcb;
 }
 
-/* line 295, style.scss */
+/* line 312, style.scss */
 .floating-label-form-group {
   position: relative;
   margin-bottom: 0;
@@ -338,7 +365,7 @@ section.success a {
   border-bottom: 1px solid #eee;
 }
 
-/* line 302, style.scss */
+/* line 319, style.scss */
 .floating-label-form-group input,
 .floating-label-form-group textarea {
   z-index: 1;
@@ -353,7 +380,7 @@ section.success a {
   resize: none;
 }
 
-/* line 316, style.scss */
+/* line 333, style.scss */
 .floating-label-form-group label {
   display: block;
   z-index: 0;
@@ -371,75 +398,75 @@ section.success a {
   transition: top .3s ease,opacity .3s ease;
 }
 
-/* line 333, style.scss */
+/* line 350, style.scss */
 .floating-label-form-group::not(label) {
   padding-left: 14px;
   border-left: 1px solid #eee;
 }
 
-/* line 338, style.scss */
+/* line 355, style.scss */
 .floating-label-form-group-with-value label {
   top: 0;
   opacity: 1;
 }
 
-/* line 343, style.scss */
+/* line 360, style.scss */
 .floating-label-form-group-with-focus label {
-  color: #0CA5B0;
+  color: #036564;
 }
 
-/* line 347, style.scss */
+/* line 364, style.scss */
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eee;
 }
 
-/* line 351, style.scss */
+/* line 368, style.scss */
 footer {
-  color: #FEFEEB;
+  color: #e8ddcb;
 }
 
-/* line 355, style.scss */
+/* line 372, style.scss */
 footer h3 {
   margin-bottom: 30px;
 }
 
-/* line 359, style.scss */
+/* line 376, style.scss */
 footer .footer-above {
   padding-top: 50px;
-  background-color: #A5B3AA;
+  background-color: #033649;
 }
 
-/* line 364, style.scss */
+/* line 381, style.scss */
 footer .footer-col {
   margin-bottom: 50px;
 }
 
-/* line 368, style.scss */
+/* line 385, style.scss */
 footer .footer-below {
   padding: 25px 0;
-  background-color: #4E3F30;
+  background-color: #031634;
 }
 
-/* line 373, style.scss */
+/* line 390, style.scss */
 .btn-social {
   display: inline-block;
   width: 50px;
   height: 50px;
-  border: 2px solid #FEFEEB;
+  border: 2px solid #e8ddcb;
   border-radius: 100%;
   text-align: center;
   font-size: 20px;
   line-height: 45px;
 }
 
-/* line 384, style.scss */
+/* line 401, style.scss */
 .btn:focus,
 .btn:active,
 .btn.active {
   outline: 0;
 }
 
-/* line 390, style.scss */
+/* line 407, style.scss */
 .scroll-top {
   z-index: 1049;
   position: fixed;
@@ -449,7 +476,7 @@ footer .footer-below {
   height: 50px;
 }
 
-/* line 399, style.scss */
+/* line 416, style.scss */
 .scroll-top .btn {
   width: 50px;
   height: 50px;
@@ -458,12 +485,12 @@ footer .footer-below {
   line-height: 28px;
 }
 
-/* line 407, style.scss */
+/* line 424, style.scss */
 .scroll-top .btn:focus {
   outline: 0;
 }
 
-/* line 411, style.scss */
+/* line 428, style.scss */
 .portfolio-modal .modal-content {
   padding: 100px 0;
   min-height: 100%;
@@ -475,23 +502,23 @@ footer .footer-below {
   box-shadow: none;
 }
 
-/* line 422, style.scss */
+/* line 439, style.scss */
 .portfolio-modal .modal-content h2 {
   margin: 0;
   font-size: 3em;
 }
 
-/* line 427, style.scss */
+/* line 444, style.scss */
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
 }
 
-/* line 431, style.scss */
+/* line 448, style.scss */
 .portfolio-modal .modal-content .item-details {
   margin: 30px 0;
 }
 
-/* line 435, style.scss */
+/* line 452, style.scss */
 .portfolio-modal .close-modal {
   position: absolute;
   top: 25px;
@@ -502,50 +529,50 @@ footer .footer-below {
   cursor: pointer;
 }
 
-/* line 445, style.scss */
+/* line 462, style.scss */
 .portfolio-modal .close-modal:hover {
   opacity: .3;
 }
 
-/* line 449, style.scss */
+/* line 466, style.scss */
 .portfolio-modal .close-modal .lr {
   z-index: 1051;
   width: 1px;
   height: 75px;
   margin-left: 35px;
-  background-color: #A5B3AA;
+  background-color: #033649;
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 }
 
-/* line 460, style.scss */
+/* line 477, style.scss */
 .portfolio-modal .close-modal .lr .rl {
   z-index: 1052;
   width: 1px;
   height: 75px;
-  background-color: #A5B3AA;
+  background-color: #033649;
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
 }
 
-/* line 470, style.scss */
+/* line 487, style.scss */
 .navbar-default .navbar-brand {
-  color: #FEFEEB;
+  color: #e8ddcb;
 }
 
-/* line 474, style.scss */
+/* line 491, style.scss */
 .navbar-default .navbar-nav > li > a {
-  color: #FEFEEB !important;
+  color: #e8ddcb !important;
 }
 
-/* line 478, style.scss */
+/* line 495, style.scss */
 .navbar-nav > .active > a {
-  background-color: #4E3F30 !important;
+  background-color: #031634 !important;
 }
 
-/* line 484, style.scss */
+/* line 501, style.scss */
 .modal.fade.in {
   transform: translateZ(0);
   -webkit-transform: translateZ(0);
