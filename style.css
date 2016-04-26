@@ -3,458 +3,540 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
+/* line 12, style.scss */
 body {
-    overflow-x: hidden;
+  overflow-x: hidden;
+  background-color: #FFFFFF;
 }
 
+/* line 17, style.scss */
 p {
-    font-size: 20px;
+  font-size: 20px;
 }
 
+/* line 21, style.scss */
 p.small {
-    font-size: 16px;
+  font-size: 16px;
 }
 
+/* line 25, style.scss */
 a,
 a:hover,
 a:focus,
 a:active,
 a.active {
-    outline: 0;
-    color: #18bc9c;
+  outline: 0;
+  color: #18bc9c;
 }
 
+/* line 34, style.scss */
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+  text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
 }
 
+/* line 45, style.scss */
 hr.star-light,
 hr.star-primary {
-    margin: 25px auto 30px;
-    padding: 0;
-    max-width: 250px;
-    border: 0;
-    border-top: solid 5px;
-    text-align: center;
+  margin: 25px auto 30px;
+  padding: 0;
+  max-width: 250px;
+  border: 0;
+  border-top: solid 5px;
+  text-align: center;
 }
 
+/* line 55, style.scss */
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
-    display: inline-block;
-    position: relative;
-    top: -.8em;
-    padding: 0 .25em;
-    font-family: FontAwesome;
-    font-size: 2em;
+  content: "\f005";
+  display: inline-block;
+  position: relative;
+  top: -.8em;
+  padding: 0 .25em;
+  font-family: FontAwesome;
+  font-size: 2em;
 }
 
+/* line 66, style.scss */
 hr.star-light {
-    border-color: #fff;
+  border-color: #FFFFFF;
 }
 
+/* line 70, style.scss */
 hr.star-light:after {
-    color: #fff;
-    background-color: #18bc9c;
+  color: #FFFFFF;
+  background-color: #18bc9c;
 }
 
+/* line 75, style.scss */
 hr.star-primary {
-    border-color: #2c3e50;
+  border-color: #2c3e50;
 }
 
+/* line 79, style.scss */
 hr.star-primary:after {
-    color: #2c3e50;
-    background-color: #fff;
+  color: #2c3e50;
+  background-color: #FFFFFF;
 }
 
+/* line 84, style.scss */
 .img-centered {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
+/* line 88, style.scss */
 header {
-    text-align: center;
-    color: #fff;
-    background: #18bc9c;
+  text-align: center;
+  color: #FFFFFF;
+  background: #18bc9c;
 }
 
+/* line 94, style.scss */
 header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+  padding-top: 100px;
+  padding-bottom: 50px;
 }
 
+/* line 99, style.scss */
 header img {
-    display: block;
-    margin: 0 auto 20px;
+  display: block;
+  margin: 0 auto 20px;
 }
 
+/* line 104, style.scss */
 header .intro-text .name {
-    display: block;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2em;
-    font-weight: 700;
+  display: block;
+  text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 2em;
+  font-weight: 700;
 }
 
+/* line 112, style.scss */
 header .intro-text .skills {
-    font-size: 1.25em;
-    font-weight: 300;
+  font-size: 1.25em;
+  font-weight: 300;
 }
 
-@media(min-width:768px) {
-    header .container {
-        padding-top: 200px;
-        padding-bottom: 100px;
-    }
+@media (min-width: 768px) {
+  /* line 118, style.scss */
+  header .container {
+    padding-top: 200px;
+    padding-bottom: 100px;
+  }
 
-    header .intro-text .name {
-        font-size: 4.75em;
-    }
+  /* line 123, style.scss */
+  header .intro-text .name {
+    font-size: 4.75em;
+  }
 
-    header .intro-text .skills {
-        font-size: 1.75em;
-    }
+  /* line 127, style.scss */
+  header .intro-text .skills {
+    font-size: 1.75em;
+  }
 }
+@media (min-width: 768px) {
+  /* line 133, style.scss */
+  .navbar-fixed-top {
+    padding: 25px 0;
+    -webkit-transition: padding .3s;
+    -moz-transition: padding .3s;
+    transition: padding .3s;
+  }
 
-@media(min-width:768px) {
-    .navbar-fixed-top {
-        padding: 25px 0;
-        -webkit-transition: padding .3s;
-        -moz-transition: padding .3s;
-        transition: padding .3s;
-    }
+  /* line 140, style.scss */
+  .navbar-fixed-top .navbar-brand {
+    font-size: 2em;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+  }
 
-    .navbar-fixed-top .navbar-brand {
-        font-size: 2em;
-        -webkit-transition: all .3s;
-        -moz-transition: all .3s;
-        transition: all .3s;
-    }
+  /* line 147, style.scss */
+  .navbar-fixed-top.navbar-shrink {
+    padding: 10px 0;
+  }
 
-    .navbar-fixed-top.navbar-shrink {
-        padding: 10px 0;
-    }
-
-    .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
-    }
+  /* line 151, style.scss */
+  .navbar-fixed-top.navbar-shrink .navbar-brand {
+    font-size: 1.5em;
+  }
 }
-
+/* line 156, style.scss */
 .navbar {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+  text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
 }
 
+/* line 162, style.scss */
 .navbar a:focus {
-    outline: 0;
+  outline: 0;
 }
 
+/* line 166, style.scss */
 .navbar .navbar-nav {
-    letter-spacing: 1px;
+  letter-spacing: 1px;
 }
 
+/* line 170, style.scss */
 .navbar .navbar-nav li a:focus {
-    outline: 0;
+  outline: 0;
 }
 
+/* line 174, style.scss */
 .navbar-default,
 .navbar-inverse {
-    border: 0;
+  border: 0;
 }
 
+/* line 179, style.scss */
 section {
-    padding: 100px 0;
+  padding: 100px 0;
 }
 
+/* line 183, style.scss */
 section h2 {
-    margin: 0;
-    font-size: 3em;
+  margin: 0;
+  font-size: 3em;
 }
 
+/* line 188, style.scss */
 section.success {
-    color: #fff;
-    background: #18bc9c;
+  color: #FFFFFF;
+  background: #18bc9c;
 }
 
+/* line 193, style.scss */
 section.success a {
-    color: #2C3E50;
+  color: #2C3E50;
 }
 
-@media(max-width:767px) {
-    section {
-        padding: 75px 0;
-    }
+@media (max-width: 767px) {
+  /* line 198, style.scss */
+  section {
+    padding: 75px 0;
+  }
 
-    section.first {
-        padding-top: 75px;
-    }
+  /* line 202, style.scss */
+  section.first {
+    padding-top: 75px;
+  }
 }
-
+/* line 207, style.scss */
 #portfolio .portfolio-item {
-    right: 0;
-    margin: 0 0 15px;
+  right: 0;
+  margin: 0 0 15px;
 }
 
+/* line 212, style.scss */
 #portfolio .portfolio-item .portfolio-link {
-    display: block;
-    position: relative;
-    margin: 0 auto;
-    max-width: 400px;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  max-width: 400px;
 }
 
+/* line 219, style.scss */
 #portfolio .portfolio-item .portfolio-link .caption {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-    background: rgba(24,288,156,.9);
-    -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s;
-    transition: all ease .5s;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  background: rgba(24, 255, 156, 0.9);
+  -webkit-transition: all ease .5s;
+  -moz-transition: all ease .5s;
+  transition: all ease .5s;
 }
 
+/* line 230, style.scss */
 #portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
+  opacity: 1;
 }
 
+/* line 234, style.scss */
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    height: 20px;
-    margin-top: -12px;
-    text-align: center;
-    font-size: 20px;
-    color: #fff;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 20px;
+  margin-top: -12px;
+  text-align: center;
+  font-size: 20px;
+  color: #FFFFFF;
 }
 
+/* line 245, style.scss */
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-    margin-top: -12px;
+  margin-top: -12px;
 }
 
+/* line 249, style.scss */
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
-    margin: 0;
+  margin: 0;
 }
 
+/* line 254, style.scss */
 #portfolio * {
-    z-index: 2;
+  z-index: 2;
 }
 
-@media(min-width:767px) {
-    #portfolio .portfolio-item {
-        margin: 0 0 30px;
-    }
+@media (min-width: 767px) {
+  /* line 259, style.scss */
+  #portfolio .portfolio-item {
+    margin: 0 0 30px;
+  }
+}
+/* line 264, style.scss */
+.btn-success {
+  color: #FFFFFF;
 }
 
+/* line 268, style.scss */
 .btn-outline {
-    margin-top: 15px;
-    border: solid 2px #fff;
-    font-size: 20px;
-    color: #fff;
-    background: 0 0;
-    transition: all .3s ease-in-out;
+  margin-top: 15px;
+  border: solid 2px #FFFFFF;
+  font-size: 20px;
+  color: #FFFFFF;
+  background: 0 0;
+  transition: all .3s ease-in-out;
 }
 
+/* line 277, style.scss */
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
-    color: #18bc9c;
-    background: #fff;
+  border: solid 2px #FFFFFF;
+  color: #18bc9c;
+  background: #FFFFFF;
 }
 
+/* line 286, style.scss */
 .floating-label-form-group {
-    position: relative;
-    margin-bottom: 0;
-    padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: .5em;
+  border-bottom: 1px solid #eee;
 }
 
+/* line 293, style.scss */
 .floating-label-form-group input,
 .floating-label-form-group textarea {
-    z-index: 1;
-    position: relative;
-    padding-right: 0;
-    padding-left: 0;
-    border: 0;
-    border-radius: 0;
-    font-size: 1.5em;
-    background: 0 0;
-    box-shadow: none!important;
-    resize: none;
+  z-index: 1;
+  position: relative;
+  padding-right: 0;
+  padding-left: 0;
+  border: 0;
+  border-radius: 0;
+  font-size: 1.5em;
+  background: 0 0;
+  box-shadow: none !important;
+  resize: none;
 }
 
+/* line 307, style.scss */
 .floating-label-form-group label {
-    display: block;
-    z-index: 0;
-    position: relative;
-    top: 2em;
-    margin: 0;
-    font-size: .85em;
-    line-height: 1.764705882em;
-    vertical-align: middle;
-    vertical-align: baseline;
-    opacity: 0;
-    -webkit-transition: top .3s ease,opacity .3s ease;
-    -moz-transition: top .3s ease,opacity .3s ease;
-    -ms-transition: top .3s ease,opacity .3s ease;
-    transition: top .3s ease,opacity .3s ease;
+  display: block;
+  z-index: 0;
+  position: relative;
+  top: 2em;
+  margin: 0;
+  font-size: .85em;
+  line-height: 1.764705882em;
+  vertical-align: middle;
+  vertical-align: baseline;
+  opacity: 0;
+  -webkit-transition: top .3s ease,opacity .3s ease;
+  -moz-transition: top .3s ease,opacity .3s ease;
+  -ms-transition: top .3s ease,opacity .3s ease;
+  transition: top .3s ease,opacity .3s ease;
 }
 
-.floating-label-form-group::not(:first-child) {
-    padding-left: 14px;
-    border-left: 1px solid #eee;
+/* line 324, style.scss */
+.floating-label-form-group::not(label) {
+  padding-left: 14px;
+  border-left: 1px solid #eee;
 }
 
+/* line 329, style.scss */
 .floating-label-form-group-with-value label {
-    top: 0;
-    opacity: 1;
+  top: 0;
+  opacity: 1;
 }
 
+/* line 334, style.scss */
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+  color: #18bc9c;
 }
 
+/* line 338, style.scss */
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+  border-top: 1px solid #eee;
 }
 
+/* line 342, style.scss */
 footer {
-    color: #fff;
+  color: #FFFFFF;
 }
 
+/* line 346, style.scss */
 footer h3 {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
+/* line 350, style.scss */
 footer .footer-above {
-    padding-top: 50px;
-    background-color: #2c3e50;
+  padding-top: 50px;
+  background-color: #2c3e50;
 }
 
+/* line 355, style.scss */
 footer .footer-col {
-    margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
+/* line 359, style.scss */
 footer .footer-below {
-    padding: 25px 0;
-    background-color: #233140;
+  padding: 25px 0;
+  background-color: #233140;
 }
 
+/* line 364, style.scss */
 .btn-social {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    border: 2px solid #fff;
-    border-radius: 100%;
-    text-align: center;
-    font-size: 20px;
-    line-height: 45px;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border: 2px solid #FFFFFF;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 20px;
+  line-height: 45px;
 }
 
+/* line 375, style.scss */
 .btn:focus,
 .btn:active,
 .btn.active {
-    outline: 0;
+  outline: 0;
 }
 
+/* line 381, style.scss */
 .scroll-top {
-    z-index: 1049;
-    position: fixed;
-    right: 2%;
-    bottom: 2%;
-    width: 50px;
-    height: 50px;
+  z-index: 1049;
+  position: fixed;
+  right: 2%;
+  bottom: 2%;
+  width: 50px;
+  height: 50px;
 }
 
+/* line 390, style.scss */
 .scroll-top .btn {
-    width: 50px;
-    height: 50px;
-    border-radius: 100%;
-    font-size: 20px;
-    line-height: 28px;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  font-size: 20px;
+  line-height: 28px;
 }
 
+/* line 398, style.scss */
 .scroll-top .btn:focus {
-    outline: 0;
+  outline: 0;
 }
 
+/* line 402, style.scss */
 .portfolio-modal .modal-content {
-    padding: 100px 0;
-    min-height: 100%;
-    border: 0;
-    border-radius: 0;
-    text-align: center;
-    background-clip: border-box;
-    -webkit-box-shadow: none;
-    box-shadow: none;
+  padding: 100px 0;
+  min-height: 100%;
+  border: 0;
+  border-radius: 0;
+  text-align: center;
+  background-clip: border-box;
+  -webkit-box-shadow: none;
+  box-shadow: none;
 }
 
+/* line 413, style.scss */
 .portfolio-modal .modal-content h2 {
-    margin: 0;
-    font-size: 3em;
+  margin: 0;
+  font-size: 3em;
 }
 
+/* line 418, style.scss */
 .portfolio-modal .modal-content img {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
+/* line 422, style.scss */
 .portfolio-modal .modal-content .item-details {
-    margin: 30px 0;
+  margin: 30px 0;
 }
 
+/* line 426, style.scss */
 .portfolio-modal .close-modal {
-    position: absolute;
-    top: 25px;
-    right: 25px;
-    width: 75px;
-    height: 75px;
-    background-color: transparent;
-    cursor: pointer;
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  width: 75px;
+  height: 75px;
+  background-color: transparent;
+  cursor: pointer;
 }
 
+/* line 436, style.scss */
 .portfolio-modal .close-modal:hover {
-    opacity: .3;
+  opacity: .3;
 }
 
+/* line 440, style.scss */
 .portfolio-modal .close-modal .lr {
-    z-index: 1051;
-    width: 1px;
-    height: 75px;
-    margin-left: 35px;
-    background-color: #2c3e50;
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
+  z-index: 1051;
+  width: 1px;
+  height: 75px;
+  margin-left: 35px;
+  background-color: #2c3e50;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
 }
 
+/* line 451, style.scss */
 .portfolio-modal .close-modal .lr .rl {
-    z-index: 1052;
-    width: 1px;
-    height: 75px;
-    background-color: #2c3e50;
-    -webkit-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
+  z-index: 1052;
+  width: 1px;
+  height: 75px;
+  background-color: #2c3e50;
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
 }
 
-.navbar-nav>.active>a {
-    background-color: #233140 !important;
+/* line 461, style.scss */
+.navbar-default .navbar-brand {
+  color: #FFFFFF;
 }
 
-// Fix modal mouse wheel issues
-// https://github.com/twbs/bootstrap/issues/16297 
+/* line 465, style.scss */
+.navbar-default .navbar-nav > li > a {
+  color: #FFFFFF !important;
+}
+
+/* line 469, style.scss */
+.navbar-nav > .active > a {
+  background-color: #233140 !important;
+}
+
+/* line 475, style.scss */
 .modal.fade.in {
-    transform: translateZ(0);
-    -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
 }
