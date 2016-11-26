@@ -31,6 +31,13 @@ $('body').scrollspy({
     target: '.navbar-fixed-top'
 })
 
+// Swap my photo on hover
+$('#brian-photo').hover(function() {
+  $('#brian-photo').attr('src', 'img/briandavidhall.pixelart.png').css('border-radius', '40px');
+}, function() {
+  $('#brian-photo').attr('src', 'img/profile.png');
+});
+
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
