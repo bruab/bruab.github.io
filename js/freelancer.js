@@ -38,6 +38,11 @@ $('#brian-photo').hover(function() {
   $('#brian-photo').attr('src', 'img/profile.png');
 });
 
+// Fire Google Analytics custom event on Contact Me form CTA click
+$('.btn-success').on('click touch', function() {
+  ga('send', 'event', ['Contact'], ['Clicked'], ['CTA']);
+});
+
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
