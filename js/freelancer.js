@@ -40,7 +40,7 @@ $('#brian-photo').hover(function() {
 
 // Fire Google Analytics custom event on Contact Me form CTA click
 $('.btn-success').on('click touch', function() {
-  ga('send', 'event', ['Contact'], ['Clicked'], ['CTA']);
+  ga('send', 'event', 'Contact', 'Clicked', 'CTA');
 });
 
 // Closes the Responsive Menu on Menu Item Click
