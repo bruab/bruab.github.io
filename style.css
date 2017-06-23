@@ -577,3 +577,19 @@ footer .footer-below {
   transform: translateZ(0);
   -webkit-transform: translateZ(0);
 }
+
+/* line 507, style.scss */
+.col-lg-4 > p {
+  text-align: center;
+}
+/* line 510, style.scss */
+.col-lg-4 > p:first-of-type {
+  padding-bottom: 18px;
+}
+
+@media (max-width: 354px) {
+  /* line 516, style.scss */
+  .small-text-on-mobile {
+    font-size: 2.5em;
+  }
+}

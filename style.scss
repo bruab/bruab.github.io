@@ -502,3 +502,19 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+// Center paragraph text
+.col-lg-4 > p {
+  text-align: center;
+
+  &:first-of-type {
+    padding-bottom: 18px;
+  }
+}
+
+// Handle wide block letters on mobile /cro page
+.small-text-on-mobile {
+  @media(max-width:354px) {
+    font-size: 2.5em;
+  }
+}
