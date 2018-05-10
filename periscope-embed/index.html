@@ -24,33 +24,36 @@
     <!-- Header -->
     <header>
       <div class="container">
-	<div class="row">
-	  <div class="col-lg-12">
-	    <div class="intro-text">
-	      <span class="name">Periscope POC</span>
-	    </div>
-	  </div>
-	</div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="intro-text">
+              <span class="name">Periscope POC</span>
+            </div>
+          </div>
+        </div>
       </div>
     </header>
 
     <!-- Report Section -->
     <section>
       <div class="container">
-	<div class="row">
-	  <div class="col-lg-12 text-center">
-            <iframe src="https://app.periscopedata.com/shared/fb7b1944-9a24-46b6-bfe1-48bcf736f370?embed=true" style="height:600px; width:100%">
+        <div class="row text-center">
+          <p>Supply campaign_id, api_key, start_date, end_date as query parameters</p>
+          <br />
+        </div>
+        <div class="row">
+          <div class="col-lg-12 text-center" id="iframe-container">
             </iframe>
-	  </div>
-	</div>
+          </div>
+        </div>
       </div>
     </section>
 
     <!-- Footer -->
     <footer class="text-center">
       <div class="footer-above">
-	<div class="container">
-	</div>
+        <div class="container">
+        </div>
       </div>
     </footer>
 
@@ -71,6 +74,53 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="/js/freelancer.js"></script>
+
+    <!-- iframe embed code -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsSHA/2.0.1/sha.js"></script>
+    <script>
+      (function addResults () {
+        // Require API key as query param
+        var apiKey = getParameterByName('api_key');
+        if (!apiKey) {
+          console.log('ERROR: Need an `api_key=____` query parameter');
+          return;
+        }
+        
+        // Get params
+        var campaign_id = getParameterByName('campaign_id');
+        var start_date = getParameterByName('start_date');
+        var end_date = getParameterByName('end_date');
+
+        // Build iframe URL
+        var options = { 
+          "embed": "v2",
+          "dashboard": "260565",
+          "daterange": {"start": start_date, "end": end_date},
+          "filters": [{"name": "campaign_id", "value": `${campaign_id}`}]
+        };
+        var data = encodeURI(JSON.stringify(options));
+        var path = `/api/embedded_dashboard?data=${data}`
+        var shaObj = new jsSHA('SHA-256', 'TEXT');
+        shaObj.setHMACKey(apiKey, 'TEXT');
+        shaObj.update(path);
+        var hmac = shaObj.getHMAC('HEX');
+        var iframeSrc = `<iframe src="https://app.periscopedata.com${path}&signature=${hmac}" style="height:600px; width:100%"></iframe>`;
+
+        // Append iframe
+        window.jQuery(`#iframe-container`).append(iframeSrc);
+
+        function getParameterByName(name, url) {
+          if (!url) url = window.location.href;
+          name = name.replace(/[\[\]]/g, "\\$&");
+          var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+            results = regex.exec(url);
+          if (!results) return null;
+          if (!results[2]) return '';
+          return decodeURIComponent(results[2].replace(/\+/g, " "));
+        }
+
+      })();
+    </script>
 
   </body>
 </html>
