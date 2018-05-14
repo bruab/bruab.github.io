@@ -79,6 +79,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jsSHA/2.0.1/sha.js"></script>
     <script>
       (function addResults () {
+        var PRO_CAMPAIGN_DASHBOARD_ID = '262280';
+
         // Require API key as query param
         var apiKey = getParameterByName('api_key');
         if (!apiKey) {
@@ -88,15 +90,19 @@
         
         // Get params
         var campaign_id = getParameterByName('campaign_id');
+        var customer_id = getParameterByName('customer_id');
         var start_date = getParameterByName('start_date');
         var end_date = getParameterByName('end_date');
 
         // Build iframe URL
         var options = { 
           "embed": "v2",
-          "dashboard": "260565",
+          "dashboard": PRO_CAMPAIGN_DASHBOARD_ID,
           "daterange": {"start": start_date, "end": end_date},
-          "filters": [{"name": "campaign_id", "value": `${campaign_id}`}]
+          "filters": [
+            {"name": "campaign_id", "value": `${campaign_id}`},
+            {"name": "customer_id", "value": `${customer_id}`}
+          ]
         };
         var data = encodeURI(JSON.stringify(options));
         var path = `/api/embedded_dashboard?data=${data}`
