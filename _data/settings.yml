@@ -1,0 +1,160 @@
+basic_settings:
+  site_title: Brian David Hall
+  site_tagline: Tips to help you optimize your agency and work life for growth, revenue, and joy
+  favicon_image: /images/favicon.png
+
+header_settings:
+  logo_image: 
+  logo_width: 200
+  overlay_opacity: 0.7
+
+menu_settings:
+  menu_items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Blog'
+      url: '/blog'
+    - title: 'Work'
+      url: '/projects/'
+    - title: 'Contact'
+      url: '/contact'
+
+grid_settings:
+  grid_spacing: 10
+
+contact_settings:
+  form_action: 'https://formspree.io/briandavidhall@gmail.com'
+  confirmation_url: '/thanks'
+  email_subject: 'Contact form submission from briandavidhall.com'
+  send_button_text: "Let's Chat"
+
+social_settings:
+  facebook_url: ''
+  twitter_url: ''
+  instagram_url: ''
+  snapchat_url: ''
+  youtube_url: ''
+  google-plus_url: ''
+  vimeo_url: ''
+  pinterest_url: ''
+  medium_url: ''
+  quora_url: ''
+  amazon_url: ''
+  apple_url: ''
+  android_url: ''
+  tumblr_url: ''
+  dribbble_url: ''
+  behance_url: ''
+  deviantart_url: ''
+  github_url: ''
+  reddit_url: ''
+  flickr_url: ''
+  etsy_url: ''
+  kickstarter_url: ''
+  soundcloud_url: ''
+  spotify_url: ''
+  bandcamp_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/briandavidhall/'
+
+color_settings:
+  background_color: '#ffffff'
+  background_alt_color: '#F5F7FA'
+  text_dark_color: '#2A2F36'
+  text_medium_color: '#6C7A89'
+  text_light_color: '#ABB7B7'
+  accent_color: '#A2DED0'
+  border_color: '#dddddd'
+  overlay_background_color: '#161B21'
+  overlay_text_color: '#ffffff'
+  error_color: '#D64541'
+
+font_settings:
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400|Muli:400,400i,600" rel="stylesheet">'
+  title_font: '"Merriweather", sans-serif'
+  body_font: '"Muli", sans-serif'
+  regular_weight: 400
+  bold_weight: 600
+  site_title:
+    small_size: 25
+    medium_size: 30
+    large_size: 35
+    weight: 400
+    letter_spacing: 0
+  site_tagline:
+    small_size: 16
+    medium_size: 17
+    large_size: 18
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.5
+  menu:
+    small_size: 30
+    medium_size: 17
+    large_size: 18
+    weight: 400
+    letter_spacing: 0
+  h1:
+    small_size: 25
+    medium_size: 35
+    large_size: 45
+    weight: 400
+    letter_spacing: -0.02
+    line_height: 1.2
+  h2:
+    small_size: 25
+    medium_size: 35
+    large_size: 45
+    weight: 400
+    letter_spacing: -0.02
+    line_height: 1.2
+  h3:
+    small_size: 22
+    medium_size: 25
+    large_size: 30
+    weight: 400
+    letter_spacing: -0.02
+    line_height: 1.3
+  h4:
+    small_size: 17
+    medium_size: 22
+    large_size: 22
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.6
+  h5:
+    small_size: 17
+    medium_size: 20
+    large_size: 20
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.6
+  h6:
+    small_size: 17
+    medium_size: 20
+    large_size: 20
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.6
+  p:
+    small_size: 16
+    medium_size: 18
+    large_size: 20
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.6
+  blockquote:
+    small_size: 25
+    medium_size: 35
+    large_size: 45
+    weight: 400
+    letter_spacing: -0.02
+    line_height: 1.6
+  buttons:
+    weight: 600
+    letter_spacing: 0
+
+advanced_settings:
+  analytics_code: "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-124070892-1\"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-124070892-1'); </script> "
+  custom_styles: ""
+  header_js: ""
+  footer_js: ""
