@@ -1,35 +1,28 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: About
+subtitle: 
+description: 
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Features
+You work hard. You care about people, especially your clients. And you know it's possible to serve your existing clients better, and serve more of them - maybe lots more. But time is short, chaos intrudes, projects spin out of control and the hours you should spend growing your business and expanding your skillset end up being eaten up by getting things done.
 
-Journal is packed with powerful features to showcase your work:
+This blog is about agency growth - moving past the chaos and fire drills, toward sustainable systems that allow you to step out of the day to day, focus on business development, and know that your clients are delighted and your team is supported.
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+I started my career as a teacher. I love it; so much leverage. Show someone how to do something they previously didn't know how to do and boom 💥, you've changed the world.
 
-## Get Index
+TODO teaching image
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
+After years of teaching, I gravitated to software engineering and marketing. I've launched tons of A/B tests for companies you've totally heard of before. Some were pretty valuable. TODO LINK TO I WROTE A $9MM POST
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+These days I mostly focus on training. Could you offer A/B test and conversion optimization as a value add to your existing clients? Mayyyyybe ... wanna talk about it?
+
+From website optimization I moved to process optimization - helping agencies deliver better results with fewer resources, making sure training and onboarding prepare employees and contractors to excel at their jobs, salvaging projects and client relationships that are in the danger zone.
+
+This is the most satisfying work I can imagine. Giving agency owners the time and freedom to grow their businesses, while giving their employees more structure, clearer direction, and the ability to focus on using their talents to bring value to clients instead of spending their days mired in confusion ... this is what gets me out of bed in the morning.
+
+Since I have a technical background, I typically start off embedded in the organization - cranking out websites, analytics, campaigns, learning how the agency works from the inside out. Learning everybody's strengths and struggles, so we can collaborate to get the most from the strengths, and address the struggles head on.
+
+If your agency is stuck, if your projects are stalled, if you're spending more time smoothing over client relationships than you spend building new ones, let's talk.
