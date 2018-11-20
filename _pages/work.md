@@ -29,7 +29,7 @@ If you're like most agency owners, you have a handful of high performing workers
 
 The answer is not sending more emails, holding more meetings, or hiring more contractors. You can build an onboarding, training, and accountability system that will help your existing team focus on what matters while ensuring that future hires are a good fit _before_ you risk client satisfaction by blindly trusting them.
 
-It starts with a simple, bullet-point description of responsibilities. (Do your currently-struggling team members have one of those?) It ends with a bulletproof hiring process and a self-sustaining system of documentation and training that allows your new hires to onboard themselves as your agency grows. While you're out selling, or developing new services. Or sleeping. You're allowed to sleep.
+It starts with a simple, bullet-point description of responsibilities. (Do your currently-struggling team members have one of those?) It ends with a bulletproof hiring process and a self-sustaining system of documentation and training that allows your new hires to _onboard themselves_ as your agency grows. While you're out selling, or developing new services. Or sleeping. You're allowed to sleep.
 
 TODO <img>
 
