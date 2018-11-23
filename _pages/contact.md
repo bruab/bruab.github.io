@@ -1,10 +1,10 @@
 ---
 title: Contact
-subtitle: Journal comes with a built-in contact form, that's free and easy to set up.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+subtitle: Love/hate this site? Wanna talk about your agency? Found a typo? Please reach out.
+description: Contact form
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
 {% include contact-form.html %}
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+Thanks! I'll get back to you within 24 hours.

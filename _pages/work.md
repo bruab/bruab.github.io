@@ -11,15 +11,14 @@ featured_image: /images/demo/demo-portrait.jpg
 
 Increase throughput. Deliver more valuable work with fewer resources. It sounds boring af but it's not, it's really not. What it's _really_ about is getting time back.
 
-Take the time you spend chasing down project details in message threads, apologizing to clients about missed deadlines, repeating directions for the fifth time, reminding people about pending work ... take that time back.
+Take the time you spend chasing down project details in message threads, apologizing to clients about missed deadlines, repeating instructions for the fifth time, reminding people about pending work ... take that time back.
 
 Spend it on business development, training, mentorship. Take a day off. Spin up a new passion project. Grow your business, and your skill set. Bring comfort and order to everyone in your organization. Empower your people to do the best work of their careers.
 
 See, not boring at all.
 
-TODO CTA
+Wanna 🤓 out on process optimization? [Let's chat](/contact.html).
 
-TODO <img>
 
 ## Remote team training and onboarding
 
@@ -29,11 +28,9 @@ If you're like most agency owners, you have a handful of high performing workers
 
 The answer is not sending more emails, holding more meetings, or hiring more contractors. You can build an onboarding, training, and accountability system that will help your existing team focus on what matters while ensuring that future hires are a good fit _before_ you risk client satisfaction by blindly trusting them.
 
-It starts with a simple, bullet-point description of responsibilities. (Do your currently-struggling team members have one of those?) It ends with a bulletproof hiring process and a self-sustaining system of documentation and training that allows your new hires to _onboard themselves_ as your agency grows. While you're out selling, or developing new services. Or sleeping. You're allowed to sleep.
+It starts with a simple, bullet-point description of responsibilities. (Do your currently-struggling team members have one of those?) It ends with a bulletproof hiring process and a self-sustaining system of docs and training that allows your new hires to _onboard themselves_ as your agency grows. While you're out selling, or developing new services. Or sleeping. You're allowed to sleep.
 
-TODO <img>
-
-TODO CTA
+Need a hand wrangling your remote team? [Give me a shout](/contact.html).
 
 
 ## CRO consulting
@@ -42,7 +39,5 @@ Learn how to price and sell Conversion Rate Optimization services. Identify the 
 
 I can help with CRO sales, strategy, test development, and results analysis - but you probably don't need as much help as you think. Let's look at your existing clients to see who's a good fit, and talk to your team to see who the burgeoning conversion optimization gurus are. We'll set them up for success, and set them loose 🚀.
 
-TODO <img>
-
-TODO CTA
+Are you thinking CRO would be valuable to some of your clients? [Let's find out](/contact.html).
 
