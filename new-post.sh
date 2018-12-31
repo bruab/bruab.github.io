@@ -11,8 +11,7 @@ FILENAME="$DATE-$SLUG.md"
 echo $FILENAME
 
 # Create file, complete some of the front matter
-echo "
----
+echo "---
 title: '$1'
 date: $DATE 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
