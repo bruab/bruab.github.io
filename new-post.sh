@@ -1,7 +1,14 @@
 #!/bin/bash
 
-# Make month/day strings
+
+# Make date string
 DATE=$(date +"%Y-%m-%d")
+
+# Make filename
+SLUG=`echo "$1" | iconv -t ascii//TRANSLIT | sed -E s/[~\^]+//g | sed -E s/[^a-zA-Z0-9]+/-/g | sed -E s/^-+\|-+$//g | tr A-Z a-z`
+FILENAME="$DATE-$SLUG.md"
+
+echo $FILENAME
 
 # Create file, complete some of the front matter
 echo "
@@ -16,7 +23,7 @@ excerpt: TODO
 
 ## TODO
 
-TODO" > _drafts/$DATE.md
+TODO" > _drafts/$FILENAME
 
 # Open file for editing
-vim _drafts/$DATE.md
+vim _drafts/$FILENAME
