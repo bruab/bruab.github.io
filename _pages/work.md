@@ -2,7 +2,7 @@
 title: Work
 subtitle: 
 description: 
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/brian-portrait-1.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)

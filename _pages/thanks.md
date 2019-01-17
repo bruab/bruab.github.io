@@ -2,7 +2,7 @@
 title: Thank you
 subtitle: Got it! Your message was sent.
 description: Thank you page
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/brian-portrait-1.jpg
 ---
 
 ![](/images/demo/about.jpg)
