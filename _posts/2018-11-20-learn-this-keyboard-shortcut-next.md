@@ -1,11 +1,9 @@
 ---
 title: 'Learn This Keyboard Shortcut Next (OSX Edition)'
 date: 2018-11-20 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
-excerpt: TODO EXCERPT
+featured_image: '/images/typing.jpg'
+excerpt: "Save enough half seconds and you achieve immortality."
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 I was on a call using Google Meet with someone who was new to the platform. As he worked to find his way around the interface, I mentioned "You can use ⌘-E to toggle your camera, and ⌘-D to mute/unmute." And he said "Yeah, or with the mental energy it would take to learn that, I could just click."
 
@@ -173,3 +171,7 @@ If you copy formatted text, then paste it and get a hot mess, this is your short
 ---
 
 If you're a regular user of all the above ☝️ shortcuts, congratulations. At this point you probably seek out and learn app-specific shortcuts on your own. What are your favorites? <a href="/contact">Get in touch</a>; you can probably teach me a thing or two.
+
+---
+
+Photo by [rawpixel on Unsplash](https://unsplash.com/@rawpixel)

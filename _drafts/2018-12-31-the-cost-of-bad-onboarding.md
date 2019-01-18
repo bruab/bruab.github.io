@@ -1,11 +1,9 @@
 ---
-title: 'The True Cost of Bad Onboarding'
+title: 'The Cost of Bad Onboarding'
 date: 2018-12-31 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/lost.jpg'
 excerpt: First impressions are everything.
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 Creating an efficient and enjoyable onboarding experience in your agency is probably pretty far down on your TODO list. It's not the most exciting task, and it's _hard_ - as the founder or owner, you were literally never onboarded. How are you supposed to know what it's like, or what it _should_ be like? 
 
@@ -48,7 +46,10 @@ If you hire people and leave them to fend for themselves, highly motivated worke
 If your current onboarding program is "no onboarding program," you can make _drastic_ improvements just by investing a couple hours.
 
 - _Write a welcome letter._ In a friendly, conversational tone, welcome your next hire (and everyone after them) to the team. Share a bit about your team culture. Link to your Mission, Vision, and Values if they're documented elsewhere. Link to a company directory with suggestions for people and roles to connect with during the first week.
-
 - _Make a (public) checklist._ You won't remember everything, but something is _much, much_ better than nothing here. List the tools, accounts, and resources that each team member needs in order to get work done. Note who has the authority to set up these accounts. When you bring someone new onto the team, duplicate this checklist and _let them own it_. They'll know what they need, and who can get it for them. 
 
 As a final item on the checklist, have them book a face to face meeting with you. You can talk about culture, set some goals, and set them on their way. And then get back to work ;)
+
+---
+
+Photo by [Fredrick Kearney Jr on Unsplash](https://unsplash.com/@fredasem)

@@ -1,11 +1,9 @@
 ---
 title: "Don't launch on Friday"
 date: 2019-01-17 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
-excerpt: TODO
+featured_image: '/images/launch.jpg'
+excerpt: "You'll break the internet."
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 Whether it's the new campaign, a site redesign, or a slick new piece of functionality, you should never launch on a Friday. Let's look briefly at a couple of reasons why, and discuss what you should do instead.
 
@@ -28,3 +26,7 @@ There are a couple of high value actions you can take on a Friday - since you're
 First, if you're not going to lunch today you have plenty of time to thoroughly QA the campaign - which is probably something that you'd rush through in your hurry to get it live today. Slow down, take your time, check multiple devices, check edge cases and functionality that you haven't tried yet to make sure that it works. 
 
 Next, do a root cause analysis on the scheduled launch of this campaign. Why didn't it happen on Tuesday? Use [5 Whys](https://en.wikipedia.org/wiki/5_Whys) to find an organizational or procedural change that will ensure smoother launches moving forward. Sync with your team on what happened, and what's changing. Congratulate yourselves on your thorough launch preprarations, go home and relax ... and come in Monday, refreshed, ready to press the button.
+
+---
+
+Photo by [Mariusz Słoński on Unsplash](https://unsplash.com/@mariuszslonski).

@@ -1,11 +1,9 @@
 ---
 title: 'Beware the Literal Genie'
 date: 2018-11-23 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
-excerpt: TODO
+featured_image: '/images/lamps.jpg'
+excerpt: "Careful what you wish for ..."
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 If you're spending a lot of time on rework for technical work, sending back seemingly straightforward tasks for multiple rounds of revision, you may be falling victim to the Literal Genie. You're not alone; this problem is rampant, and causes thousands of hours of wasted effort every month.
 
@@ -49,3 +47,7 @@ Here are the steps to take the next time you make a technical request:
 - Why is the task important? Share a brief note about this. Don't assume it's obvious to anyone other than you!
 
 One last note - recall the data analyst who asked you to share the client's questions. _This is a good thing._ As much as possible, you should encourage questions, pushback, and requests for clarification on technical tasks. You'll know you're in a good place when your team is asking questions like "What's driving this request?" or "Why does it need to be a plugin?" That's what it looks like when the Literal Genie is banished, and your team is delivering full solutions rather than incremental hacks.
+
+---
+
+Photo by [Louis Hansel on Unsplash](https://unsplash.com/@louishansel)
