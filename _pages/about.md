@@ -2,10 +2,8 @@
 title: About
 subtitle: 
 description: 
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/brian-portrait-2.jpg
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 Oh wow, thanks for clicking through 😊. Before I talk about myself, let me share my assumptions about who you are:
 
@@ -15,7 +13,7 @@ If that's you, I'm sympathetic. And I think I can help.
 
 I started my career as a teacher. I love it; so much leverage. Show someone how to do something they previously didn't know how to do and boom 💥, you've changed the world.
 
-TODO teaching image
+<div class="image-wrap"><img src="/images/teaching.jpg" alt="Teaching in Korea" title="So here's why checklists are so important ... "></div>
 
 After years of teaching, I gravitated to software engineering and marketing. I've launched tons of A/B tests and Conversion Rate Optimization campaigns for companies you've totally heard of before. Some were [pretty valuable](https://medium.com/@briandavidhall/i-wrote-a-9-million-line-of-code-92cd6c78416c).
 

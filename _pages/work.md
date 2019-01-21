@@ -1,11 +1,9 @@
 ---
 title: Work
-subtitle: 
-description: 
+subtitle: (Here's what I do)
+description: ""
 featured_image: /images/brian-portrait-1.jpg
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 ## Process optimization
 

@@ -12,37 +12,10 @@ featured_image: /images/brian-portrait-1.jpg
 
 <p>You can read more about my background <a href="/about">here</a>, or get in touch by <a href="/contact">filling out a form</a>.</p>
 
-<p>If none of that sounds interesting, you can scroll down to see a picture of my dog.</p>
+<p>If none of that sounds interesting, you can scroll down to see a GIF of my dog.</p>
 
 <p>Thanks for stopping by ☮️</p>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<div style="margin-top: 500px"></div>
 
-<img src="/images/robocop-gets-shot.gif">
+<p><img src="/images/robocop-gets-shot.gif"></p>
