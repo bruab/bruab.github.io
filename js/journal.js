@@ -101,58 +101,62 @@
 
 	// On clicking a link
 
-	$(document).on('click', 'a', function (event){
+	if ( $('body').hasClass('ajax-loading') ) {
 
-		// Don't follow link
-		event.preventDefault();
+		$(document).on('click', 'a', function (event){
 
-		// Get the link target
-		var thisTarget = $(this).attr('href');
+			// Don't follow link
+			event.preventDefault();
 
-		// If link is external
-		if ( thisTarget.indexOf('http') >= 0 ) {
+			// Get the link target
+			var thisTarget = $(this).attr('href');
 
-			// Go to the external link
-			window.open(thisTarget, '_blank');
+			// If link is external
+			if ( thisTarget.indexOf('http') >= 0 ) {
 
-		}
+				// Go to the external link
+				window.open(thisTarget, '_blank');
 
-		// If we don't want to use ajax
-		else if ( $(this).hasClass('js-no-ajax') ) {
+			}
 
-			// Use the given link
-			window.location = thisTarget;
-		}
+			// If we don't want to use ajax
+			else if ( $(this).hasClass('js-no-ajax') ) {
 
-		// if it's a contact modal
-		else if ( $(this).hasClass('js-contact') ) {
+				// Use the given link
+				window.location = thisTarget;
+			}
 
-			// Open contact modal
-			$('.modal--contact').addClass('modal--on');
-		}
+			// if it's a contact modal
+			else if ( $(this).hasClass('js-contact') ) {
 
-		else if ( $(this).hasClass('js-signup') ) {
-			// Open signup modal
-			$('.modal--signup').addClass('modal--on');
-		}
+				// Open contact modal
+				$('.modal--contact').addClass('modal--on');
+			}
 
-		// If link is handled by some JS action – e.g. fluidbox
-		else if ( $(this).is('.gallery__item__link') ) {
-			
-			// Let JS handle it
-		}
+			else if ( $(this).hasClass('js-signup') ) {
+				// Open signup modal
+				$('.modal--signup').addClass('modal--on');
+			}
 
-		// If link is internal
-		else {
+			// If link is handled by some JS action – e.g. fluidbox
+			else if ( $(this).is('.gallery__item__link') ) {
+				
+				// Let JS handle it
+			}
 
-			// Change navTarget
-			navTarget = thisTarget;
-			
-			// Switch the URL via History
-			History.pushState(null, docTitle, thisTarget);
-		}
+			// If link is internal
+			else {
 
-	});
+				// Change navTarget
+				navTarget = thisTarget;
+				
+				// Switch the URL via History
+				History.pushState(null, docTitle, thisTarget);
+			}
+
+		});
+
+	}
 
 
 
