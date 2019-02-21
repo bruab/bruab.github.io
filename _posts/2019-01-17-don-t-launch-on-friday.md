@@ -11,6 +11,8 @@ Whether it's the new campaign, a site redesign, or a slick new piece of function
 
 No matter how much time you put into development and planning, there's always a risk to something will go wrong with *any* new campaign. Launching on a Friday compounds this risk because it's likely no one will be watching over the weekend. So if something's broken, it'll be broken for three days before you catch it - instead of just a few hours. 
 
+<img src="/images/come-in-on-saturday.jpg" width="70%">
+
 I've often heard people say that they're willing to check in over the weekend for the sake of being able to launch now. This is mildly horrifying - while maybe once a year there's a legitimate emergency that justifies round-the-clock effort, these situations are rare. As an organization, seeking to address poor planning, slow delivery, or unreasonable timelines by deciding to work seven days a week is *not* a sustainable answer! Which leads to a related reason not to launch:
 
 ## You're in a hurry
@@ -25,7 +27,7 @@ There are a couple of high value actions you can take on a Friday - since you're
 
 First, if you're not going to lunch today you have plenty of time to thoroughly QA the campaign - which is probably something that you'd rush through in your hurry to get it live today. Slow down, take your time, check multiple devices, check edge cases and functionality that you haven't tried yet to make sure that it works. 
 
-Next, do a root cause analysis on the scheduled launch of this campaign. Why didn't it happen on Tuesday? Use [5 Whys](https://en.wikipedia.org/wiki/5_Whys) to find an organizational or procedural change that will ensure smoother launches moving forward. Sync with your team on what happened, and what's changing. Congratulate yourselves on your thorough launch preprarations, go home and relax ... and come in Monday, refreshed, ready to press the button.
+Next, do a root cause analysis on the scheduled launch of this campaign. Why didn't it happen on Tuesday? Use [5 Whys](https://en.wikipedia.org/wiki/5_Whys) to find an organizational or procedural change that will ensure smoother launches moving forward. Sync with your team on what happened, and what's changing. Congratulate yourselves on your thorough launch preprarations, go home and relax ... and come in Monday, refreshed, ready to press the 'Go' button.
 
 ---
 
