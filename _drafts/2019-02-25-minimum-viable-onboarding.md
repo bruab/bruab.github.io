@@ -43,6 +43,8 @@ How do you do this, though? First, be sure to call out the expectation in your w
 
 Here's an example. Suppose in your Tools doc you mention "we encourage the addition of custom emoji to Slack - the most recently added was :mindblown:". In the onboarding checklist, add a step right after "Read Tools doc" that says "Add a custom emoji to Slack." After _that_, add a step that says "Update Tools doc with most recently added emoji."
 
+<img src="/images/onboarding-checklist.png" width="70%">
+
 This lets your new hire know that yes, she _really is expected to edit these docs_. Now that the floodgates are open, as a penultimate step in the checklist, ask her to (a) fix any typos she came across, and (b) _deliberately introduce_ a new typo in the docs.
 
 The _final_ step should be to book a 1:1 with you - during which you'll admire her taste in emoji, and ask her where the typo is.
