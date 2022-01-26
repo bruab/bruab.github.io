@@ -1,6 +1,0 @@
-/* Swap out header image on mobile */
-@media screen and (max-width: 1023px) {
-  body > header > div.header-image.header-image--on {
-    background-image: url(/images/brian-portrait-wide.jpg) !important;
-  }
-}

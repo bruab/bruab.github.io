@@ -1,2 +1,2 @@
-.sass-cache/*
-_site/*
+.DS_STORE
+node_modules
