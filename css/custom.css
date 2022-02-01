@@ -1,0 +1,26 @@
+body {
+  width: 100%;
+}
+
+a.hamburger {
+  font-size: 32px;
+}
+
+a.primary-cta {
+  line-height: normal;
+  font-size: 36px;
+  padding: 14px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+marquee.promo-marquee {
+  margin-top: 30px;
+}
+
+@media (max-width: 767px) {
+  body {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
