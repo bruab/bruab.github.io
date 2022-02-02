@@ -24,3 +24,21 @@ marquee.promo-marquee {
     padding-right: 0;
   }
 }
+
+@media (max-width: 979px) {
+  #main-menu-left li a {
+    color: #0f0;
+  }
+}
+
+.well .nav-list li a {
+  margin-top: 14px;
+  margin-bottom: 14px;
+  font-size: 20px;
+}
+
+@media (max-width: 979px) {
+  .well .nav-list li a {
+    font-size: 16px;
+  }
+}
