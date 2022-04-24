@@ -17,4 +17,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.8.0"
   spec.add_runtime_dependency "rouge", "~> 3.23.0"
   spec.add_runtime_dependency "webrick", "~> 1.7"
+  spec.add_runtime_dependency "jemoji", "~> 0.12"
 end
