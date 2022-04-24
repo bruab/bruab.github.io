@@ -1,2 +1,5 @@
-.DS_STORE
-node_modules
+*.gem
+.bundle
+.jekyll-cache
+.sass-cache
+_site
