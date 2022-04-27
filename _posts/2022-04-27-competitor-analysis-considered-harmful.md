@@ -20,4 +20,4 @@ When you assess your competition, do it from your _customer's_ perspective.
 
 Your goal is not to learn what the other team is doing so you can emulate it. Your goal is to learn what the other team is doing, so you better understand the _experience of a potential customer who is comparison shopping._
 
-And the one thing a comparison shopper will appreciate ... is finding something authentic and unique.
+And the one thing a comparison shopper will appreciate ... is finding something authentic and unique. Which you will never create if you copy the competition.
