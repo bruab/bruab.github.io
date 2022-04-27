@@ -15,6 +15,7 @@ post_path="${repo_dir}/_posts/${post_date}-${title_slug}.md"
 
 IFS= read -r -d '' front_matter << EOF
 ---
+layout: post
 title: "${*}"
 date: ${post_date}
 tags: []
