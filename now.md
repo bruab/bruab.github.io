@@ -11,6 +11,6 @@ Here's what I'm working on at the moment*
 1. Working with _yet another_ all star team to firm up their experimentation skills and processes across a few clients
 1. Working on a children's book
 1. Learning about civic technology and wikipolls
-1. Growing peanuts, turmeric, ~spinach~, tomatoes, peppers, pansies, and a persimmon tree
+1. Growing peanuts, turmeric, ~~spinach~~, tomatoes, peppers, pansies, and a persimmon tree
 
 _*Last updated 5/29/22_
