@@ -4,13 +4,28 @@ title: Now
 ---
 Here's what I'm working on at the moment*
 
-1. Writing a book about websites
-1. Making and sharing videos, and sharing about making and sharing videos [with others who also make and share videos](https://explodedmedia.com/){:target="_blank"}{:rel="noopener noreferrer"}
-1. Working with an all star team to ramp up experimentation at a B2B SaaS for finance/accounting teams
-1. Working with _another_ all star team to create an experimentation roadmap for a video conferencing company
-1. Working with _yet another_ all star team to firm up their experimentation skills and processes across a few clients
-1. Working on a children's book
-1. Learning about civic technology and wikipolls
-1. Growing peanuts, turmeric, ~~spinach~~, tomatoes, peppers, pansies, and a persimmon tree
+## Creative stuff
 
-_*Last updated 5/29/22_
+- Writing a [book about websites](https://helpthisbook.com/briandavidhall/your-website-sucks){:target="_blank"}{:rel="noopener noreferrer"}
+- Making videos on [TikTok](https://www.tiktok.com/@bdh.wtf){:target="_blank"}{:rel="noopener noreferrer"} and [YouTube](https://www.youtube.com/channel/UCi7Tdfq87gF7atPHzGRb99A){:target="_blank"}{:rel="noopener noreferrer"}
+- Building a [smol community](https://explodedmedia.com/){:target="_blank"}{:rel="noopener noreferrer"} focused on making and sharing short videos 
+- Working on a children's book
+- Resurrecting an idea from a failed NaNoWriMo attempt in 2016
+
+## Human stuff
+
+- Learning about civic technology and wikipolls
+- Researching local business owners' challenges for the [local NAACP](https://www.facebook.com/BarbourCountyNAACP/){:target="_blank"}{:rel="noopener noreferrer"}
+- Growing tomatoes, peppers, pansies, and a persimmon tree
+
+## Client stuff
+
+Doing conversion strategy work for clients in the following spaces:
+
+- VoIP 📞
+- Online events 🎫
+- Accounts payable automation 🧾
+- Devops observability & incident response 🧑‍🚒
+- Silencers 🔫
+
+_*Last updated 6/18/22_
