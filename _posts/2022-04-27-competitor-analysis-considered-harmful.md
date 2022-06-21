@@ -6,11 +6,11 @@ permalink: /competitor-analysis/
 tags: []
 ---
 
-It's a good idea to be aware of what your competitors are up to, but you must be extremely careful.
+It's a good idea to be aware of what your competitors are up to, but _please be careful_.
 
-In the absence of evidence to the contrary, you should assume that their strategy is misguided, ineffective, and doomed to fail spectacularly.
+Unless you know otherwise, you should assume that their strategy is misguided, ineffective, and doomed to fail.
 
-This is to protect you from the temptation - driven by fear - to copy whatever they're up to.
+Assuming this will protect you from the temptation to copy whatever they're up to.
 
 Giving in to this temptation can only lead to mediocrity and homogeneity. 
 
@@ -20,4 +20,6 @@ When you assess your competition, do it from your _customer's_ perspective.
 
 Your goal is not to learn what the other team is doing so you can emulate it. Your goal is to learn what the other team is doing, so you better understand the _experience of a potential customer who is comparison shopping._
 
-And the one thing a comparison shopper will appreciate ... is finding something authentic and unique. Which you will never create if you copy the competition.
+And the one thing a comparison shopper will appreciate ... is finding something authentic and unique. 
+
+Which you will never create if you copy the competition.
