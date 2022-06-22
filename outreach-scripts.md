@@ -7,7 +7,7 @@ Here are some templates that have worked for me and my friends.
 
 ## Brand sponsorship request
 
-Here's the starting point for a message [Latasha James](https://latashajames.com/) used to secure a BRAND sponsorship deal.
+Here's the starting point for a message [Latasha James](https://latashajames.com/) used to secure a brand sponsorship deal.
 
 ---
 
@@ -36,3 +36,18 @@ A few things to note:
 - She asks for a specific contribution (a `BRAND` license)
 - She's clear about what she's offering (course audience, YouTube stream, video podcast read, dedicated lesson) and provides supporting details
 - She closes with a straightforward "yes or no" question
+
+## "Just-followed" invitation to chat in DMs
+
+Here's a simple script for reaching out to someone who just followed you on social media.
+
+---
+
+_Hi `NAME`, thanks for following! Glad you're here. If you ever have questions or want to chat about `TOPIC`, just let me know._
+
+---
+
+A couple things to note:
+
+- This works because it's short, sincere, and personalized
+- The message should be _timely_ - spamming all your followers with a similar invitation wouldn't make any sense. Send this within a day or two after someone follows you
