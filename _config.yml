@@ -3,7 +3,7 @@ author: Brian David Hall
 url: https://briandavidhall.com # root address of the site
 description: > # description of the site (multiple lines allowed)
 
-permalink: /:slug
+permalink: /:slug/
 
 favicon: "./logo.png" # relative path to site's favicon
 
