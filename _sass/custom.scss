@@ -1,4 +1,5 @@
 .btn {
+  border: none;
   background-color: rgba(116, 192, 252, 0.3);
   border-radius: 3px;
   box-sizing: border-box;
@@ -19,4 +20,17 @@
   touch-action: manipulation;
   vertical-align: baseline;
   white-space: nowrap;
+}
+
+input[type="email"] {
+  background: #f2f2f2;
+  border: none;
+  padding: 12px;
+  border-radius: 3px;
+  font-size: 14px;
+  width: 250px;
+}
+
+p img {
+  width: 80%;
 }

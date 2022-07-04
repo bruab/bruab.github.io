@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: swhi
 title: '"Appallingly bad"'
 date: 2022-03-08
 permalink: /appallingly-bad/

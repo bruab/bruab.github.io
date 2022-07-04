@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: swhi
 title: "One of 300 billion"
 date: 2021-12-27
 permalink: /one-of-300-billion/
