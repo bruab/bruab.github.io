@@ -2,14 +2,6 @@
 layout: post
 title: "Scheduling a call is not productivity"
 date: "2021-08-26"
-categories: 
-  - "evergreen-notes"
-  - "journal"
-tags: 
-  - "meetings"
-  - "organizational-politics"
-  - "prioritization"
-  - "productivity"
 ---
 
 It sure _feels_ like it, though. Doesn't it?

@@ -2,12 +2,6 @@
 layout: post
 title: "An A/B test can't tell you why"
 date: "2019-05-17"
-categories: 
-  - "newsletter"
-tags: 
-  - "contrarian"
-  - "ctas"
-  - "uncertainty"
 ---
 
 [Yesterday](/you-dont-need-a-hypothesis/) we looked at why hypotheses might be unnecessary, or at the very least insufficient, to run a successful testing program. But there's one type of hypothesis that will actively damage your program - the hypothesis with "why."
