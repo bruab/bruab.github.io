@@ -10,9 +10,7 @@ You're making a decision. You're communicating with others. You're committing to
 
 But choosing "let's jump on a call" as a next step is actually an act of desperation.
 
-It's a way of saying:
-
-> This project is important enough to be worth several people's time and attention. Yet there are no clear next steps right now, and I'm going to forget about it until an arbitrary calendar event pops up.
+It's a way of saying "this project is important enough to be worth several people's time and attention. Yet there are no clear next steps right now, and I'm going to forget about it until an arbitrary calendar event pops up."
 
 There's a contradiction there. If the project isn't all that important, don't make people go to a meeting about it. If it _is_ important, give it a little more time and attention in the moment.
 
@@ -32,5 +30,4 @@ Okay, is there a way you can ask them without scheduling a meeting? Or better ye
 
 Imagine _several_ amazing meetings have taken place, some brilliant work has been done, and this particular project has been a success. What _had to happen_ to get you there?
 
-If you can work backwards from success to your current state, [focusing only on the necessary steps](https://thomasbcox.com/ToL/2016/06/18/use-assumptive-goal-setting/){:target="_blank"}{:rel="noopener noreferrer"}, the next action will become clear. So, what has to happen next? It's likely to be more concrete than "have a chat."
-
+If you can work backwards from success to your current state, [focusing only on the necessary steps](https://thomasbcox.com/ToL/2016/06/18/use-assumptive-goal-setting/), the next action will become clear. So, what has to happen next? It's likely to be more concrete than "have a chat."

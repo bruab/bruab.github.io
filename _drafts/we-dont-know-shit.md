@@ -35,6 +35,16 @@ tags: []
     - top cited retracted papers ❤️ https://retractionwatch.com/the-retraction-watch-leaderboard/top-10-most-highly-cited-retracted-papers/
 
 
+A few more examples:
+
+- [Most published research findings are false](https://www.researchgate.net/publication/7686290_Why_Most_Published_Research_Findings_Are_False)
+- The stuff we hear on the news is mostly wrong, or anyway [we mostly believe it's wrong](https://www.pewresearch.org/politics/2009/09/13/press-accuracy-rating-hits-two-decade-low/)
+- Most social programs produce [small or no effects, or negative effects](https://web.archive.org/web/20170428214214/http://blog.givewell.org/2008/12/18/guest-post-proven-programs-are-the-exception-not-the-rule/)
+- [Money can't buy happiness](https://www.pnas.org/content/107/38/16489). [Or maybe it can](https://www.bloomberg.com/news/articles/2021-01-25/can-money-buy-you-happiness-yes-but-there-s-a-catch)
+- [Less sleep means a shorter life span](https://en.wikipedia.org/wiki/Why_We_Sleep). Or, [maybe not](https://guzey.com/books/why-we-sleep/#no-shorter-sleep-does-not-imply-shorter-life-span)
+- Our most sophisticated method of measuring pandemic preparedness [didn't predict shit](https://www.thinkglobalhealth.org/article/all-bets-are-measuring-pandemic-preparedness)
+- If you put a frog in a pot of water and slowly turn up the heat, it'll boil alive. (J/K [not really](https://www.theatlantic.com/technology/archive/2006/09/the-boiled-frog-myth-stop-the-lying-now/7446/))
+
 
 ---
 
@@ -42,3 +52,4 @@ tags: []
 
 - stories are effective apparently
 - curiosity is a strong force
+

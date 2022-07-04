@@ -4,7 +4,7 @@ title: "An A/B test can't tell you why"
 date: "2019-05-17"
 ---
 
-[Yesterday](/you-dont-need-a-hypothesis/) we looked at why hypotheses might be unnecessary, or at the very least insufficient, to run a successful testing program. But there's one type of hypothesis that will actively damage your program - the hypothesis with "why."
+[Yesterday](https://briandavidhall.com/you-dont-need-a-hypothesis/) we looked at why hypotheses might be unnecessary, or at the very least insufficient, to run a successful testing program. But there's one type of hypothesis that will actively damage your program - the hypothesis with "why."
 
 Here's a useless hypothesis:
 
@@ -20,7 +20,7 @@ _You can't know this!_ Sorry, not sorry. Let's look at why you can't know, and w
 
 Take a look at these 3 hero images from an email signup page used in Obama's 2018 presidential campaign:
 
-![Three images of Barack Obama](/images/three-obamas.png)
+![Three images of Barack Obama](/images/Screen-Shot-2019-05-17-at-8.51.03-AM.png)
 
 (You can read more about the Obama experiment on [Optimizely's blog](https://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/).)
 

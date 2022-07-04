@@ -16,7 +16,7 @@ Let's give credit for what's done right here: you've stated what you're changing
 
 ### What's missing from A/B test hypotheses
 
-The above hypothesis is light on details. How long do you plan to run the test, and how long _must_ you run it to get reliable results? Stating these conditions explicitly will protect your team from the [peeking problem](/the-peeking-problem/).
+The above hypothesis is light on details. How long do you plan to run the test, and how long _must_ you run it to get reliable results? Stating these conditions explicitly will protect your team from the [peeking problem](https://briandavidhall.com/the-peeking-problem/).
 
 Intimately tied up with your test duration is the Minimum Detectable Effect. When we say "increase conversions," how much of an increase can we actually measure? Your test duration should be based on expected visitor count (along with the length of your business cycle), so you should be able to calculate the MDE in advance. Be sure to state it - if the MDE is 70%, you might have to be more ambitious than turning a button blue.
 
