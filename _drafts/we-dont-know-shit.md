@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We don't know shit"
+title: "[draft] We don't know shit"
 date: 2022-06-30
 permalink: /we-dont-know-shit/
 tags: []
