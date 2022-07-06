@@ -4,18 +4,26 @@ title: Someone will hate it
 permalink: /someone-will-hate-it/
 ---
 
-A book-in-progress that collects stories of great artists, performers, scholars and scientists being absolutely dragged by the public, or their critics, or their peers.
+Do you ever worry that if you share your work, somebody will mock and criticize you?
 
-From Mozard to Marie Curie, nobody escapes doubt and criticism.
+Well, you _should_ worry. Because they will.
 
-If they had to go through it, so will you.
+The good news is that this puts you in some excellent company. Think Mozart, Marie Curie, Martin Luther King.
 
-If they survived it, so can you.
+You can't avoid criticism, but you can remind yourself that it doesn't make you less amazing.
 
-Each chapter is a quick inoculation against impostor syndrome, designed to help you share what you're working on, even if it's scary to do so.
+And this newsletter can remind you, too.
 
-Sign up here and I'll send you new chapters as I write them 👇
+Sign up and I'll send you a short post every month or so. 
+
+Each post tells the story of an _undeniable genius_ being _absolutely dragged_ by critics, or peers, or random strangers, or all of the above.
+
+I hope it will help you overcome your worry.
+
+Sign up here:
 
 {% include swhi-subscribe-form.html %}
 
-![images of people looking disgusted](/images/swhi.webp)
+Cancel anytime.
+
+(It's okay if you hate my newsletter. It doesn't make me less amazing :)
