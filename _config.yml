@@ -5,7 +5,7 @@ description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug/
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "./favicon.ico"
 
 twitter:
     username: briandavidhall # update or delete this
