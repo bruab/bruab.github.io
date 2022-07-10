@@ -14,9 +14,9 @@ Here's what I'm working on at the moment*
 
 ## Human stuff
 
-- Learning about civic technology and wikipolls
+- Learning about how food coops work
 - Researching local business owners' challenges for the [local NAACP](https://www.facebook.com/BarbourCountyNAACP/){:target="_blank"}{:rel="noopener noreferrer"}
-- Growing tomatoes, peppers, pansies, and a persimmon tree
+- Growing tomatoes, peppers, and a persimmon tree
 
 ## Client stuff
 
@@ -28,4 +28,4 @@ Doing conversion strategy work for clients in the following spaces:
 - Devops observability & incident response 🧑‍🚒
 - Silencers 🔫
 
-_*Last updated 6/18/22_
+_*Last updated 7/10/22_
