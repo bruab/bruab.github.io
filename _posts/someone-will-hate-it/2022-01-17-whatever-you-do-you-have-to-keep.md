@@ -12,7 +12,7 @@ Despite the fame and awards, despite all the politicians who invoke his name, de
 
 Here’s how a Birmingham News cartoonist depicted him in the early 1960s:
 
-[![cartoon of MLK standing among ruins of a city. "I plan to lead another nonviolent march tomorrow"](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/51ead999-dcef-49d8-a89c-382b7d568324_536x800.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F51ead999-dcef-49d8-a89c-382b7d568324_536x800.jpeg)
+![cartoon of MLK standing among ruins of a city. "I plan to lead another nonviolent march tomorrow"](/images/mlk-comic.jpg){:style="max-width:400px;"}
 
 When he marched in Chicago, he met Confederate flag-waving counterprotesters. Someone threw a rock and hit him in the head.
 

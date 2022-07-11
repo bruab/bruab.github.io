@@ -8,7 +8,7 @@ categories: ["Someone will hate it"]
 
 You’ve probably heard of Socrates, whether as a result of the dialectic teaching method named after him, or the outsized influence he’s had on philosophers from Plato to present day, or possibly his pivotal role in _Bill & Ted’s Excellent Adventure_.
 
-[![bill and ted yelling "so-crates!"](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8a4c0168-2627-40c6-a60e-8b317f5ed631_460x300.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a4c0168-2627-40c6-a60e-8b317f5ed631_460x300.jpeg)
+![bill and ted yelling "so-crates!"](/images/so-crates.jpg){:style="max-width:400px;"}
 
 Despite achieving such massive influence, by all accounts he was a relatively humble guy. He didn’t publish any writings, or have many possessions, and he was vocal about proclaiming his own ignorance every chance he got.
 

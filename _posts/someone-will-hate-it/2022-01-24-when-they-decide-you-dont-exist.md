@@ -12,7 +12,7 @@ You’re a renowned midwife who attended the world’s first medical school, and
 
 You look like this (sorry):
 
-[![image of trota of salerno](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d33517b7-88d6-41a4-84cc-ee5d26c7bdcd_220x321.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd33517b7-88d6-41a4-84cc-ee5d26c7bdcd_220x321.jpeg)
+![image of trota of salerno](/images/trota-of-salerno.jpg){:style="max-width:400px;"}
 
 You’ve also written a handy little volume of cures and remedies, and given it the jaunty title _De curis mulierum_ ("On Treatments for Women").
 

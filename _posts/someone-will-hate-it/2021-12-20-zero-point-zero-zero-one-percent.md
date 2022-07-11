@@ -26,7 +26,7 @@ If we just consider his five most commercially successful paintings, we’re loo
 
 That’s just paintings! We're not even taking into account the hundreds of [five star reviews](https://www.amazon.com/s?k=van+gogh+phone+case&rh=n%3A2335752011%2Cp_72%3A2491149011&dc&qid=1640007492&rnid=2491147011&ref=sr_nr_p_72_1) of iPhone cases based on his work.
 
-[!["Starry Night" iPhone case](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1afd3172-4e55-4145-ba18-45bb3eccefff_479x865.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1afd3172-4e55-4145-ba18-45bb3eccefff_479x865.jpeg)“⭐️⭐️⭐️⭐️⭐️ Love the print” - Teek, Amazon.com shopper
+!["Starry Night" iPhone case](/images/van-gogh-iphone-case.jpg){:style="max-width:400px;"}
 
 All this means that during his lifetime, Vincent Van Gogh only realized approximately _one thousandth of one percent_ of the value of his work.
 

@@ -10,7 +10,7 @@ Whether you get fired up about 19th century English literature or not, there’s
 
 _Pride and Prejudice_ has sold over 20 million copies, spawned multiple film adaptations, and made its way onto many a high school reading list.
 
-[![Pride and Prejudice book cover](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4e0196fc-2da8-4a56-85e6-6b8f84174727_296x500.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4e0196fc-2da8-4a56-85e6-6b8f84174727_296x500.jpeg)
+![Pride and Prejudice book cover](/images/pride-and-prejudice.webp){:style="max-width:300px"}
 
 _Emma_ is #9 on _The Guardian_’s [100 greatest novels of all time](https://www.theguardian.com/books/2003/oct/12/features.fiction).
 
@@ -37,7 +37,3 @@ It might even make some guy so angry he wants to dig up your shin bone.
 Doesn’t matter, don’t let it hold you back. In the dispassionate words of Jane Austen:
 
 > Angry people are not always wise.
-
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-{% endfor %}

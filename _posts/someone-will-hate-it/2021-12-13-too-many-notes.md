@@ -8,7 +8,7 @@ categories: ["Someone will hate it"]
 
 Imagine being so gifted that at only six years old, you suit up in your fanciest wig and breeches to perform for the imperial court in Vienna.
 
-[![The six-year-old Mozart in a gala dress given to him in 1762 at the Imperial Court in Vienna.](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b987a1bc-4308-41a8-81d4-e52f35cd20e1_600x800.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb987a1bc-4308-41a8-81d4-e52f35cd20e1_600x800.jpeg)
+![The six-year-old Mozart in a gala dress given to him in 1762 at the Imperial Court in Vienna.](/images/mozart.jpg){:style="max-width:400px;"}
 
 Imagine creating work so timeless and revered that centuries later, researchers conclude that listening to it can actually [make people smarter](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1281386/).
 

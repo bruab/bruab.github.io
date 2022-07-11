@@ -14,7 +14,7 @@ So when _Ace Ventura: Pet Detective_ came out in 1994, it was their first opport
 
 > … appallingly bad movie … Jim Carrey is so obnoxious … so obnoxious … shockingly bad.
 
-[![screenshot of gene siskel saying "shockingly bad"](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/81877c78-ed38-47ad-b9c7-17e5d5b85162_840x572.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81877c78-ed38-47ad-b9c7-17e5d5b85162_840x572.png)
+![screenshot of gene siskel saying "shockingly bad"](/images/gene-siskel.png){:style="max-width:400px;"}
 
 Not a great reception for the actor’s first starring role in a film.
 

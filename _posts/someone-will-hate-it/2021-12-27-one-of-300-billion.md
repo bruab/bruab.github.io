@@ -18,13 +18,13 @@ And of course I’m sharing this message via Substack, one of hundreds of busine
 
 But _massively successful_ has never meant _immune to criticism_.
 
-[![screenshot of articles and books about eliminating email](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8c5ba0a9-abf4-4783-9514-92cc4e135859_797x648.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c5ba0a9-abf4-4783-9514-92cc4e135859_797x648.png)
+![screenshot of articles and books about eliminating email](/images/email-criticism.png){:style="max-width:500px;"}
 
 Email is so popular that it’s spawned a mini-industry of researchers, writers, and productivity consultants dedicated to helping us manage it, or drop it entirely.
 
 It’s big enough that positioning yourself as the antithesis to email is a way to build a $25 billion business.
 
-[![screenshot of Slack website - slack replaces email inside your company](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f89bbfba-d77a-43c1-b6ec-dd56b9c4012c_664x346.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff89bbfba-d77a-43c1-b6ec-dd56b9c4012c_664x346.png)
+![screenshot of Slack website - slack replaces email inside your company](/images/slack-heading.png){:style="max-width:400px;"}
 
 Whether or not you end up creating a tool used by half the humans on earth, I assume you’re at work at _something_. And whether or not it invites enough opposition to support entire consulting careers, you’re at least bound to have some hobbyist critics. This is your weekly reminder to pay them no mind - just click Delete and keep going.
 

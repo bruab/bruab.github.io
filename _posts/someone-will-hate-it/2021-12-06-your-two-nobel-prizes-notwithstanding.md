@@ -10,7 +10,7 @@ Marie Curie and her husband, Pierre, were awarded the 1903 Nobel Prize for Physi
 
 She continued this research, eventually isolating the element radium, and in 1911 earned _another_ Nobel Prize for that work.
 
-[![Photo of Marie Curie in her lab](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6ab26e19-e032-4c7d-a046-7800b076eae7_1312x1600.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ab26e19-e032-4c7d-a046-7800b076eae7_1312x1600.jpeg)
+![Photo of Marie Curie in her lab](/images/marie-curie.jpg){:style="max-width: 400px;"}
 
 Now we know that artists and writers face criticism because the value of their work is subjective. But scientific research is different. Right?
 
@@ -24,7 +24,7 @@ Extracting a previously-unknown compound from mined uraninite? Highly unlikely.
 
 And the efforts to isolate this so-called radium from so-called radium chloride through electrolysis? Humbug! Sounds like alchemy. It’ll never work.
 
-[![Picture of Lord Kelvin reading](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a876a3ff-d87f-4867-9329-820d4141ed62_570x340.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa876a3ff-d87f-4867-9329-820d4141ed62_570x340.jpeg)_“Radium, schmradium! Poppycock!”_
+![Picture of Lord Kelvin reading](/images/lord-kelvin.jpg){:style="max-width: 400px;"}
 
 Kelvin was a vocal opponent of the validity of Curie’s initial discovery and her efforts to isolate the element. He went to his grave refusing to believe in the existence of radium.
 
