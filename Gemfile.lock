@@ -96,6 +96,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll-seo-tag
   moonwalk!
 
 BUNDLED WITH
