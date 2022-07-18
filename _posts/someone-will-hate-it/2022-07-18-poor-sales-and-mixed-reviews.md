@@ -8,7 +8,7 @@ categories: ["Someone will hate it"]
 
 Singer-songwriter Nick Drake released three albums before dying from an overdose of antidepressants. He was 26.
 
-One contributing factor to his depression was the fact that his music career just wasn't going well.
+One contributing factor to his depression was the fact that his music career just ... wasn't taking off.
 
 The sales weren't there - despite being signed to a major record label, none of his albums sold more than 5,000 copies.
 
