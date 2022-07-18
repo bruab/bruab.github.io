@@ -7,7 +7,7 @@ Here's what I'm working on at the moment*
 ## Creative stuff
 
 - Writing a [book about websites](https://helpthisbook.com/briandavidhall/your-website-sucks){:target="_blank"}{:rel="noopener noreferrer"}
-- Making videos on [TikTok](https://www.tiktok.com/@bdh.wtf){:target="_blank"}{:rel="noopener noreferrer"} and [YouTube](https://www.youtube.com/channel/UCi7Tdfq87gF7atPHzGRb99A){:target="_blank"}{:rel="noopener noreferrer"}
+- Making videos on [TikTok](https://www.tiktok.com/@bdh.wtf){:target="_blank"}{:rel="noopener noreferrer"}, [Instagram](https://www.instagram.com/websitesucks/){:target="_blank"}{:rel="noopener noreferrer"}, and [YouTube](https://www.youtube.com/channel/UCi7Tdfq87gF7atPHzGRb99A){:target="_blank"}{:rel="noopener noreferrer"}
 - Building a [smol community](https://explodedmedia.com/){:target="_blank"}{:rel="noopener noreferrer"} focused on making and sharing short videos 
 - Working on a children's book
 - Resurrecting an idea from a failed NaNoWriMo attempt in 2016
@@ -28,4 +28,4 @@ Doing conversion strategy work for clients in the following spaces:
 - Devops observability & incident response 🧑‍🚒
 - Silencers 🔫
 
-_*Last updated 7/10/22_
+_*Last updated 7/18/22_
