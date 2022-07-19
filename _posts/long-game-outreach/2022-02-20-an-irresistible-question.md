@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lgo
 title: "An irresistible question"
 date: "2022-02-20"
 ---

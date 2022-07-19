@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lgo
 title: "Long game outreach manifesto"
 date: "2022-01-24"
 ---
