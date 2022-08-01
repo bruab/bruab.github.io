@@ -2,7 +2,7 @@
 layout: post
 title: "We don't know shit - a manifesto"
 permalink: /we-dont-know-shit/
-image: /images/derp.png
+image: /images/derp.jpeg
 ---
 
 Take a moment - just a moment - to ponder the _literal infinity_ of topics we don't understand.
