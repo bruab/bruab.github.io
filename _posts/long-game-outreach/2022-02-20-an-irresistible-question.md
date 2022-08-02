@@ -2,13 +2,14 @@
 layout: lgo
 title: "An irresistible question"
 date: "2022-02-20"
+categories: ["Long game outreach"]
 ---
 
-As you build your approach to connecting with a dream client, or potential collaborator, or whoever, the most powerful thing you can have up your sleeve is an irresistible question.
+As you build your approach to connecting with a dream client, or potential collaborator, or whoever, the most powerful tool you can wield is an irresistible question.
 
 You still have to reach them, and get their attention for long enough to ask, and they need to have the trust and free time required to respond.
 
-But asking an _extremely intriguing_ question will do wonders for the odds that you hear back from them.
+But asking an _extremely intriguing_ question will do wonders for increasing the odds of getting a response.
 
 What makes a question irresistible?
 

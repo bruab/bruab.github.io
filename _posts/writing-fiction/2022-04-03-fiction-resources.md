@@ -2,7 +2,7 @@
 layout: post
 title: "Fiction resources"
 date: 2022-04-03
-tags: []
+categories: ["Writing fiction"]
 ---
 
 Here are some links you might find handy:

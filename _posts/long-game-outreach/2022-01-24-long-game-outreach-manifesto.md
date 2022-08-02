@@ -2,6 +2,7 @@
 layout: lgo
 title: "Long game outreach manifesto"
 date: "2022-01-24"
+categories: ["Long game outreach"]
 ---
 
 If you sell services, you should be doing outreach. You need new clients, they have to come from somewhere, and contacting potential prospects directly is the quickest way to find them.
