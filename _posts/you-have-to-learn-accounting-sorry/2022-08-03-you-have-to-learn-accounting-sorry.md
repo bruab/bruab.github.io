@@ -24,7 +24,7 @@ Don't get me wrong - it's a great idea to get professional help for tax preparat
 
 You have to learn accounting, because there's a good chance that the accountant you hire will be unavailable when you need them:
 
-![gif of tweets from people whose accountants have ghosted them](/images/accountant-ghosted.gif)
+![screenshot of tweets from people whose accountants have ghosted them](/images/accountant-ghosted.png)
 
 You have to learn accounting, because even with a reliable professional by your side, there will be a communication gap until you learn to speak their language.
 
