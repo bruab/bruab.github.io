@@ -4,6 +4,7 @@ title: "You have to learn accounting (sorry)"
 date: 2022-08-03
 permalink: /you-have-to-learn-accounting-sorry/
 categories: ["You have to learn accounting (sorry)"]
+image: /images/accountant-ghosted.png
 ---
 
 When you started freelancing, you became your own marketing and sales department.
