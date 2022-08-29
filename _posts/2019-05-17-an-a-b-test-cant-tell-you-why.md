@@ -20,7 +20,7 @@ _You can't know this!_ Sorry, not sorry. Let's look at why you can't know, and w
 
 Take a look at these 3 hero images from an email signup page used in Obama's 2018 presidential campaign:
 
-![Three images of Barack Obama](/images/Screen-Shot-2019-05-17-at-8.51.03-AM.png)
+![Three images of Barack Obama](/images/three-obama.png)
 
 (You can read more about the Obama experiment on [Optimizely's blog](https://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/).)
 
