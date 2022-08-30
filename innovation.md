@@ -18,4 +18,4 @@ This type of InNovAtioN ensures that the US does not join the [30+ nations with 
 ## Tractors! 🚜
 John Deere [no longer sells tractors](https://www.wired.com/2015/04/dmca-ownership-john-deere/){:target="_blank"}{:rel="noopener noreferrer"} - they sell a license to operate a tractor, which they can revoke, remotely, at any time.
 
-This InNovAtioN serves their shareholders by enabling them to charge the same prices they've always charged (a tractor can cost more than half a million dollars), but retain ownership over their entire inventory.
+This InNovAtioN serves their shareholders by enabling John Deere to charge the same prices they've always charged (a tractor can cost more than half a million dollars), but retain ownership over their entire inventory.
