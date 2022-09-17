@@ -12,6 +12,7 @@ Here are some links you might find handy:
 - Brandon Sanderson's [YouTube channel](https://www.youtube.com/user/BrandSanderson){:target="_blank"}{:rel="noopener noreferrer"}
 - [Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit){:target="_blank"}{:rel="noopener noreferrer"} by Dan Harmon
 - [The Secrets of Story Structure](https://www.helpingwritersbecomeauthors.com/secrets-story-structure-complete-series/){:target="_blank"}{:rel="noopener noreferrer"}
+- [Money-Saving Guide for Authors and Writers](https://couponfollow.com/research/money-saving-guide-authors-writers){:target="_blank"}{:rel="noopener noreferrer"} - info and links to resources on the process of working with an editor, finding an agent, self publishing, writers' conventions and organizations
 
 ## Places to share writing
 - [WattPad](https://www.wattpad.com/){:target="_blank"}{:rel="noopener noreferrer"}
