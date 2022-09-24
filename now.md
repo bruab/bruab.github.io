@@ -8,7 +8,7 @@ Here's what I'm working on at the moment*
 
 - Building a [website strategy community](https://web.yourwebsitesucks.fyi/){:target="_blank"}{:rel="noopener noreferrer"}
 - Writing a [book about websites](https://helpthisbook.com/briandavidhall/your-website-sucks){:target="_blank"}{:rel="noopener noreferrer"}
-- Making videos on [TikTok](https://www.tiktok.com/@bdh.wtf){:target="_blank"}{:rel="noopener noreferrer"}, [Instagram](https://www.instagram.com/websitesucks/){:target="_blank"}{:rel="noopener noreferrer"}, and [YouTube](https://www.youtube.com/channel/UCi7Tdfq87gF7atPHzGRb99A){:target="_blank"}{:rel="noopener noreferrer"}
+- Making videos on [TikTok](https://www.tiktok.com/@bdh.wtf){:target="_blank"}{:rel="noopener noreferrer"} and [YouTube](https://www.youtube.com/channel/UCi7Tdfq87gF7atPHzGRb99A){:target="_blank"}{:rel="noopener noreferrer"}
 - Writing occasional newsletters about [haters](/someone-will-hate-it), [epistemology](/we-dont-know-shit), [outreach](/long-game-outreach), and [accounting for freelancers](/you-have-to-learn-accounting-sorry)
 - Building a [smol community](https://explodedmedia.com/){:target="_blank"}{:rel="noopener noreferrer"} focused on making and sharing short videos 
 - Resurrecting an idea from a failed NaNoWriMo attempt in 2016
@@ -17,7 +17,7 @@ Here's what I'm working on at the moment*
 
 - Learning about how food coops work
 - Researching local business owners' challenges for the [local NAACP](https://www.facebook.com/BarbourCountyNAACP/){:target="_blank"}{:rel="noopener noreferrer"}
-- Growing tomatoes, peppers, radishes, corn, beans, onions, cabbage, and a persimmon tree
+- Growing tomatoes, peppers, radishes, corn, onions, cabbage, and a persimmon tree
 
 ## Client stuff
 
@@ -26,4 +26,4 @@ Doing conversion strategy work for clients in the following spaces:
 - Accounts payable automation 🧾
 - Stocks 📈
 
-_*Last updated 9/11/22_
+_*Last updated 9/24/22_
