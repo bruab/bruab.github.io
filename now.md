@@ -12,6 +12,7 @@ Here's what I'm working on at the moment*
 - Writing occasional newsletters about [haters](/someone-will-hate-it), [epistemology](/we-dont-know-shit), [outreach](/long-game-outreach), and [accounting for freelancers](/you-have-to-learn-accounting-sorry)
 - Building a [smol community](https://explodedmedia.com/){:target="_blank"}{:rel="noopener noreferrer"} focused on making and sharing short videos 
 - Resurrecting an idea from a failed NaNoWriMo attempt in 2016
+- Building a B2B optimization knowledge base
 
 ## Human stuff
 
@@ -24,6 +25,5 @@ Here's what I'm working on at the moment*
 Doing conversion strategy work for clients in the following spaces:
 
 - Accounts payable automation 🧾
-- Stocks 📈
 
-_*Last updated 9/24/22_
+_*Last updated 9/30/22_
