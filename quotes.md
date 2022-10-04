@@ -29,4 +29,6 @@ _Jean-Paul Sartre, [The Words](https://archive.org/details/words00jean/page/250/
 
 ---
 
+> The goal of the future is full unemployment, so we can play.
 
+_Arthur C. Clarke, [Los Angeles Free Press interview](https://quoteinvestigator.com/2018/11/11/goal/)_
