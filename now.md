@@ -13,12 +13,13 @@ Here's what I'm working on at the moment*
 - Building a [smol community](https://explodedmedia.com/){:target="_blank"}{:rel="noopener noreferrer"} focused on making and sharing short videos 
 - Resurrecting an idea from a failed NaNoWriMo attempt in 2016
 - Building a B2B optimization knowledge base
+- Making a course on building a minimum viable developer portfolio site
 
 ## Human stuff
 
 - Learning about how food coops work
 - Researching local business owners' challenges for the [local NAACP](https://www.facebook.com/BarbourCountyNAACP/){:target="_blank"}{:rel="noopener noreferrer"}
-- Growing tomatoes, peppers, radishes, corn, onions, cabbage, and a persimmon tree
+- Growing cabbage and a persimmon tree
 
 ## Client stuff
 
@@ -26,4 +27,4 @@ Doing conversion strategy work for clients in the following spaces:
 
 - Accounts payable automation 🧾
 
-_*Last updated 9/30/22_
+_*Last updated 10/10/22_
