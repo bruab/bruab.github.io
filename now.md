@@ -13,7 +13,7 @@ Here's what I'm working on at the moment*
 - Building a [smol community](https://explodedmedia.com/){:target="_blank"}{:rel="noopener noreferrer"} focused on making and sharing short videos 
 - Resurrecting an idea from a failed NaNoWriMo attempt in 2016
 - Building a B2B optimization knowledge base
-- Making a course on building a minimum viable developer portfolio site
+- Making a course on building a minimum viable freelancer website
 
 ## Human stuff
 
