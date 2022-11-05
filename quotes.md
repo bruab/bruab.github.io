@@ -5,6 +5,12 @@ title: Quotes
 
 Here are some quotes I like. (If you like one too, feel free to [tell me about it](/contact).)
 
+> The torch of doubt and chaos, this is what the sage steers by.
+
+_Zhuangzi_
+
+---
+
 > The measure of a society is how it treats its weakest members.
 
 _Unknown_
