@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: acc
 title: "You have to care about AGI and QBI"
 date: 2022-10-31
 permalink: /you-have-to-care-about-agi-and-qbi/
