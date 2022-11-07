@@ -11,21 +11,21 @@ It's humbling.
 
 It's also why science is so amazing and inspiring, because it slowly chips away at that vast unknown.
 
-Is faster-than-light travel possible? [We don't know](https://earthsky.org/space/warp-drive-chances-of-faster-than-light-space-travel/){:target="_blank"}{:rel="noopener noreferrer"} - maybe?
+Is faster-than-light travel possible? [We don't know](https://earthsky.org/space/warp-drive-chances-of-faster-than-light-space-travel/) - maybe?
 
-How did prehistoric humankind organize itself socially? [Hard to say](https://en.wikipedia.org/wiki/The_Dawn_of_Everything){:target="_blank"}{:rel="noopener noreferrer"}, but we seem to be figuring it out.
+How did prehistoric humankind organize itself socially? [Hard to say](https://en.wikipedia.org/wiki/The_Dawn_of_Everything), but we seem to be figuring it out.
 
 The real and pressing problem, though, is all the stuff we _think_ we know, but are wrong about.
 
 **Sleep is important, right?**
 
-It sure is. We've [learned](https://en.wikipedia.org/wiki/Why_We_Sleep){:target="_blank"}{:rel="noopener noreferrer"} that the less you sleep, the shorter your life. In fact, sleeping fewer than 6 hours a night actually doubles your risk of cancer! 
+It sure is. We've [learned](https://en.wikipedia.org/wiki/Why_We_Sleep) that the less you sleep, the shorter your life. In fact, sleeping fewer than 6 hours a night actually doubles your risk of cancer! 
 
-You [may](https://psychology.berkeley.edu/news/sleep-scientist-warns-against-walking-through-life-underslept-state){:target="_blank"}{:rel="noopener noreferrer"} [have](https://www.npr.org/transcripts/964209001){:target="_blank"}{:rel="noopener noreferrer"} [heard](https://www.theguardian.com/lifeandstyle/2017/sep/24/why-lack-of-sleep-health-worst-enemy-matthew-walker-why-we-sleep){:target="_blank"}{:rel="noopener noreferrer"} this, but [it is wrong](https://guzey.com/books/why-we-sleep/){:target="_blank"}{:rel="noopener noreferrer"}.
+You [may](https://psychology.berkeley.edu/news/sleep-scientist-warns-against-walking-through-life-underslept-state) [have](https://www.npr.org/transcripts/964209001) [heard](https://www.theguardian.com/lifeandstyle/2017/sep/24/why-lack-of-sleep-health-worst-enemy-matthew-walker-why-we-sleep) this, but [it is wrong](https://guzey.com/books/why-we-sleep/).
 
-We know that kids who exhibit willpower at an early age - say, by resisting the temptation to scarf down a marshmallow - will perform better in school. Except, [no](https://journals.sagepub.com/doi/abs/10.1177/0956797618761661){:target="_blank"}{:rel="noopener noreferrer"}.
+We know that kids who exhibit willpower at an early age - say, by resisting the temptation to scarf down a marshmallow - will perform better in school. Except, [no](https://journals.sagepub.com/doi/abs/10.1177/0956797618761661).
 
-That's frustrating, but at least the billions of dollars we spend on Alzheimer's research each year has brought us closer to understanding its causes, right? Oh, [wait](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease){:target="_blank"}{:rel="noopener noreferrer"}.
+That's frustrating, but at least the billions of dollars we spend on Alzheimer's research each year has brought us closer to understanding its causes, right? Oh, [wait](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease).
 
 Once you start looking for them, these retractions, rebuttals, and oopsies pop up all over the place. But they rarely get the same press that the original findings receive.
 
@@ -47,7 +47,7 @@ What habits have we developed, what choices do we make based on questionable out
 
 A portion of our taxes going to waste on spurious research is a shame, but most of us can live with that. (We'll have to.)
 
-But if you're basing your diet on junk data gathered with a [questionable methodology](https://carcinisation.com/2020/12/11/survey-chicken/){:target="_blank"}{:rel="noopener noreferrer"}, it's possible you can have better health and tastier meals by evaluating that decision.
+But if you're basing your diet on junk data gathered with a [questionable methodology](https://carcinisation.com/2020/12/11/survey-chicken/), it's possible you can have better health and tastier meals by evaluating that decision.
 
 I don't have all the answers (I don't know shit, either) - but I'll be figuring things out, in public.
 

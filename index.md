@@ -8,7 +8,7 @@ I write [books](/books) and make [courses](/courses) - you should check one out.
 
 ---
 
-In the past I've worked as a bartender, a kindergarten teacher, a research assistant, and a software engineer. (Full list [here](https://twitter.com/briandavidhall/status/1462188663425703938){:target="_blank"}{:rel="noopener noreferrer"}.)
+n the past I've worked as a bartender, a kindergarten teacher, a research assistant, and a software engineer. (Full list [here](https://twitter.com/briandavidhall/status/1462188663425703938).)
 
 These days I do conversion optimization and analytics strategy.
 

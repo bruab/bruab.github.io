@@ -6,8 +6,8 @@ Here's what I'm working on at the moment*
 
 ## Creative stuff
 
-- Building a [website strategy community](https://web.yourwebsitesucks.fyi/){:target="_blank"}{:rel="noopener noreferrer"}
-- Writing a [book about websites](https://helpthisbook.com/briandavidhall/your-website-sucks){:target="_blank"}{:rel="noopener noreferrer"}
+- Building a [website strategy community](https://web.yourwebsitesucks.fyi/)
+- Writing a [book about websites](https://helpthisbook.com/briandavidhall/your-website-sucks)
 - Writing occasional newsletters about [haters](/someone-will-hate-it), [epistemology](/we-dont-know-shit), [outreach](/long-game-outreach), and [accounting for freelancers](/you-have-to-learn-accounting-sorry)
 - Resurrecting an idea from a failed NaNoWriMo attempt in 2016
 - Building a B2B optimization knowledge base

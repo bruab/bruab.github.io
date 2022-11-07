@@ -36,7 +36,7 @@ It's not based on your taxable income - QBI is essentially your net business pro
 
 In particular, QBI doesn't include wage income or your "reasonable compensation" from your S-corporation, if you have one.
 
-All the rules are [here](https://www.irs.gov/instructions/i8995){:target="_blank"}{:rel="noopener noreferrer"}.
+All the rules are [here](https://www.irs.gov/instructions/i8995).
 
 The main things to find out for your business are:
 

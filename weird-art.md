@@ -11,25 +11,25 @@ I don't have a rigorous definition for this term - it's a broad category.
 
 Weird art sometimes takes the form of unnecessary flourishes on functional creations.
 
-Whether you're building a [church](https://sagradafamilia.org/en/){:target="_blank"}{:rel="noopener noreferrer"}:
+Whether you're building a [church](https://sagradafamilia.org/en/):
 ![sagrada familia church](/images/sagrada-familia.jpeg)
 
-... or some [apartments](https://www.instagram.com/freddy_mamani_silvestre/){:target="_blank"}{:rel="noopener noreferrer"}:
+... or some [apartments](https://www.instagram.com/freddy_mamani_silvestre/):
 ![buildings by freedy mamani silvestre](/images/freddy-mamani-silvestre-buildings.jpeg)
 
-... or just tricking out your [tuk tuk](https://en.wikipedia.org/wiki/Auto_rickshaw){:target="_blank"}{:rel="noopener noreferrer"}:
+... or just tricking out your [tuk tuk](https://en.wikipedia.org/wiki/Auto_rickshaw):
 ![photo of tuk tuk with flowers](/images/tuk-tuk.png)
 
-My wife makes [weird art](https://www.othersideceramics.com/){:target="_blank"}{:rel="noopener noreferrer"}:
+My wife makes [weird art](https://www.othersideceramics.com/):
 ![opossum bank](/images/opossum-bank.jpeg)
 
-Weird art can be performative. Like [sculpting topiaries](https://en.wikipedia.org/wiki/Pearl_Fryar){:target="_blank"}{:rel="noopener noreferrer"}:
+Weird art can be performative. Like [sculpting topiaries](https://en.wikipedia.org/wiki/Pearl_Fryar):
 ![pearl fryar with topiaries](/images/pearl-fryar.jpeg)
 
-... or [screaming at a river](https://youtu.be/tKHo4-5digs){:target="_blank"}{:rel="noopener noreferrer"}:
+... or [screaming at a river](https://youtu.be/tKHo4-5digs):
 ![bae il dong](/images/bae-il-dong.png)
 
-... or entering a [duck in a marathon](https://twitter.com/frozenaesthetic/status/1522467208584179713){:target="_blank"}{:rel="noopener noreferrer"}:
+... or entering a [duck in a marathon](https://twitter.com/frozenaesthetic/status/1522467208584179713):
 ![duck at marathon finish line](/images/marathon-duck.png)
 
 The important thing about weird art is not its beauty, or originality, or value on the market.

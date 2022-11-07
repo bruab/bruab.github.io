@@ -5,7 +5,7 @@ date: 2022-02-18
 categories: ["Writing fiction"]
 ---
 
-I've been writing a story over in [Snowflake Fiction Pomodoros](https://lu.ma/fiction-pomodoros){:target="_blank"}{:rel="noopener noreferrer"}, and after working with placeholder names for a while I decided it was time to commit. No more dialogue like
+I've been writing a story over in [Snowflake Fiction Pomodoros](https://lu.ma/fiction-pomodoros), and after working with placeholder names for a while I decided it was time to commit. No more dialogue like
 
 "... and when was the last time you talked to `$SupportingCharacter?`"
 

@@ -9,8 +9,8 @@ I bet you can make six figures doing ...
 
 * * *
 
-For a list of All The Niches, check out my amazing guide, [Niche List 2021](https://gum.co/niche-list){:target="_blank"}{:rel="noopener noreferrer"}.
+For a list of All The Niches, check out my amazing guide, [Niche List 2021](https://gum.co/niche-list).
 
-[![niche list book cover](/images/niche-list.png)](https://gum.co/niche-list){:target="_blank"}{:rel="noopener noreferrer"}
+[![niche list book cover](/images/niche-list.png)](https://gum.co/niche-list)
 
 $3 on Gumroad.

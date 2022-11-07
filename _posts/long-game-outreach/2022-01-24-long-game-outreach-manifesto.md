@@ -41,6 +41,6 @@ Then you should take time to reach out - with careful deliberation and genuine i
 
 You can do this alone, but it's easier to go with friends.
 
-That's what the [Long game outreach club](https://lu.ma/long-game){:target="_blank"}{:rel="noopener noreferrer"} is for. We meet weekly for brief discussion and a 30-minute working session. 
+That's what the [Long game outreach club](https://lu.ma/long-game) is for. We meet weekly for brief discussion and a 30-minute working session. 
 
 We do outreach. It's not spammy. It works. Come join!
