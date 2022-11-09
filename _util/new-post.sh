@@ -18,11 +18,13 @@ def init_argparse() -> argparse.ArgumentParser:
         description="Print or check SHA1 (160-bit) checksums."
     )
     parser.add_argument(
-        "-t", "--title"
+        "-t", "--title",
+        required=True
     )
     parser.add_argument(
         "-n", "--newsletter",
-        choices=["swhi", "wedk", "lgo", "acc"]
+        choices=["swhi", "wedk", "lgo", "acc"],
+        required=True
     )
     return parser
 
