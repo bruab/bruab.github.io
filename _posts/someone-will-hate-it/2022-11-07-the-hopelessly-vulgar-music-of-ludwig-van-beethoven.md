@@ -14,9 +14,10 @@ We're talking about a guy who started composing at age 12, and kept at it after 
 
 And we're talking about the _Ninth_ Symphony - the one that provided the soundtrack to the [Tiananmen Square protests](https://billmoyers.com/content/tiananmen-square-massacre-how-beethoven-rallied-the-students/) and [Abraham Lincoln's funeral](https://emergingcivilwar.com/2015/04/29/music-in-tribute-to-lincoln/). The one that [Helen Keller raved about](https://www.classicfm.com/composers/beethoven/guides/helen-keller-symphony-9/), despite not being able to hear it.
 
-![Helen Keller listening to a phonograph with her fingertips](/images/helen-keller-phonograph.jpeg)
-
-<div style="text-align:center; line-height:1.3; font-size:12px;"><em>There's music that sounds good, and then there's music that sounds good through your fingertips.</em></div>
+{% include image.html
+            img="/images/helen-keller-phonograph.jpeg"
+            alt="Helen Keller listening to a phonograph with her fingertips"
+            caption="There's music that sounds good, and then there's music that sounds good through your fingertips." %}
 
 If there was one piece of music in the universe that was beyond criticism, surely this would be the one.
 
