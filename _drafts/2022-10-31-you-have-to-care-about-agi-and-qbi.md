@@ -4,6 +4,7 @@ title: "You have to care about AGI and QBI"
 date: 2022-10-31
 permalink: /you-have-to-care-about-agi-and-qbi/
 tags: ["You have to learn accounting (sorry)"]
+image: /images/1040-scapple.png
 ---
 
 Adjusted Gross Income (AGI) and Qualified Business Income (QBI) are two extremely boring values you (or your accountant) will calculate when filing your annual tax return. 
