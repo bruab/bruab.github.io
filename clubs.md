@@ -5,9 +5,6 @@ title: Clubs
 
 I host outcome-oriented working sessions for a random smattering of goals.
 
-## [Exploded Media](https://explodedmedia.com/)
-Accountability, emotional support, and technical guidance for consultants and creatives who want to share videos online.
-
 ## [Long game outreach club](https://lu.ma/long-game)
 Working sessions for freelancers who do thoughtful and consistent outreach.
 
