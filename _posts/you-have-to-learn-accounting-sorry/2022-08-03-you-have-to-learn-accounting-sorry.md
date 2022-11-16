@@ -60,8 +60,8 @@ Stuff like:
 - Where's the line between legal accounting requirements and nice-to-have best practices?
 - What financial reports should you actually create and pay attention to as a freelancer?
 
-Subscribe and I'll send you 1-2 emails a month - short, to the point, written in plain language.
+Subscribe and I'll send you weekly updates as I write and research more on this topic (and others :).
 
-{% include acc-subscribe-form.html %}
+{% include newsletter-subscribe-form.html %}
 
 Cancel anytime. And I never look at unsubscribes, so you won't even hurt my feelings :)

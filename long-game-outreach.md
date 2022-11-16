@@ -10,10 +10,12 @@ Understandably, considering all the tone deaf emails junking up your spam folder
 
 But when practiced with deliberation and authenticity, outreach will transform your life and your business.
 
-Sign up to get 1-2 emails a month on what that looks like. I'll share scripts, strategies, and success stories.
+If you're willing to try out that point of view, consider signing up for a [coworking session](https://lu.ma/long-game).
 
-{% include lgo-subscribe-form.html %}
+Then read the [manifesto](/long-game-outreach-manifesto).
+
+Then sign up to get a short weekly update on my research and experiments in outreach and beyond. I'll share scripts, strategies, and success stories.
+
+{% include newsletter-subscribe-form.html %}
 
 Cancel anytime. This is a spam-free zone.
-
-

@@ -14,15 +14,13 @@ You can't avoid criticism, but you can remind yourself that it doesn't detract f
 
 And this newsletter can remind you, too.
 
-Sign up and I'll send you a short post every month or so. 
-
-Each short article tells the story of an _undeniable genius_ being _absolutely dragged_ by critics, or peers, or random strangers, or all of the above.
+Sign up and I'll send you a weekly update about what I'm working on, including articles about _undeniable geniuses_ being _absolutely dragged_ by critics, or peers, or random strangers, or all of the above.
 
 I hope it will help you overcome your worry.
 
 Sign up here:
 
-{% include swhi-subscribe-form.html %}
+{% include newsletter-subscribe-form.html %}
 
 Cancel anytime.
 
