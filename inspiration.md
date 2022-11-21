@@ -28,3 +28,7 @@ Here are a few nearby farms growing food organically:
 ## Lost crops
 
 [Buckeye Seed & Supply](http://buckeyeseed.com/index.html) produces and sells goosefoot seeds. So does [PlantPassion777 on Etsy](https://www.etsy.com/shop/PlantPassion777?ref=simple-shop-header-name&listing_id=1155288161).
+
+## Coffee
+
+[Cafe Campesino](https://www.cafecampesino.com/) is a small coffee roaster in Americus, GA that gets their coffee from a [cooperatively owned and operated coffee importing organization](https://coopcoffees.coop/).
