@@ -3,7 +3,7 @@ layout: acc
 title: "You have to care about AGI and QBI"
 date: 2022-10-31
 permalink: /you-have-to-care-about-agi-and-qbi/
-tags: ["You have to learn accounting (sorry)"]
+tags: ["You Have to Learn Accounting (Sorry)"]
 image: /images/1040-scapple.png
 ---
 

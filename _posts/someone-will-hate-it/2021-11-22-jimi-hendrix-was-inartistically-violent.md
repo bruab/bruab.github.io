@@ -3,7 +3,7 @@ layout: swhi
 title: "Jimi Hendrix was inartistically violent"
 date: "2021-11-22"
 permalink: /jimi-hendrix-was-inartistically-violent/
-categories: ["Someone will hate it"]
+categories: ["Someone Will Hate It"]
 ---
 
 In 1967, The Jimi Hendrix Experience released _Are You Experienced_, an album that went [quintuple platinum](https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=Jimi+Hendrix&ti=Are+You+Experienced&format=Album&type=#search_section), inspired generations of guitarists, and “established the transcendent promise of psychedelia.”

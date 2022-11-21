@@ -3,7 +3,7 @@ layout: swhi
 title: '"Too many notes"'
 date: 2021-12-13
 permalink: /too-many-notes/
-categories: ["Someone will hate it"]
+categories: ["Someone Will Hate It"]
 ---
 
 Imagine being so gifted that at only six years old, you suit up in your fanciest wig and breeches to perform for the imperial court in Vienna.

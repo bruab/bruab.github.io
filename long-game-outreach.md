@@ -18,4 +18,4 @@ Then sign up to get a short weekly update on my research and experiments in outr
 
 {% include newsletter-subscribe-form.html %}
 
-Cancel anytime. This is a spam-free zone.
+(Cancel anytime. And I never check unsubscribes, so you won't even hurt my feelings :)

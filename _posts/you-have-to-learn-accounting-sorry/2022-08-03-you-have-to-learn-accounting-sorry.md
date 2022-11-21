@@ -3,7 +3,7 @@ layout: post
 title: "You have to learn accounting (sorry)"
 date: 2022-08-03
 permalink: /you-have-to-learn-accounting-sorry/
-categories: ["You have to learn accounting (sorry)"]
+categories: ["You Have to Learn Accounting (Sorry)"]
 image: /images/accountant-ghosted.png
 ---
 

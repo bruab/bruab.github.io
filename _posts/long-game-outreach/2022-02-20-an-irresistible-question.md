@@ -2,7 +2,7 @@
 layout: lgo
 title: "An irresistible question"
 date: "2022-02-20"
-categories: ["Long game outreach"]
+categories: ["Long Game Outreach"]
 ---
 
 As you build your approach to connecting with a dream client, or potential collaborator, or whoever, the most powerful tool you can wield is an irresistible question.

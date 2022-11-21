@@ -3,7 +3,7 @@ layout: wedk
 title: "We don't know shit about how businesses are founded"
 date: 2022-08-17
 permalink: /we-dont-know-shit-about-how-businesses-are-founded/
-categories: ["We don't know shit"]
+categories: ["We Don't Know Shit"]
 image: /images/blockbuster.png
 ---
 

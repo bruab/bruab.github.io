@@ -3,7 +3,7 @@ layout: swhi
 title: "Even if you write nothing down"
 date: 2022-01-03
 permalink: /even-if-you-write-nothing-down/
-categories: ["Someone will hate it"]
+categories: ["Someone Will Hate It"]
 ---
 
 You’ve probably heard of Socrates, whether as a result of the dialectic teaching method named after him, or the outsized influence he’s had on philosophers from Plato to present day, or possibly his pivotal role in _Bill & Ted’s Excellent Adventure_.

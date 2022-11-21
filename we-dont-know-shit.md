@@ -60,4 +60,3 @@ You'll get info on debunked research, and guidance on navigating the chaotic rea
 {% include newsletter-subscribe-form.html %}
 
 Cancel anytime. And I never look at unsubscribes, so you won't even hurt my feelings :)
-
