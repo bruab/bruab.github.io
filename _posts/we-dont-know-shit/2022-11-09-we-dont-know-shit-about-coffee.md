@@ -66,9 +66,7 @@ But enough of this back-and-forth. What are we supposed to _do_ with this inform
 
 Don't rely on scientific studies to decide whether or not to drink coffee.
 
-Just try to synthesize all these discrete studies, with their varying levels of credibility (and occasional refutations), into a go / no-go decision.
-
-You can't. Or you _can_, but you can't know if you've done it correctly.
+There's no way to synthesize all these discrete studies, with their varying levels of credibility (and occasional refutations), into a go / no-go decision.
 
 In fact, this type of data isn't useful for making health decisions at all.
 
