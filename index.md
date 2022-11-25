@@ -15,7 +15,7 @@ These days I do conversion optimization and analytics strategy.
 ---
 
 I look like this:
-![](images/me-with-chickens.png)
+[![](images/me-with-chickens.png)](images/me-with-chickens.png)
 
 You can get in [contact](/contact) with me, or stay here and read some [posts](/blog).
 

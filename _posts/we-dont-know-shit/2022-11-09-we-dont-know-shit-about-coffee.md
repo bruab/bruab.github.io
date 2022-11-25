@@ -36,7 +36,10 @@ That cuppa joe might give your liver a boost, but what about your pancreas? Scie
 
 Just how serious is the cancer risk for coffee? Well, in 2018 the [state of California ruled](https://www.nbcnews.com/news/us-news/california-judge-rules-coffee-requires-cancer-warning-n861401) that it should carry an official warning.
 
-[![picture of a cancer warning placard in a coffee shop](/images/coffee-warning.jpeg)](https://www.wsj.com/articles/starbucks-coffee-brands-fight-california-ruling-on-cancer-warnings-1523880000)
+{% include image.html
+  url="/images/coffee-warning.jpeg"
+  alt="picture of a cancer warning placard in a coffee shop"
+  caption='via <a href="https://www.wsj.com/articles/starbucks-coffee-brands-fight-california-ruling-on-cancer-warnings-1523880000">WSJ</a>' %}
 
 This all sounds pretty damning. Time to switch to tea.
 

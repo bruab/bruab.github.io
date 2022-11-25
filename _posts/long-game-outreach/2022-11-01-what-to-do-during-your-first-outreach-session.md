@@ -29,7 +29,7 @@ _What kind of adventure would they like to help you with?_
 Yes, an adventure. A [quest](https://garden.briandavidhall.com/quests-are-better-than-pitches). The opening of a [portal](https://www.ribbonfarm.com/2014/06/25/portals-and-flags/). _That's_ what you're going to talk about in your outbound messages.
 
 {% include image.html
-  img="/images/sales-pitch-or-quest.png"
+  url="/images/sales-pitch-or-quest.png"
   alt="picture of a sleazy used car salesman next to a guy hiking on a mountaintop"
   caption="Which guy do you want to help out? Also I have no idea why the sales guy has a mouth full of keys, stock photos are weird." %}
 
