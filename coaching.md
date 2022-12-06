@@ -3,7 +3,9 @@ layout: no-footer
 title: Coaching
 ---
 
-You can (and should!) take the fabulous [courses](/courses) I've put together, and read my amazing [book](https://yourwebsitesucks.fyi/) I wrote. You can (and should!) sign up for my ever-informative [newsletter](/newsletter).
+You can (and should!) take the fabulous [courses](/courses) I've put together, and read my amazing [book](https://yourwebsitesucks.fyi/). 
+
+You can (and should!) also sign up for my ever-informative [newsletter](/newsletter), and stop by my [weekly website working sessions](https://lu.ma/work-on-your-site).
 
 And if you have a specific question you think I can help with, you should literally just [email me](/contact). Really.
 
@@ -29,10 +31,10 @@ Here's what's in scope:
 
 We'll prioritize ruthlessly, make sure your data's not junk and your copy's not generic. We'll find the biggest opportunities and figure out how to go after them without overcomplicating things.
 
-### "Hmm I'm not sure if you can help"
+### "Hmm okay that might be helpful"
 
-Totally understandable, to be honest neither am I.
+Great!
 
-Let's find out, though! Book a (free) 20 minute chat, come gripe about your website woes, and we'll figure it out.
+To get started, book a (free) 20 minute chat, come gripe about your website woes, and we'll decide if coaching is a fit for you.
 
 <a class="btn primary-cta" href="https://calendly.com/briandavidhall/20">Book a chat</a>
