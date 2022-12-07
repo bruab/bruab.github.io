@@ -22,6 +22,9 @@
   white-space: nowrap;
 }
 
+.primary-cta {
+  font-size: 24px;
+}
 input[type="email"] {
   background: #f2f2f2;
   border: none;
@@ -53,4 +56,8 @@ h1 {
 
 .scrunched {
   line-height: 1.3;
+}
+
+.center {
+  text-align: center;
 }
