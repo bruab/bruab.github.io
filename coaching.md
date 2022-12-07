@@ -37,4 +37,4 @@ Great!
 
 To get started, book a (free) 20 minute chat, come gripe about your website woes, and we'll decide if coaching is a fit for you.
 
-<a class="btn primary-cta" href="https://calendly.com/briandavidhall/20">Book a chat</a>
+<div class="center"><a class="btn primary-cta" href="https://calendly.com/briandavidhall/20">Book a chat</a></div>
