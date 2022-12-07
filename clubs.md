@@ -5,6 +5,9 @@ title: Clubs
 
 I host outcome-oriented working sessions for a random smattering of goals.
 
+## [Work on your site](https://lu.ma/work-on-your-site)
+Working sessions for anybody whose website could use a little attention this week.
+
 ## [Long game outreach club](https://lu.ma/long-game)
 Working sessions for freelancers who do thoughtful and consistent outreach.
 
