@@ -15,7 +15,7 @@ Including but not limited to:
   - About [epistemology](/we-dont-know-shit)
   - About [freelance accounting](/you-have-to-learn-accounting-sorry)
 - Podcast appearances
-- Goings-on from the [meetups](/clubs) and events I host
+- Goings-on from the [meetups](/meetups) and events I host
 
 Sign up here:
 
