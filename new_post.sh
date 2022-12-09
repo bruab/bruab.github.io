@@ -4,8 +4,10 @@
 #
 # author: andreasl
 
+USAGE="Usage: ./new_post.sh [title]"
+
 post_title="$*"
-[ -z "$post_title" ] && printf 'Error: Script needs a post title.\n' && exit 1
+[ -z "$post_title" ] && printf 'Error: Script needs a post title.\n' && echo $USAGE && exit 1
 
 repo_dir="$(git rev-parse --show-toplevel)"
 post_date="$(date '+%Y-%m-%d')"
