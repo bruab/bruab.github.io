@@ -13,6 +13,12 @@ _-- Zhuangzi_
 
 ---
 
+> If you want to build a ship, don’t drum up people to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.
+
+_-- Antoine de Saint-Exupery_
+
+---
+
 > The measure of a society is how it treats its weakest members.
 
 _-- Unknown_
@@ -40,3 +46,4 @@ _-- Jean-Paul Sartre, [The Words](https://archive.org/details/words00jean/page/2
 > The goal of the future is full unemployment, so we can play.
 
 _-- Arthur C. Clarke, [Los Angeles Free Press interview](https://quoteinvestigator.com/2018/11/11/goal/)_
+
