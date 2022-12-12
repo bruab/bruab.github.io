@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Animations on scroll
+categories: ["Swipe files"]
 ---
 
 Those cutesy little "slide-or-fade-in" CSS effects on your homepage are pointless.

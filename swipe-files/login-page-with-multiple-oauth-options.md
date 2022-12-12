@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Login page with multiple OAuth options
+categories: ["Swipe files"]
 ---
 
 Airtable has a nice one:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Homepage without images
+categories: ["Swipe files"]
 ---
 
 Calendly's homepage is text-only above the fold:

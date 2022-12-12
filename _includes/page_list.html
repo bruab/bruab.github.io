@@ -1,0 +1,18 @@
+<div id="archives">
+  {% if include.category == nil %}
+    {% for page in site.pages %}
+    <li class="post-list-item">
+      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+    </li>
+    {% endfor %}
+  {% else %}
+    {% for page in site.pages %}
+      {% if page.categories contains include.category %}
+      <li class="post-list-item">
+        <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+</div>
+

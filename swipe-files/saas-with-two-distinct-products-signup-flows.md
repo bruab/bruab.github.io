@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SaaS with two distinct products + signup flows
+categories: ["Swipe files"]
 ---
 
 In a perfect world, your site has a single purpose, a single call to action, one way to convert.

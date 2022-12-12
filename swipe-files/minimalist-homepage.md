@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Minimalist homepage
+categories: ["Swipe files"]
 ---
 
 It's hard to resist the temptation to put All The Things on your homepage - autoplay video, carousel, multiple CTAs, exciting announcement some event or promotion ... but there are alternatives.

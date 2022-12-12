@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Scammy landing page that probably works
+categories: ["Swipe files"]
 ---
 
 As much as I hate it, this "Officeless Agency Masterclass" landing page probably converts.

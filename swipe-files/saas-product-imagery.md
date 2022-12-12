@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SaaS product imagery
+categories: ["Swipe files"]
 ---
 
 _Show your product_ is the main piece of advice I'd offer here.

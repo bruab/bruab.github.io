@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cookie notices
+categories: ["Swipe files"]
 ---
 
 This example from https://exotel.com/en/ is perfect - small, unobtrusive, and features a single, clear, positive CTA.
