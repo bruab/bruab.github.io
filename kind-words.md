@@ -33,6 +33,20 @@ Shamelessly collecting them here.
 
 ---
 
+> Brian is one of a kind! His go-getter personality make him a joy to partner with, and his ability to develop CRO strategies that dramatically increased our website conversions make him indispensable. I highly recommend!
+
+> Brian's technical CRO expertise, business savvy, and ability to translate data into growth-focused strategies make him a great asset to any marketing team serious about driving conversions!
+
+[Karis Miles](https://www.linkedin.com/in/karis-miles/) - _PMP_
+
+---
+
+> Being highly experienced in client-oriented project management and conversion optimization, Brian has a well-rounded skillset that's hard to find with talented developers. He also has a passion for education, which comes through with helping his teammates grow and develop. Lastly, he's a pleasure to work with--I highly recommend!
+
+[Jeff Blettner](https://www.linkedin.com/in/jeffblettner/) - _CRO Consultant_
+
+---
+
 > loving your linkedin posts btw. this site still sucks, but your posts are good :)
 
 _Anonymous LinkedIn user_ :)

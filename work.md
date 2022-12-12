@@ -13,5 +13,5 @@ I'm not currently taking on new retainer clients, but I'd still love to meet, he
 
 If you want to look at a proper resume, you can access it [here](https://docs.google.com/document/d/1WO-lOGfUrJxeeQIW9WpqR0xwUe0Yj5JF0oQKreFtyAI/edit?usp=sharing).
 
-If you want a list of all the jobs I've ever had, starting with "cook at Dairy Queen," check out [this thread](https://twitter.com/briandavidhall/status/1462188663425703938).
+If you want a list of all the jobs I've ever had, starting with "cook at Dairy Queen," it's [here](/all-jobs).
 
