@@ -2,6 +2,7 @@
 layout: post
 title: "Sarah W Johnson on SaaS Experiments"
 date: "2020-07-29"
+categories: ["Web strategy"]
 ---
 
 In this episode, I talk to [Sarah W Johnson](https://www.linkedin.com/in/sarahwjatl/), a Product Owner and former Growth & Optimization Manager at American Addiction Centers.

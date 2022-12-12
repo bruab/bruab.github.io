@@ -2,6 +2,7 @@
 layout: post
 title: "Dealing with pressure to call tests early (3/3)"
 date: "2019-05-08"
+categories: ["Web strategy"]
 ---
 
 In [Part 1](https://briandavidhall.com/dealing-with-pressure-to-call-tests-early-1-3/) we tried to see things from the perspective of the execs, clients, media buyers, and bystanders who might favor calling a test as soon as you see lift. They have budgets, and goals to hit - and sometimes they're just excited to get a win! [Part 2](https://briandavidhall.com/dealing-with-pressure-to-call-tests-early-2-3/) laid out some internal research and external reference materials that help make the case against "let's call it now!"

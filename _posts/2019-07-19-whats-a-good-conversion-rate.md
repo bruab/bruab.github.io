@@ -2,6 +2,7 @@
 layout: post
 title: "What's a good conversion rate?"
 date: "2019-07-19"
+categories: ["Web strategy"]
 ---
 
 I hear this question all the time. I don't think there's a good answer.

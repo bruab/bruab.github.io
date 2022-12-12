@@ -3,6 +3,7 @@ layout: post
 title: "Polls, not surveys"
 date: "2021-01-11"
 coverImage: "Screen-Shot-2021-01-11-at-3.56.54-PM.png"
+categories: ["Web strategy"]
 ---
 
 Running complex, multi-question surveys and applying quantitative methods to the responses is a pseudoscientific waste of time, and you should never do it.

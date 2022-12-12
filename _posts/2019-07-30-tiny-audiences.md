@@ -2,6 +2,7 @@
 layout: post
 title: "Tiny audiences"
 date: "2019-07-30"
+categories: ["Web strategy"]
 ---
 
 It might seem unfair, but it's better to leave small audience segments out of your experiments entirely than to include them arbitrarily.

@@ -2,6 +2,7 @@
 layout: post
 title: "The death of the generalist CRO agency"
 date: "2020-02-12"
+categories: ["Web strategy"]
 ---
 
 Here's an uncontroversial statement: purchasing $15,000 worth of furniture online is _different_ from signing up for a free trial of a project management app.

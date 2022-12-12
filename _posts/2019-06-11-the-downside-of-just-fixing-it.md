@@ -2,6 +2,7 @@
 layout: post
 title: "The downside of \"just fixing it\""
 date: "2019-06-11"
+categories: ["Web strategy"]
 ---
 
 Yesterday, we kicked off optimization with a new site, and decided to add a sticky footer with a "sign up for our email list" message on mobile. We're not testing it (gasp!)

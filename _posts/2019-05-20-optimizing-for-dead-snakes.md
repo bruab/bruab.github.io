@@ -2,6 +2,7 @@
 layout: post
 title: "Optimizing for dead snakes"
 date: "2019-05-20"
+categories: ["Web strategy"]
 ---
 
 [Last week](http://briandavidhall.com/why-number-of-tests-is-a-terrible-success-metric/) we looked at reasons why "number of tests" is a bad metric for the health of your experimentation program. It's not the only one, of course; there are tons of terrible metrics for your team and for your tests.

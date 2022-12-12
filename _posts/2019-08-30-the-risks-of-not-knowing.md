@@ -2,6 +2,7 @@
 layout: post
 title: "The risks of not knowing"
 date: "2019-08-30"
+categories: ["Web strategy"]
 ---
 
 [Yesterday](https://briandavidhall.com/the-not-knowing/) I boldly asserted that a significant increase in form page visits which _doesn't_ yield a significant increase in form submissions ... might still be a win.

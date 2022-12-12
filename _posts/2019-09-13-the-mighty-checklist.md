@@ -2,6 +2,7 @@
 layout: post
 title: "The mighty checklist"
 date: "2019-09-13"
+categories: ["Web strategy"]
 ---
 
 After two days of judgmental diatribes against anyone who would launch an A/B in a hurry ... here's how to launch an A/B test in a hurry:

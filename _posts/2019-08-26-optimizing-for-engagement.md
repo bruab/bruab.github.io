@@ -2,6 +2,7 @@
 layout: post
 title: "Optimizing for engagement"
 date: "2019-08-26"
+categories: ["Web strategy"]
 ---
 
 Let's look at some pathological optimization patterns.

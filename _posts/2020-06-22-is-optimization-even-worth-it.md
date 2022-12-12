@@ -2,6 +2,7 @@
 layout: post
 title: "Is optimization even worth it?"
 date: "2020-06-22"
+categories: ["Web strategy"]
 ---
 
 _This post was originally sent out as an email to [my now-defunct mailing list](https://briandavidhall.com/newsletters-are-bad-actually/). You can read all such posts [here](https://briandavidhall.com/category/newsletter/), if you like._

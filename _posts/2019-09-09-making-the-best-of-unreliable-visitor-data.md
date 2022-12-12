@@ -2,6 +2,7 @@
 layout: post
 title: "Making the best of unreliable visitor data"
 date: "2019-09-09"
+categories: ["Web strategy"]
 ---
 
 Lots of doom and gloom lately about how a single user can be [counted as multiple visitors](https://briandavidhall.com/no-such-thing-as-visitors/) in your analytics platform, and how this can [mess up your experiment results](https://briandavidhall.com/who-cares-if-theres-no-such-thing-as-visitors/).

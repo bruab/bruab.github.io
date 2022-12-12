@@ -2,6 +2,7 @@
 layout: post
 title: "Calculating an A/B test's impact on revenue"
 date: "2019-05-13"
+categories: ["Web strategy"]
 ---
 
 "We got a win!" should excite everyone on the team, and "we've gained valuable insights about our users" should intrigue everyone. But if you want to capture the attention and interest of your CMO or CEO, you need a dollar sign in there somewhere. Let's look at how to calculate the value of a successful test.

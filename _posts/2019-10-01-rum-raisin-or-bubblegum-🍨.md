@@ -2,6 +2,7 @@
 layout: post
 title: "Rum raisin or bubblegum 🍨?"
 date: "2019-10-01"
+categories: ["Web strategy"]
 ---
 
 Well, which one?

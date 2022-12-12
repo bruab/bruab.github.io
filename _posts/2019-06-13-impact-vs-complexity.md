@@ -2,6 +2,7 @@
 layout: post
 title: "Impact vs complexity"
 date: "2019-06-13"
+categories: ["Web strategy"]
 ---
 
 It's easy, and potentially disastrous, to conflate these two concepts when prioritizing A/B tests. Let's avert disaster.

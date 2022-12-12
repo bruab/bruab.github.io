@@ -2,6 +2,7 @@
 layout: post
 title: "The ultimate guide to CRO ideation (Part 4: What else?)"
 date: "2020-04-17"
+categories: ["Web strategy"]
 ---
 
 Now that you've completed [Part 3](https://briandavidhall.com/the-ultimate-guide-to-cro-ideation-part-3-what/), you've got a laundry list of ideas and observations about your site. Stuff like this:

@@ -2,6 +2,7 @@
 layout: post
 title: "How to fail at Conversion Rate Optimization: Run tests when you've already decided what to do"
 date: "2019-10-30"
+categories: ["Web strategy"]
 ---
 
 I once worked with a beleaguered marketing director whose primary charge was to churn through an intimidating backlog of A/B tests.

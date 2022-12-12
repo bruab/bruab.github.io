@@ -2,6 +2,7 @@
 layout: post
 title: "On the phenomenon of hidden KPIs"
 date: "2019-05-22"
+categories: ["Web strategy"]
 ---
 
 Hidden KPIs are the Key Performance Indicators that your organization uses to measure success ... without explicit acknowledgement. Your success depends on your ability to detect them, meet them, and (just maybe) change them.

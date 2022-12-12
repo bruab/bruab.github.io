@@ -2,6 +2,7 @@
 layout: post
 title: "A/B test reporting"
 date: "2019-08-08"
+categories: ["Web strategy"]
 ---
 
 When a test concludes and it's time to celebrate, what details do we need to include?

@@ -2,6 +2,7 @@
 layout: post
 title: "The not knowing"
 date: "2019-08-29"
+categories: ["Web strategy"]
 ---
 
 Earlier this week we made some aggressive changes to a B2B lead generation site. Results for engagement and form page visits were encouraging.

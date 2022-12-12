@@ -2,6 +2,7 @@
 layout: post
 title: "Test prioritization: pages"
 date: "2019-07-08"
+categories: ["Web strategy"]
 ---
 
 Running the wrong tests can cost you months of effort and make you question your very existence. To decide which tests to run first, I suggest thinking about _where_ they'll run before considering what they'll change.

@@ -2,6 +2,7 @@
 layout: post
 title: "What’s wrong with personalization? (Part 2: Your precious time)"
 date: "2019-05-31"
+categories: ["Web strategy"]
 ---
 
 [Yesterday](https://briandavidhall.com/whats-wrong-with-personalization-part-1-money-on-the-table/) we looked at how personalization can tempt you to focus on lower impact (but complex) campaigns. Another risk with personalization at scale is that it becomes mentally taxing and time consuming to maintain. Let's stare this danger in the face.

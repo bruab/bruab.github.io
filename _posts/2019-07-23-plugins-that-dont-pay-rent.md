@@ -2,6 +2,7 @@
 layout: post
 title: "Plugins that don't pay rent"
 date: "2019-07-23"
+categories: ["Web strategy"]
 ---
 
 When that chat widget first showed up, it was so shiny and full of promise that you didn't hesitate to give it sitewide, above the fold real estate.

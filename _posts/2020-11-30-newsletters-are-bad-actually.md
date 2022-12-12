@@ -2,6 +2,7 @@
 layout: post
 title: "Newsletters are bad, actually"
 date: "2020-11-30"
+categories: ["Web strategy"]
 ---
 
 About a month ago, I had 351 unread newsletters in my inbox.

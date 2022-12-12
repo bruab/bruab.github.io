@@ -2,6 +2,7 @@
 layout: post
 title: "Page load time and revenue - the hype"
 date: "2019-09-24"
+categories: ["Web strategy"]
 ---
 
 A one second slowdown in page load time costs Amazon $1.6 billion in sales.

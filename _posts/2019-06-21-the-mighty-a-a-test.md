@@ -2,6 +2,7 @@
 layout: post
 title: "The mighty A/A test"
 date: "2019-06-21"
+categories: ["Web strategy"]
 ---
 
 Today's Friday - a [terrible day to launch a test](https://briandavidhall.com/dont-launch-on-friday/), but a great day to launch an A/A test. Let's look at all you can learn from A/A tests, and why they're so wonderful.

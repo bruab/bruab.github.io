@@ -2,6 +2,7 @@
 layout: post
 title: "ITP 2.2 and A/B testing - are we screwed?"
 date: "2019-08-09"
+categories: ["Web strategy"]
 ---
 
 _Kind of_.

@@ -2,6 +2,7 @@
 layout: post
 title: "How long will your A/B test take?"
 date: "2019-06-07"
+categories: ["Web strategy"]
 ---
 
 LOL nobody knows. Let's take a hypothetical experiment, run it through some test duration calculators, and decide if we should be disturbed at the results.

@@ -2,6 +2,7 @@
 layout: post
 title: "Case study: Ungated content leads to 7% increase in signups"
 date: "2020-04-15"
+categories: ["Web strategy"]
 ---
 
 I was working with a SaaS in the project management space, and we had thrown just about everything we could at a particular paid search landing page.

@@ -2,6 +2,7 @@
 layout: post
 title: "Can we all just agree on one thing"
 date: "2019-10-22"
+categories: ["Web strategy"]
 ---
 
 Forms should be laid out in a single column, with labels above the inputs.

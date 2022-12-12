@@ -2,6 +2,7 @@
 layout: post
 title: "3 CRO tips you can learn from LinkedIn Sales Navigator"
 date: "2020-03-30"
+categories: ["Web strategy"]
 ---
 
 One way to find inspiration for your own website is to keep an eye out for highly optimized conversion experiences in the wild.

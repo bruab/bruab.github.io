@@ -2,6 +2,7 @@
 layout: post
 title: "What is noise?"
 date: "2019-09-16"
+categories: ["Web strategy"]
 ---
 
 I typically think of noise as "the mysterious, unseen force that causes your [A/A tests](https://briandavidhall.com/the-mighty-a-a-test/) to look like they've found a winner on day 3."

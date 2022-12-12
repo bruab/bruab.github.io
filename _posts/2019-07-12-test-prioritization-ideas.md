@@ -2,6 +2,7 @@
 layout: post
 title: "Test prioritization: ideas"
 date: "2019-07-12"
+categories: ["Web strategy"]
 ---
 
 After talking all week about prioritizing [pages](https://briandavidhall.com/test-prioritization-pages/), [elements](https://briandavidhall.com/test-prioritization-elements/), [types of change](https://briandavidhall.com/test-prioritization-changes/), and [variations](https://briandavidhall.com/test-prioritization-variations/), let's finally talk about ideas themselves.

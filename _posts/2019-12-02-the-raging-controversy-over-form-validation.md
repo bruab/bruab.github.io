@@ -2,6 +2,7 @@
 layout: post
 title: "The raging controversy over form validation"
 date: "2019-12-02"
+categories: ["Web strategy"]
 ---
 
 Ask the experts where your input labels should be located, or multi-column forms beat single-column forms, and you'll find [broad consensus](https://briandavidhall.com/can-we-all-just-agree-on-one-thing/) 😴.

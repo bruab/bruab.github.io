@@ -2,6 +2,7 @@
 layout: post
 title: "What can go wrong with 1:1 personalization"
 date: "2019-10-08"
+categories: ["Web strategy"]
 ---
 
 If you're paying for a tool that supports 1:1 personalization - meaning, some clever 🤖 picks which experience to deliver to each individual visitor, based on browser data and behavior - there are a few ways it can end in tears.

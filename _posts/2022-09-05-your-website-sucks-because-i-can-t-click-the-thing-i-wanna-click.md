@@ -3,6 +3,7 @@ layout: post
 title: "Your website sucks because I can't ... click ... the thing I wanna click"
 date: 2022-09-05
 tags: []
+categories: ["Web strategy"]
 ---
 
 Of all the emotions your website can provoke, curiosity is the one you should aspire to most.

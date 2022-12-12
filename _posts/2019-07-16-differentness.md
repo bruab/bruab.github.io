@@ -2,6 +2,7 @@
 layout: post
 title: "Differentness"
 date: "2019-07-16"
+categories: ["Web strategy"]
 ---
 
 "Differentness" refers to how much two test variations differ from each other, or how much a group of test variations collectively differ from one another. It's the thing you should maximize when designing tests.

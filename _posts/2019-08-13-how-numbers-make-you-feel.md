@@ -2,6 +2,7 @@
 layout: post
 title: "How numbers make you feel"
 date: "2019-08-13"
+categories: ["Web strategy"]
 ---
 
 I had a SaaS client with a 0.57% conversion rate and they felt just awful about it.

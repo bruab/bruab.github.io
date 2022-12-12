@@ -2,6 +2,7 @@
 layout: post
 title: "What's your maximum conversion rate?"
 date: "2019-08-19"
+categories: ["Web strategy"]
 ---
 
 If you accept that you have three kinds of visitors - those who will [never convert](https://briandavidhall.com/some-visitors-will-never-convert/), those who will [definitely convert](https://briandavidhall.com/some-visitors-will-convert-no-matter-what/), and those who will _[maybe](https://briandavidhall.com/some-visitors-might-convert-or-might-not/)_ [convert](https://briandavidhall.com/some-visitors-might-convert-or-might-not/), this one's easy.

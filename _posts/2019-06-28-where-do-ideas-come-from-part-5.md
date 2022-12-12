@@ -2,6 +2,7 @@
 layout: post
 title: "Where do ideas come from? (Part 5)"
 date: "2019-06-28"
+categories: ["Web strategy"]
 ---
 
 We've looked at ideas for a button's border radius 😴 and hero heading copy. Let's tackle ideas for a full page redesign.

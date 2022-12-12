@@ -2,6 +2,7 @@
 layout: post
 title: "Test prioritization: elements"
 date: "2019-07-09"
+categories: ["Web strategy"]
 ---
 
 Once you've prioritized the [pages](https://briandavidhall.com/test-prioritization-pages/) you'll be testing on, it's time to look at individual elements on the page. This is way trickier! But there's some data you can collect that will help, and some rules of thumb you can follow.

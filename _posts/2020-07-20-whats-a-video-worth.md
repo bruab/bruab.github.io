@@ -2,6 +2,7 @@
 layout: post
 title: "What's a video worth?"
 date: "2020-07-20"
+categories: ["Web strategy"]
 ---
 
 _This post was originally sent out as an email to [my now-defunct mailing list](https://briandavidhall.com/newsletters-are-bad-actually/). You can read all such posts [here](https://briandavidhall.com/category/newsletter/), if you like._

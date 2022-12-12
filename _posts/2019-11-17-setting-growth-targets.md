@@ -2,6 +2,7 @@
 layout: post
 title: "Setting growth targets"
 date: "2019-11-17"
+categories: ["Web strategy"]
 ---
 
 ... is hard. _Especially_ if you're looking to base compensation on them.

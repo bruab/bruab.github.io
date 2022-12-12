@@ -2,6 +2,7 @@
 layout: post
 title: "Low traffic CRO"
 date: "2019-07-29"
+categories: ["Web strategy"]
 ---
 
 In the past, I've told a lot of potential clients that they don't have sufficient traffic (or sufficient [conversions](https://briandavidhall.com/does-visitor-count-matter/)) to run A/B tests.

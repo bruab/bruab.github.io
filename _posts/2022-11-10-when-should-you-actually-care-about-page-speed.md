@@ -3,6 +3,7 @@ layout: post
 title: "When should you actually care about page speed?"
 date: 2022-11-10
 tags: []
+categories: ["Web strategy"]
 ---
 
 My usual response is "only if your page is painfully slow - as in 15+ seconds before users can interact - or if it's significantly slower than your competitors."

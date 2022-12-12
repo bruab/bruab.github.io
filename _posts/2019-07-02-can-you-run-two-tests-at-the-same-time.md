@@ -2,6 +2,7 @@
 layout: post
 title: "Can you run two tests at the same time?"
 date: "2019-07-02"
+categories: ["Web strategy"]
 ---
 
 IDK can you? Let's find out. The answer comes down to culture.

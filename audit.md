@@ -36,7 +36,7 @@ By removing friction, clarifying messaging, and improving usability on your site
 
 I’ve been doing Conversion Rate Optimization since 2015. Worked at top notch agencies like CROmetrics, FunnelEnvy, and Speero. Helped dozens of brands, like Udemy, General Assembly, L’Oreal, and Eventbrite.
 
-I’ve run hundreds of experiments, and written over a [hundred blog posts](/blog) on the topic. I think about this stuff all day.
+I’ve run hundreds of experiments, and written over a [hundred blog posts](/categories/web-strategy/) on the topic. I think about this stuff all day.
 
 I’ll condense everything I know about what visitors expect, what moves the needle, and what doesn’t cost an arm and a leg to implement, then package it up for you 🎁.
 

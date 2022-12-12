@@ -2,6 +2,7 @@
 layout: post
 title: "Page load time and revenue - the data"
 date: "2019-09-25"
+categories: ["Web strategy"]
 ---
 
 [Yesterday](http://briandavidhall.com/page-load-time-and-revenue-the-hype/) we comforted ourselves that, despite what the interwebs say, every second of page load time does _not_ necessarily cost us $1.6 billion.

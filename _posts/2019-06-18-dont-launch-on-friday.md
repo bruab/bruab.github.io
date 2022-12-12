@@ -2,6 +2,7 @@
 layout: post
 title: "Don't launch on Friday"
 date: "2019-06-18"
+categories: ["Web strategy"]
 ---
 
 Whether it’s a new campaign, an A/B test, or a slick new piece of functionality, you should never launch on a Friday. Let’s look briefly at a couple of reasons why, and discuss what you should do instead.

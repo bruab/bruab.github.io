@@ -2,6 +2,7 @@
 layout: post
 title: "Reduce form fields and win"
 date: "2019-06-14"
+categories: ["Web strategy"]
 ---
 
 The highest-impact, lowest-risk change you can make to your website is removing unnecessary form fields. Your visitors will love you. You'll be making the Internet a better place. And you don't even need to test it.

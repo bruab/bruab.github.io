@@ -2,6 +2,7 @@
 layout: post
 title: "How the multiple comparisons problem will ruin your life"
 date: "2019-05-29"
+categories: ["Web strategy"]
 ---
 
 The multiple comparisons problem, like the [peeking problem](https://briandavidhall.com/the-peeking-problem/), is a statistics fail in which you believe you've found a winner but are really looking at noise. It arises when you analyze a single experiment for impact on a number of different metrics, or within several different results segments, or over different time frames. Let's look at how we can avoid this shameful state of affairs.

@@ -2,6 +2,7 @@
 layout: post
 title: "Where do ideas come from? (Part 3)"
 date: "2019-06-26"
+categories: ["Web strategy"]
 ---
 
 On [Monday](https://briandavidhall.com/where-do-ideas-come-from-part-1/) we tackled the concept of the "range of all feasible options" from which to draw A/B test variations. Then, [yesterday](https://briandavidhall.com/where-do-ideas-come-from-part-2/), we looked at a trivial example - the range of all feasible options for a button's border radius. Today, let's cover a long but incomplete list of sources for the ideas that populate this range.

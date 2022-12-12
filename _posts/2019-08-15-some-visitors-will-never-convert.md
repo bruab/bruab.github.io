@@ -2,6 +2,7 @@
 layout: post
 title: "Some visitors will never convert"
 date: "2019-08-15"
+categories: ["Web strategy"]
 ---
 
 No website in the world has a 100% conversion rate. Not even yours, no matter how hard you CRO.

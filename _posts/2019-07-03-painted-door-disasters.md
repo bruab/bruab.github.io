@@ -2,6 +2,7 @@
 layout: post
 title: "Painted door disasters"
 date: "2019-07-03"
+categories: ["Web strategy"]
 ---
 
 In a [previous post](https://briandavidhall.com/the-painted-door-test/), I wrote about using "painted door" tests to gauge interest in an expensive or risky new feature. That article called out some, but not all, of the risks that come with this kind of test.

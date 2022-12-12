@@ -2,6 +2,7 @@
 layout: post
 title: "Come on feel the noise"
 date: "2019-09-17"
+categories: ["Web strategy"]
 ---
 
 [Yesterday](https://briandavidhall.com/what-is-noise/) I promised that it's possible to measure and make your peace with the noise in your web analytics data.

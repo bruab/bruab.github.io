@@ -2,6 +2,7 @@
 layout: post
 title: "CRO for B2B lead generation: sunshine and rainbows"
 date: "2019-10-18"
+categories: ["Web strategy"]
 ---
 
 [Earlier this week](https://briandavidhall.com/cro-for-b2b-lead-generation-doom-and-gloom/) I brooded over the challenges that come with optimizing B2B lead generation websites 😔

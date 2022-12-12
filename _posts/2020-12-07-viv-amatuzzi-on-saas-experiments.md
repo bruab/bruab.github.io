@@ -3,6 +3,7 @@ layout: post
 title: "Viv Amatuzzi on SaaS Experiments"
 date: "2020-12-07"
 coverImage: "saas-cover-v2-scaled.jpg"
+categories: ["Web strategy"]
 ---
 
 In this episode, I talk to [Viv Amatuzzi](https://www.linkedin.com/in/vivama2z/), Director of Conversion at 360i.

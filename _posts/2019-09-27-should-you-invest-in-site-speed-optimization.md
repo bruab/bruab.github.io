@@ -2,6 +2,7 @@
 layout: post
 title: "Should you invest in site speed optimization?"
 date: "2019-09-27"
+categories: ["Web strategy"]
 ---
 
 Yes! If ...

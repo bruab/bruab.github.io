@@ -2,6 +2,7 @@
 layout: post
 title: "Who cares if there's no such thing as visitors?"
 date: "2019-09-06"
+categories: ["Web strategy"]
 ---
 
 [Yesterday](https://briandavidhall.com/no-such-thing-as-visitors/) I went on at length about the limitations of tracking visitors to your website.

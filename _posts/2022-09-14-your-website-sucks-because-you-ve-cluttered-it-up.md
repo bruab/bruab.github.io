@@ -3,6 +3,7 @@ layout: post
 title: "Your website sucks because you've cluttered it up"
 date: 2022-09-14
 tags: []
+categories: ["Web strategy"]
 ---
 
 Let's just say that, hypothetically, I'm consuming a problematic volume of caffeine.

@@ -2,6 +2,7 @@
 layout: post
 title: "How to fail at Conversion Rate Optimization: Optimize metrics you don't trust"
 date: "2019-11-13"
+categories: ["Web strategy"]
 ---
 
 Your CRO efforts will fail if [nobody wants your product](https://briandavidhall.com/how-to-fail-at-conversion-rate-optimization-have-lots-of-money-and-no-product-market-fit/), and they're a big fat waste of time if you've [already decided what to do](https://briandavidhall.com/how-to-fail-at-conversion-rate-optimization-run-tests-when-youve-already-decided-what-to-do/).

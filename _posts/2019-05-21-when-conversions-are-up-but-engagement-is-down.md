@@ -2,6 +2,7 @@
 layout: post
 title: "When conversions are up, but engagement is down"
 date: "2019-05-21"
+categories: ["Web strategy"]
 ---
 
 We recently ran a homepage redesign test on a B2B lead generation site, and found a winner. Lead submissions were up (yay!) but engagement was _down_ (wha?). How can this happen?

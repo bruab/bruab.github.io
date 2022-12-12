@@ -2,6 +2,7 @@
 layout: post
 title: "When to freak out"
 date: "2019-09-18"
+categories: ["Web strategy"]
 ---
 
 We've looked at [what noise is](https://briandavidhall.com/what-is-noise/) and [how to measure it](https://briandavidhall.com/come-on-feel-the-noise/) with an A/A test, so you know how long your experiments need to run before you trust the results.

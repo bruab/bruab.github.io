@@ -2,6 +2,7 @@
 layout: post
 title: "More scary stories"
 date: "2019-10-02"
+categories: ["Web strategy"]
 ---
 
 [Yesterday](https://briandavidhall.com/rum-raisin-or-bubblegum-%f0%9f%8d%a8/) I mentioned the frightening possibility that your A/B test variations represent an underwhelming, arbitrary subset of all possibilities.

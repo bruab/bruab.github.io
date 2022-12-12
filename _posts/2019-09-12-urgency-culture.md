@@ -2,6 +2,7 @@
 layout: post
 title: "Urgency culture"
 date: "2019-09-12"
+categories: ["Web strategy"]
 ---
 
 [Yesterday](https://briandavidhall.com/we-need-to-launch-this-test-asap/) I was railing against being in a hurry to launch A/B tests. (Clearly it hits a nerve with me 😅)

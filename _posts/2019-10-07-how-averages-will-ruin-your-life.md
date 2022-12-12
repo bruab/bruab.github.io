@@ -2,6 +2,7 @@
 layout: post
 title: "How averages will ruin your life"
 date: "2019-10-07"
+categories: ["Web strategy"]
 ---
 
 Check this out: immediately after college, graduates with STEM degrees earn an average of $10,000 more than graduates with humanities degrees.

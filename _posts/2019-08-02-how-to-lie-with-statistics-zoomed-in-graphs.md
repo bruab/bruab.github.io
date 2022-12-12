@@ -2,6 +2,7 @@
 layout: post
 title: "How to lie with statistics: Zoomed-in graphs"
 date: "2019-08-02"
+categories: ["Web strategy"]
 ---
 
 With a hat tip to the [wonderful book by Darrell Huff](https://www.amazon.com/How-Lie-Statistics-Darrell-Huff-ebook/dp/B00351DSX2), let's look at how the presentation of data can change the story.

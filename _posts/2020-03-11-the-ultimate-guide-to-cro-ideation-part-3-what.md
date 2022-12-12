@@ -2,6 +2,7 @@
 layout: post
 title: "The ultimate guide to CRO ideation (Part 3: What?)"
 date: "2020-03-11"
+categories: ["Web strategy"]
 ---
 
 In Parts 0-2, you set goals, decided what parts of the site matter, and got a sense of your visitors - who they are, how they use your site.

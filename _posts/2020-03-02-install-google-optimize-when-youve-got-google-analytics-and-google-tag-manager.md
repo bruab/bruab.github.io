@@ -2,6 +2,7 @@
 layout: post
 title: "Install Google Optimize when you've got Google Analytics and Google Tag Manager"
 date: "2020-03-02"
+categories: ["Web strategy"]
 ---
 
 If you're using Google Analytics and Google Tag Manager together, it's natural to add Google Optimize via GTM as well.

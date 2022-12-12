@@ -2,6 +2,7 @@
 layout: post
 title: "Arun Sivashankaran on SaaS Experiments"
 date: "2021-04-28"
+categories: ["Web strategy"]
 ---
 
 Arun Sivashankaran, founder of FunnelEnvy, breaks down all things optimization for Demand Gen. What to measure, where to focus, and where _not_ to focus.

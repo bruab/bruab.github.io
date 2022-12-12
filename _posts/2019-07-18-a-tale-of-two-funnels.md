@@ -2,6 +2,7 @@
 layout: post
 title: "A tale of two funnels"
 date: "2019-07-18"
+categories: ["Web strategy"]
 ---
 
 Let's compare the signup funnels for two SaaS startups - [Shrugy](http://tiffzhang.com/startup/?s=461521975553)™ and [Parkstr](http://tiffzhang.com/startup/?s=239591097707)™.

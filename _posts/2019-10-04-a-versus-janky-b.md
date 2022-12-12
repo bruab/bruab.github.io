@@ -2,6 +2,7 @@
 layout: post
 title: "A versus janky B"
 date: "2019-10-04"
+categories: ["Web strategy"]
 ---
 
 The Flash of Original Content, or FOOC, occurs when a visitor sees a brief glimpse of your existing website before your A/B testing tool kicks in and modifies the page.

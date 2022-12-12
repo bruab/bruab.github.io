@@ -2,6 +2,7 @@
 layout: post
 title: "Make your landing page a little better this week"
 date: "2020-06-15"
+categories: ["Web strategy"]
 ---
 
 What kind of first impression does your product make?

@@ -2,6 +2,7 @@
 layout: post
 title: "We need to launch this test ASAP"
 date: "2019-09-11"
+categories: ["Web strategy"]
 ---
 
 Interesting. Why?

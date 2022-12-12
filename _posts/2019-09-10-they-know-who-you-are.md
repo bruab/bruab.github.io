@@ -2,6 +2,7 @@
 layout: post
 title: "They know who you are"
 date: "2019-09-10"
+categories: ["Web strategy"]
 ---
 
 I've just about beat the topic of visitor tracking, with its attendant [difficulties](https://briandavidhall.com/no-such-thing-as-visitors/), into the ground. It's hard. It can [compromise your analytics](https://briandavidhall.com/who-cares-if-theres-no-such-thing-as-visitors/) and experiment results.

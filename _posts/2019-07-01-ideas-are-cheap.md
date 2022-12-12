@@ -2,6 +2,7 @@
 layout: post
 title: "Ideas are cheap"
 date: "2019-07-01"
+categories: ["Web strategy"]
 ---
 
 It's great that you have ideas. Have more! You can keep them in a pile in the corner of the room.

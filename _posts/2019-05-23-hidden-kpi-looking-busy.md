@@ -2,6 +2,7 @@
 layout: post
 title: "Hidden KPI: \"Looking busy\""
 date: "2019-05-23"
+categories: ["Web strategy"]
 ---
 
 Yesterday we looked at how [Hidden KPIs](https://briandavidhall.com/on-the-phenomenon-of-hidden-kpis/) can impact your team, testing program, and career. One of the most common examples is the unspoken expectation that everybody should always be doing ... lots of stuff. This can undermine the success of a testing program, so let's talk about how to deal with it.

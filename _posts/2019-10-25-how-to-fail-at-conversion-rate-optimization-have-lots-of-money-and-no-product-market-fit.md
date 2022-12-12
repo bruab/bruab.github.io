@@ -2,6 +2,7 @@
 layout: post
 title: "How to fail at Conversion Rate Optimization: Have lots of money and no product/market fit"
 date: "2019-10-25"
+categories: ["Web strategy"]
 ---
 
 If you're a funded startup with a budget, you can find an agency to "do CRO" on your website.

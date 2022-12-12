@@ -2,6 +2,7 @@
 layout: post
 title: "Dealing with pressure to call tests early (2/3)"
 date: "2019-05-07"
+categories: ["Web strategy"]
 ---
 
 [Yesterday](https://briandavidhall.com/dealing-with-pressure-to-call-tests-early-1-3/) we tried to get inside the heads and hearts of stakeholders who might favor calling a test early. Today, let's look at a few tools you can use to make the case for running tests to completion.

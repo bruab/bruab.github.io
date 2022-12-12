@@ -2,6 +2,7 @@
 layout: post
 title: "Optimizing for form page visits"
 date: "2019-08-27"
+categories: ["Web strategy"]
 ---
 
 Say we've got a B2B lead generation website. Most visitors land on our richly informative homepage. There are also About, How it Works, Case Studies, and Contact Us pages.

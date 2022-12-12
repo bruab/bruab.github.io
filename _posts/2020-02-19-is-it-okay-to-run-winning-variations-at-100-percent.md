@@ -2,6 +2,7 @@
 layout: post
 title: "Is it okay to run winning variations at 100%?"
 date: "2020-02-19"
+categories: ["Web strategy"]
 ---
 
 Of course! In fact, Google Optimize even has a button you can click to do exactly that:

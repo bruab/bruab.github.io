@@ -2,6 +2,7 @@
 layout: post
 title: "CRO for B2B lead generation: doom and gloom"
 date: "2019-10-15"
+categories: ["Web strategy"]
 ---
 
 If the main goal of your website is to produce leads for a sales team to follow up on, your customers are other businesses, _and_ you're doing Conversion Rate Optimization, my heart goes out to you.

@@ -3,6 +3,7 @@ layout: post
 title: "Justin Aronstein on SaaS Experiments"
 date: "2020-12-16"
 coverImage: "unnamed.png"
+categories: ["Web strategy"]
 ---
 
 In this episode, I talk to Justin Aronstein, CTO of conversion optimization agency [Mobile1st](https://mobile1st.com/).

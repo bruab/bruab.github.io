@@ -2,6 +2,7 @@
 layout: post
 title: "All the feels"
 date: "2020-05-08"
+categories: ["Web strategy"]
 ---
 
 _This post was originally sent out as an email to [my now-defunct mailing list](https://briandavidhall.com/newsletters-are-bad-actually/). You can read all such posts [here](https://briandavidhall.com/category/newsletter/), if you like._

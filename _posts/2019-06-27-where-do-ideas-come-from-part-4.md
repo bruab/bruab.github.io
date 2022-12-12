@@ -2,6 +2,7 @@
 layout: post
 title: "Where do ideas come from? (Part 4)"
 date: "2019-06-27"
+categories: ["Web strategy"]
 ---
 
 Earlier this week we talked about the mythical "range of all feasible options" where A/B test variations float in the ether, waiting to be tested. We looked at a trivial example of optimizing a button's border radius. Today, let's talk about something way messier: optimizing copy.

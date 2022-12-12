@@ -2,6 +2,7 @@
 layout: post
 title: "The \"de-risk it\" test"
 date: "2019-06-17"
+categories: ["Web strategy"]
 ---
 
 In your best moments, you're optimizing furiously, testing a broad range of feasible alternatives to find the highest performing variation. But there's a time and place for simple "on/off" tests to measure the impact of a single change - especially a big change.

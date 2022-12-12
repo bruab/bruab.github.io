@@ -2,6 +2,7 @@
 layout: post
 title: "The newness effect"
 date: "2019-06-20"
+categories: ["Web strategy"]
 ---
 
 There's an insidious force that seeks to undermine your entire testing program. [Very smart people](https://qr.ae/TWhJGm) cite it as a reason not to run a test at all, while the [Google Optimize stats team](https://support.google.com/optimize/answer/7405543?hl=en) has adopted novel methods to combat it. This dreaded menace is known as the newness effect.

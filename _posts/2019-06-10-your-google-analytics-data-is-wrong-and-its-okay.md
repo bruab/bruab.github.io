@@ -2,6 +2,7 @@
 layout: post
 title: "Your Google Analytics data is wrong, and it's okay"
 date: "2019-06-10"
+categories: ["Web strategy"]
 ---
 
 The data you see in Google Analytics will never correspond directly to reality. It's skewed, and incomplete, and this is ... just fine?

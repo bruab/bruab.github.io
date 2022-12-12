@@ -2,6 +2,7 @@
 layout: post
 title: "Just because you can"
 date: "2019-10-03"
+categories: ["Web strategy"]
 ---
 
 You can serve personalized experiences to visitors based on technical information you receive when they land on your site.

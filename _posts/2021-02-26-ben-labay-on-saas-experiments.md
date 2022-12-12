@@ -3,6 +3,7 @@ layout: post
 title: "Ben Labay on SaaS Experiments"
 date: "2021-02-26"
 coverImage: "YouTube-thumbnail-template-1.png"
+categories: ["Web strategy"]
 ---
 
 In this episode, I talk to Ben Labay, Managing Director of CX Experimentation at Speero.

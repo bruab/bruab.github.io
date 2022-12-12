@@ -2,6 +2,7 @@
 layout: post
 title: "The ultimate guide to CRO ideation (Part 2: Who?)"
 date: "2020-02-28"
+categories: ["Web strategy"]
 ---
 
 In [Part 1](https://briandavidhall.com/the-ultimate-guide-to-cro-ideation-part-1-where/), you assembled a list of pages to focus on. Way to go! Now you won't waste time optimizing parts of the site that just don't matter.

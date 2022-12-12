@@ -2,6 +2,7 @@
 layout: post
 title: "Does visitor count matter?"
 date: "2019-06-03"
+categories: ["Web strategy"]
 ---
 
 Not all that much. Not nearly as much as _conversion_ count. Here, let's prove it.

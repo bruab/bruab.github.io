@@ -2,6 +2,7 @@
 layout: post
 title: "The ultimate guide to CRO ideation (Part 0: Why?)"
 date: "2020-02-18"
+categories: ["Web strategy"]
 ---
 
 How do you generate ideas for experiments, campaigns, or improvements to your website?

@@ -2,6 +2,7 @@
 layout: post
 title: "Design is just a tool for optimization"
 date: "2019-08-21"
+categories: ["Web strategy"]
 ---
 
 What's the relationship between these two disciplines, and teams? One clearly supports the other.

@@ -3,6 +3,7 @@ layout: post
 title: "AJ Davis on SaaS Experiments"
 date: "2020-08-09"
 coverImage: "saas-cover-v2-scaled.jpg"
+categories: ["Web strategy"]
 ---
 
 In this episode, I talk to AJ Davis, ex-Googler and founder of [Experiment Zone](https://experimentzone.com/).

@@ -2,6 +2,7 @@
 layout: post
 title: "Test prioritization: changes"
 date: "2019-07-10"
+categories: ["Web strategy"]
 ---
 
 Once you've decided what [pages](https://briandavidhall.com/test-prioritization-pages/), and possibly what [elements](https://briandavidhall.com/test-prioritization-elements/) you're optimizing, it's time to think about how your variations will actually ... vary.

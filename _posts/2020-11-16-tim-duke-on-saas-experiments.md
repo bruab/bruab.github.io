@@ -3,6 +3,7 @@ layout: post
 title: "Tim Duke on SaaS Experiments"
 date: "2020-11-16"
 coverImage: "YouTube-thumbnail-template.png"
+categories: ["Web strategy"]
 ---
 
 In this episode, I talk to [Tim Duke](https://www.linkedin.com/in/timduke/), Director of Operations at CRO agency Mobile1st.

@@ -2,6 +2,7 @@
 layout: post
 title: "The ultimate guide to CRO ideation (Part 1: Where?)"
 date: "2020-02-21"
+categories: ["Web strategy"]
 ---
 
 In [Part 0](https://briandavidhall.com/the-ultimate-guide-to-cro-ideation-part-0-why/), you set some goals and convinced yourself that this whole project was worth the time.

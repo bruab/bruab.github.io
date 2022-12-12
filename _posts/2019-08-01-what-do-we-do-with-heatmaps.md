@@ -2,6 +2,7 @@
 layout: post
 title: "What do we do with heat maps?"
 date: "2019-08-01"
+categories: ["Web strategy"]
 ---
 
 Heat maps and scroll maps are great tools for detecting and _communicating_ patterns like "nobody scrolls past this section" or "nobody clicks on this CTA." How should we act on these observations?

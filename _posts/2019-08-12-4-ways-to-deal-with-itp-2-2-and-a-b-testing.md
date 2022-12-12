@@ -2,6 +2,7 @@
 layout: post
 title: "4 ways to deal with ITP 2.2 and A/B testing"
 date: "2019-08-12"
+categories: ["Web strategy"]
 ---
 
 So ITP 2.2 means that soon enough, some of your Safari visitors will have their cookies deleted 24 hours after visiting. This [wreaks havoc on your A/B test targeting and results](https://briandavidhall.com/itp-2-2-and-a-b-testing-are-we-screwed/). What can you do?

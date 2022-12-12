@@ -2,6 +2,7 @@
 layout: post
 title: "Most popular A/B testing tools in 2019"
 date: "2019-12-10"
+categories: ["Web strategy"]
 ---
 
 There are plenty of articles on the Top 17 A/B Testing Platforms (number 8 will blow your mind!) ... but which ones do people actually use?

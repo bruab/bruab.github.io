@@ -2,6 +2,7 @@
 layout: post
 title: "Test prioritization: variations"
 date: "2019-07-11"
+categories: ["Web strategy"]
 ---
 
 Once you've prioritized [pages](https://briandavidhall.com/test-prioritization-pages/), [elements](https://briandavidhall.com/test-prioritization-elements/), and [types of change](https://briandavidhall.com/test-prioritization-changes/), you've got a test. It just needs variations. And some might not make the cut.

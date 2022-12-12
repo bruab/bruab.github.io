@@ -2,6 +2,7 @@
 layout: post
 title: "Rewards of ungating content"
 date: "2019-07-26"
+categories: ["Web strategy"]
 ---
 
 [Yesterday](https://briandavidhall.com/risks-of-ungating-content/) we looked at how ungating content could ruin your company and destroy the internet. Today let's look at the bright side. (😁 It's Friday.)

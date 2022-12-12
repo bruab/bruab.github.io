@@ -2,6 +2,7 @@
 layout: post
 title: "Dealing with pressure to call tests early (1/3)"
 date: "2019-05-06"
+categories: ["Web strategy"]
 ---
 
 You already know that calling a test too early is a Bad Thing. It can lead to Type I and Type II errors, leaving your conversion rates worse than they could've been, or even worse than where they started. But not everyone around you sees it the same way, and sometimes well-meaning people on your team will lean on you to call a test and move on. So how do you change their minds?

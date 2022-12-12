@@ -2,6 +2,7 @@
 layout: post
 title: "The worst outcome in A/B testing"
 date: "2019-08-06"
+categories: ["Web strategy"]
 ---
 
 ... is "results were inconclusive; further testing necessary."

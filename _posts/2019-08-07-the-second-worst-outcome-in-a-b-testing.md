@@ -2,6 +2,7 @@
 layout: post
 title: "The second-worst outcome in A/B testing"
 date: "2019-08-07"
+categories: ["Web strategy"]
 ---
 
 ... is "all variations performed worse than control; further testing necessary ... maybe."

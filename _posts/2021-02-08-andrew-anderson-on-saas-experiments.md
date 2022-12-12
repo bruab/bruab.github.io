@@ -3,6 +3,7 @@ layout: post
 title: "Andrew Anderson on SaaS Experiments"
 date: "2021-02-08"
 coverImage: "YouTube-thumbnail-template.png"
+categories: ["Web strategy"]
 ---
 
 In this episode, I talk to one of my optimization heroes, Andrew Anderson.

@@ -2,6 +2,7 @@
 layout: post
 title: "More on the downside of \"just fixing it\""
 date: "2019-07-22"
+categories: ["Web strategy"]
 ---
 
 In a [post](https://briandavidhall.com/the-downside-of-just-fixing-it/) last month, I claimed that adding a single popup or widget to a page _without testing it_ probably "can't hurt," but warned about the "slippery slope to Widgetsville."

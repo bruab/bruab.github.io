@@ -2,6 +2,7 @@
 layout: post
 title: "Just fix it"
 date: "2019-05-28"
+categories: ["Web strategy"]
 ---
 
 It's easy to slip into the mindset that you should test _everything_ - especially when you sell A/B tests for a living. But there are plenty of improvements you don't need to test; you should just make them. Here's a partial list, broken down by part of the site.

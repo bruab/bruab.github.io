@@ -2,6 +2,7 @@
 layout: post
 title: "3 ways to increase form conversions"
 date: "2020-01-15"
+categories: ["Web strategy"]
 ---
 
 There are 1,001 desperate tactics you might try in your quest to get MOAR LEADS ... but don't.

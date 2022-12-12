@@ -2,6 +2,7 @@
 layout: post
 title: "Open letter to every A/B testing stats engine"
 date: "2019-09-30"
+categories: ["Web strategy"]
 ---
 
 Hey Optimizely / Google Optimize / VWO / whoever you are,

@@ -4,6 +4,7 @@ title: "Competitor analysis considered harmful"
 date: 2022-04-27
 permalink: /competitor-analysis/
 tags: []
+categories: ["Web strategy"]
 ---
 
 It's a good idea to be aware of what your competitors are up to, but _please be careful_.

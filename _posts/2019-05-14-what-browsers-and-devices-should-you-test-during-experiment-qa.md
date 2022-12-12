@@ -2,6 +2,7 @@
 layout: post
 title: "What browsers and devices should you test during experiment QA?"
 date: "2019-05-14"
+categories: ["Web strategy"]
 ---
 
 QA is a boring, time-consuming, essential part of experimentation. How can we make it as efficient as possible while minimizing the risk of breaking the internet, or (even worse) getting unreliable test results?

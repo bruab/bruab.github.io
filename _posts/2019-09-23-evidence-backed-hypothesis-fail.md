@@ -2,6 +2,7 @@
 layout: post
 title: "Evidence backed hypothesis fail"
 date: "2019-09-23"
+categories: ["Web strategy"]
 ---
 
 Here's a True Story I heard the other night at a CRO nerdout 🤓

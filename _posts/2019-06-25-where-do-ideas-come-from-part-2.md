@@ -2,6 +2,7 @@
 layout: post
 title: "Where do ideas come from? (Part 2)"
 date: "2019-06-25"
+categories: ["Web strategy"]
 ---
 
 Yesterday we talked about the imaginary "range of all feasible options" from which A/B test variation ideas are drawn. Today we'll work through a trivial example of defining options and choosing variations from among them.

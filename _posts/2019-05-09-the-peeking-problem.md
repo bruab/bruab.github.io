@@ -2,6 +2,7 @@
 layout: post
 title: "The peeking problem"
 date: "2019-05-09"
+categories: ["Web strategy"]
 ---
 
 We all know you shouldn't call an A/B test early, because it increases the chance that you'll mistakenly declare a winner, and that is arguably worse than not testing at all.

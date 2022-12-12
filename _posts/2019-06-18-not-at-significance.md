@@ -2,6 +2,7 @@
 layout: post
 title: "\"... not at significance\""
 date: "2019-06-18"
+categories: ["Web strategy"]
 ---
 
 What kind of reporting should we do for a test that's currently live? Should we note a variation that _looks_ like it might win? Or do we have to ignore all the data until the test concludes?

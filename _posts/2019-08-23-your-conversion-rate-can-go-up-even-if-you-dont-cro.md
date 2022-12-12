@@ -2,6 +2,7 @@
 layout: post
 title: "Your conversion rate can go up even if you don't CRO"
 date: "2019-08-23"
+categories: ["Web strategy"]
 ---
 
 No doubt, a big pile of winning A/B test 🏆🏆🏆s will increase your site's conversion rate over time. But there's more to it than that.

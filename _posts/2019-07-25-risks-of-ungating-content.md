@@ -2,6 +2,7 @@
 layout: post
 title: "Risks of ungating content"
 date: "2019-07-25"
+categories: ["Web strategy"]
 ---
 
 You've got a sweet white paper you're using as a lead magnet on your website. What if you just ... gave it away?

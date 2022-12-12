@@ -2,6 +2,7 @@
 layout: post
 title: "Cooking the books"
 date: "2019-08-28"
+categories: ["Web strategy"]
 ---
 
 Over the past two days, we optimized tf out of our B2B lead generation site.

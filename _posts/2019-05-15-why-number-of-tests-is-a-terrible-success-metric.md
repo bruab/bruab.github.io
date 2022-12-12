@@ -2,6 +2,7 @@
 layout: post
 title: "Why \"number of tests\" is a terrible success metric"
 date: "2019-05-15"
+categories: ["Web strategy"]
 ---
 
 "How many tests are you running?" You may have a client or director breathing down your neck about this right now. "Number of tests launched per quarter" is a common metric for growth teams at Fortune 500 companies. It's all wrong. Let's look at why, and what you should measure instead.

@@ -2,6 +2,7 @@
 layout: post
 title: "Identifying the very few"
 date: "2019-05-27"
+categories: ["Web strategy"]
 ---
 
 Happy Memorial Day! (If you're in the US.) Let's celebrate the holiday with a brief optimization story from military history.

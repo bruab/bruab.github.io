@@ -2,6 +2,7 @@
 layout: post
 title: "Not all conversions are created equal"
 date: "2020-02-17"
+categories: ["Web strategy"]
 ---
 
 What should you be optimizing for?

@@ -2,6 +2,7 @@
 layout: post
 title: "How many maybes?"
 date: "2019-08-20"
+categories: ["Web strategy"]
 ---
 
 Yesterday we looked at how the quantity of visitors who _might_ convert (or might not) can impact the value of your CRO efforts.

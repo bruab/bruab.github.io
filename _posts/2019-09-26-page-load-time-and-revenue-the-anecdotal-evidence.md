@@ -2,6 +2,7 @@
 layout: post
 title: "Page load time and revenue - the anecdotal evidence"
 date: "2019-09-26"
+categories: ["Web strategy"]
 ---
 
 A couple readers have been generous enough to share the results of their own site speed experiments. This 💩 will blow your mind.

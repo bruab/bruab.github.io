@@ -2,6 +2,7 @@
 layout: post
 title: "Idea validation vs optimization"
 date: "2019-06-12"
+categories: ["Web strategy"]
 ---
 
 It's possible, and quite common, to do experimentation without optimization. Is that what you're doing? If so, should you feel bad about it? Let's find out.

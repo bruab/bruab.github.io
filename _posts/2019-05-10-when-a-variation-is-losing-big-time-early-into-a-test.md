@@ -2,6 +2,7 @@
 layout: post
 title: "When a variation is losing big time, early into a test"
 date: "2019-05-10"
+categories: ["Web strategy"]
 ---
 
 You know better than to call a winner 4 days into a test, just because a calculator calls the results significant. But what about losers?

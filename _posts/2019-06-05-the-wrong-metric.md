@@ -2,6 +2,7 @@
 layout: post
 title: "The wrong metric"
 date: "2019-06-05"
+categories: ["Web strategy"]
 ---
 
 Wantonly optimizing for micro-conversions can decrease real conversions, destroy your business, and ruin your life. Here's an example.

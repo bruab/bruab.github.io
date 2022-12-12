@@ -2,6 +2,7 @@
 layout: post
 title: "Local and global maxima"
 date: "2019-07-17"
+categories: ["Web strategy"]
 ---
 
 This is a math-y topic but I promise it's important, and I promise it's not over your head. Explained correctly, the concept of local and global maxima will convince even the most timid of stakeholders to test big changes and tolerate [poorly performing variations](https://briandavidhall.com/when-a-variation-is-losing-big-time-early-into-a-test/).

@@ -2,6 +2,7 @@
 layout: post
 title: "ABCs of CRO: 'A' is for Analysis Paralysis"
 date: "2019-06-04"
+categories: ["Web strategy"]
 ---
 
 I'm working on a CRO glossary (exciting details soon). Let's look at the first entry - what it is, and how to avoid it.

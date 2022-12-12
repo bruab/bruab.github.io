@@ -2,6 +2,7 @@
 layout: post
 title: "You don't need a hypothesis"
 date: "2019-05-16"
+categories: ["Web strategy"]
 ---
 
 There, I said it. A/B test hypotheses, as they're commonly written, are wasted keystrokes that don't do enough to ensure your test results will be valid or that your analysis will be accurate. Let's take a look at why, and what you can do about it

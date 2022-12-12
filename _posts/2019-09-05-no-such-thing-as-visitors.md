@@ -2,6 +2,7 @@
 layout: post
 title: "No such thing as visitors"
 date: "2019-09-05"
+categories: ["Web strategy"]
 ---
 
 Your A/B test and personalization experiences are targeted at the visitor level - ensuring that when a visitor sees a particular experience, they'll see the same thing when they return to the site.

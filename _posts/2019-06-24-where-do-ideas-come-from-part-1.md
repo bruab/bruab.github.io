@@ -2,6 +2,7 @@
 layout: post
 title: "Where do ideas come from? (Part 1)"
 date: "2019-06-24"
+categories: ["Web strategy"]
 ---
 
 This is the first of several installments on how to generate ideas for A/B test variations.

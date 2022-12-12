@@ -2,6 +2,7 @@
 layout: post
 title: "More on test prioritization and culture"
 date: "2019-07-15"
+categories: ["Web strategy"]
 ---
 
 Last week was all about prioritization, and on [Friday](https://briandavidhall.com/test-prioritization-ideas/) we got into how a test prioritization framework reflects and shapes your team culture. Here's a specific example.

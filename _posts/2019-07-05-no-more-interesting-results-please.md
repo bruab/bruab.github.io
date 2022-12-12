@@ -2,6 +2,7 @@
 layout: post
 title: "No more interesting results, please"
 date: "2019-07-05"
+categories: ["Web strategy"]
 ---
 
 If your A/B test reporting looks like this, please stop:

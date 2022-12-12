@@ -2,6 +2,7 @@
 layout: post
 title: "What's wrong with personalization? (Part 1: Money on the table)"
 date: "2019-05-30"
+categories: ["Web strategy"]
 ---
 
 Should you be doing personalization? Probably not, despite the hype. Let's look at some simple decision criteria for whether it makes sense on your site.

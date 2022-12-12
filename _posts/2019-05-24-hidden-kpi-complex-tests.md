@@ -2,6 +2,7 @@
 layout: post
 title: "Hidden KPI: \"Complex tests\""
 date: "2019-05-24"
+categories: ["Web strategy"]
 ---
 
 [Yesterday](https://briandavidhall.com/hidden-kpi-looking-busy/) we looked at how "looking busy" can be a [Hidden KPI](https://briandavidhall.com/on-the-phenomenon-of-hidden-kpis/) that undermines your testing program. There are more, of course, and one of the most inexplicably common ones is test complexity.

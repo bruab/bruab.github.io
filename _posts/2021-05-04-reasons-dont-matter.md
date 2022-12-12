@@ -2,6 +2,7 @@
 layout: post
 title: "Reasons don't matter"
 date: "2021-05-04"
+categories: ["Web strategy"]
 ---
 
 We don't fully understand why we make decisions. In fact, [decisions are made in our brains before we become aware of having decided](https://www.researchgate.net/publication/5443390_Unconscious_determinants_of_free_decisions_in_the_human_brain).

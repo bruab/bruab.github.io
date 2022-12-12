@@ -2,6 +2,7 @@
 layout: post
 title: "Standard deviation"
 date: "2019-09-19"
+categories: ["Web strategy"]
 ---
 
 You need a good intuitive understanding of how much your conversion data varies in order to avoid freaking out when it dips due to normal fluctuation. (Up to you whether you pop 🍾 when it _rises_ due to normal fluctuation.)

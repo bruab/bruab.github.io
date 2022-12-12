@@ -2,6 +2,7 @@
 layout: post
 title: "Should you run an A/B test or build an email campaign?"
 date: "2019-06-06"
+categories: ["Web strategy"]
 ---
 
 A series of A/B/n experiments to optimize the real estate, copy, and design on your highest-traffic landing page? Or a new lead magnet and nurture sequence?

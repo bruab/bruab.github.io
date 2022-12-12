@@ -2,6 +2,7 @@
 layout: post
 title: "Some visitors might convert ... or might not"
 date: "2019-08-16"
+categories: ["Web strategy"]
 ---
 
 Now that we've talked about [visitors who convert no matter what](https://briandavidhall.com/some-visitors-will-convert-no-matter-what/), and [visitors who definitely will](https://briandavidhall.com/some-visitors-will-never-convert/) _[not](https://briandavidhall.com/some-visitors-will-never-convert/)_ [convert](https://briandavidhall.com/some-visitors-will-never-convert/), let's look at who's left.

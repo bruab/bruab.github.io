@@ -2,6 +2,7 @@
 layout: post
 title: "Some visitors will convert no matter what"
 date: "2019-08-14"
+categories: ["Web strategy"]
 ---
 
 Even the brokenest, ugliest site on the internet will have some visitors who convert. Who are they?

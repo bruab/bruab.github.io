@@ -2,6 +2,7 @@
 layout: post
 title: "A slice of a slice of a slice"
 date: "2019-07-24"
+categories: ["Web strategy"]
 ---
 
 When you analyze website data, you're dealing with a sample of the whole data set. When you make _decisions_ based on website data, you're applying them to the entire population.
