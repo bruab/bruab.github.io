@@ -5,6 +5,8 @@ date: 2022-11-29
 tags: []
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/irtp2qwcm7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Confession: I have tried almost every task and project management tool in existence. Trello, Jira, Asana, bullet journal, Roam Research, sticky notes, you name it.
 
 I read [extremely dry books about queue theory](http://lpd2.com/wp-content/uploads/2013/06/ReinertsenFLOWChap1.pdf) for fun, and I consider "refactor todo list" to be a relaxing weekend activity.
