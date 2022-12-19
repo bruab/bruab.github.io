@@ -6,8 +6,7 @@ Here's what I'm working on at the moment*
 
 ## Creative stuff
 
-- Building a [website strategy community](https://web.yourwebsitesucks.fyi/)
-- Writing a [book about websites](https://helpthisbook.com/briandavidhall/your-website-sucks)
+- Finishing up & publishing a [book about websites](https://helpthisbook.com/briandavidhall/your-website-sucks)
 - Writing a [weekly newsletter](/newsletter)
 - Resurrecting an idea from a failed NaNoWriMo attempt in 2016
 - Building a B2B optimization knowledge base
@@ -17,7 +16,7 @@ Here's what I'm working on at the moment*
 ## Human stuff
 
 - Learning about how food coops work
-- Growing cabbage, winter greens, and several trees: lemon, tangerine, persimmon, avocado
+- Growing cabbage, winter greens, winter wheat, and several trees: lemon, tangerine, persimmon, avocado
 
 ## Client stuff
 
@@ -31,4 +30,4 @@ Doing conversion strategy work for clients in the following spaces:
 - _Demon Copperhead_ by Barbara Kingsolver
 - _The Status Game_ by Will Storr
 
-_*Last updated 12/8/22_
+_*Last updated 12/19/22_
