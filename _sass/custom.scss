@@ -62,3 +62,8 @@ h1 {
 .center {
   text-align: center;
 }
+
+/* let's not have YouTube embeds wider than full width */
+iframe {
+  max-width: 100%;
+}

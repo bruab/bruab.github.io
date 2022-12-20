@@ -21,6 +21,9 @@ Talk to [Arun Sivashankaran](https://www.linkedin.com/in/arunsivashankaran) at F
 ### Local business marketing
 Talk to [Mario Micka](https://www.linkedin.com/in/mariomicka) at Digital Trek.
 
+### Outreach
+Talk to [Luís Ribiero](https://www.linkedin.com/in/luiscvribeiro/) about getting in touch with seemingly hard-to-reach people.
+
 ### Public relations
 Talk to [Kate Warwick](https://wordsavvy.co.uk/).
 
