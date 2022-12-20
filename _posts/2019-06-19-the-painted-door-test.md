@@ -7,6 +7,8 @@ categories: ["Web strategy"]
 
 A painted door (or "fake door") test is a special type of [de-risk it test](https://briandavidhall.com/the-de-risk-it-test/) that can save you tons of time and effort. Let's look at what it is, when and how to use it, and what to watch out for.
 
+[![painted door video thumbnail](/images/painted-door-video.png)](https://www.youtube.com/watch?v=FVxGnORt9eM)
+
 ### What it is
 
 A painted door test lets you gauge interest in a new feature, product, page, or piece of functionality ... before you've built it. It involves updating your site with a link or callout that promises the new feature, then measuring clicks to see how many visitors _would_ try it if it existed.
