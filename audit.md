@@ -44,4 +44,4 @@ I’ll condense everything I know about what visitors expect, what moves the nee
 
 A website audit costs $250, paid up front.
 
-<div class="center"><a class="btn primary-cta" href="https://checkout.square.site/merchant/MLJDKACN0FARJ/checkout/44AVEXK6UW6HRFP2NFSVCZFX">Get an audit</a></div>
+<div class="center"><a class="btn primary-cta" href="https://buy.stripe.com/9AQaI36yh3jy5m86oo">Get an audit</a></div>
