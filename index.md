@@ -2,19 +2,32 @@
 layout: home
 ---
 
-I host several [online meetups](/meetups) - you should come to one sometime.
+### I wrote a book!
 
-I write [books](/books) and make [courses](/courses) - you should check one out.
+**Your Website Sucks, here's how to fix it** is available on [Gumroad](https://shop.briandavidhall.com/l/your-website-sucks).
 
----
-
-In the past I've worked as a bartender, a kindergarten teacher, a research assistant, and a software engineer.
-
-These days I do conversion optimization and analytics strategy.
+Go buy it!
 
 ---
 
-I look like this:
+### I made a free course!
+
+[First Impressions Workshop](https://shop.briandavidhall.com/l/first-impressions-workshop) helps you clarify and improve your homepage (or any page) by using a free research panel.
+
+Try it, it's fun!
+
+---
+
+### I host 4 meetups a week! 😅
+
+Here's a [full list](/meetups).
+
+Stop by sometime!
+
+---
+
+### I look like this:
+
 [![](images/me-with-chickens.png)](images/me-with-chickens.png)
 
 You can get in [contact](/contact) with me, or read some [posts](/blog).
