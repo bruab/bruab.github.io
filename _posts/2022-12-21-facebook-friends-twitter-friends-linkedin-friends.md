@@ -9,7 +9,7 @@ In the month-ish since I [quit using Twitter and LinkedIn](/taking-a-break-from-
 
 Let's rewind a bit. In 2016 I decided to stop using Facebook, and at the time it felt like a bold, revolutionary act. But as I shook off the cobwebs I noticed that several of the people around me ... also didn't seem to be on Facebook.
 
-I started asking about that, and the unanimous response I received was: "I'm on there but I just use it to message like one or two people who don't text."
+I started asking about that, and the unanimous response I received was: "I'm on there but I just use it to message like one or two people." A variation on this: "My grandma doesn't text."
 
 This got me thinking more about the _specific individuals_ I most interacted with when using Facebook, and I realized it was a similarly arbitrary group. Leaving the app meant losing touch with the one or two people who _simple weren't reachable_ through email, phone calls, text messages, or meeting in real life. The majority of my FOMO was driven by a handful of users.
 
