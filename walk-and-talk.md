@@ -9,7 +9,7 @@ And in a perfect world, every time I walk to the gym, I'd have a chat with an ol
 
 Voice only, no screens, no hurry. Minimal agenda.
 
-Exercising my brain and body at the same time, 4+ times per week.
+Exercising my brain and body at the same time, every(ish) day at 3:45pm (US-Central).
 
 Sounds amazing. And to think, I could be living this dream if only I could find someone kind enough to book a call using the calendar below.
 
