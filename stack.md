@@ -6,7 +6,7 @@ title: Stack
 Here are the tools I use to do stuff:
 
 - [Fathom analytics](https://usefathom.com/ref/BLQQDD) - to tell me where people go on this site and [others](/websites) (affiliate link 💰)
-- [UsabilityHub](https://usabilityhub.com/) - for quick user research studies. ([Hit me up](/contact) for coupon codes! I can get you 10% off a subscription & 20 free testing credits)
+- [UsabilityHub](https://usabilityhub.com/) - for quick user research studies. ([See here](/affiliate-links) for coupon codes! You can get 10% off a subscription & 20 free testing credits)
 - Canva - to design amazing YouTube thumbnails
 - Loom - to record [notes to myself](/vibes-based-project-management) and [website audits](/audits)
 - Droplr - to take and share screenshots
