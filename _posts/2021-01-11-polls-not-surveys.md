@@ -2,21 +2,20 @@
 layout: post
 title: "Polls, not surveys"
 date: "2021-01-11"
-coverImage: "Screen-Shot-2021-01-11-at-3.56.54-PM.png"
 categories: ["Web strategy"]
 ---
 
 Running complex, multi-question surveys and applying quantitative methods to the responses is a pseudoscientific waste of time, and you should never do it.
 
-If you disagree, please skim [this article](https://carcinisation.com/2020/12/11/survey-chicken/) and then [book time on my calendar](https://calendly.com/briandavidhall/) so we can argue 🙏
+If you disagree, please skim [this article](https://carcinisation.com/2020/12/11/survey-chicken/) and then [get in touch](/contact) so we can argue 🙏
 
-![](/images/giphy.gif)
+![](/images/come-at-me-bro.gif)
 
 That said, single-question surveys (a.k.a. "polls") are a great way to uncover unknown unknowns on your website, and you should absolutely use them.
 
 Here's my favorite poll question:
 
-![A Hotjar poll that says "what's missing from this page?"](/images/Screen-Shot-2020-04-17-at-9.48.20-AM.png)
+![A Hotjar poll that says "what's missing from this page?"](/images/whats-missing.png)
 
 ... and here's what's great about it.
 
@@ -26,7 +25,7 @@ You're not asking visitors to invest an afternoon in giving you feedback. There'
 
 Because of this, you'll get more responses - even from the type of people who "usually don't fill these things out."
 
-### It's _humble_
+### It's humble
 
 The question _assumes_ that the page can be improved, and confers expert status on the visitor.
 
@@ -42,7 +41,7 @@ The question assumes the visitor has looked for what they need, and failed to fi
 
 First of all, ignore the visitors who inevitably type "your mom" or other unhelpful answers. It does happen 😬
 
-![Screenshot of Hotjar survey responses including "your mom"](/images/Screen-Shot-2021-01-11-at-3.56.54-PM.png)
+![Screenshot of Hotjar survey responses including "your mom"](/images/whats-missing-your-mom.png)
 
 After a few weeks, read through the responses and ask a few simple questions:
 
