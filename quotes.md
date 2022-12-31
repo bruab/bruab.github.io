@@ -19,6 +19,12 @@ _-- Antoine de Saint-Exupery_
 
 ---
 
+> Now all I need is a crew / One that can act as if
+
+_--Britt Daniel, [The Beast and Dragon, Adored](https://genius.com/Spoon-the-beast-and-dragon-adored-lyrics)_
+
+---
+
 > The measure of a society is how it treats its weakest members.
 
 _-- Unknown_
