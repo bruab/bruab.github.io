@@ -13,7 +13,6 @@ The [Compost Cooperative](https://thecompostcooperative.com/) in Greenfield, Mas
 
 Here are a few examples of organizations that pick up food that's headed for the trash can and redistribute it so it gets eaten:
 
-- 
 - [Philly Food Rescue](https://phillyfoodrescue.org/)
 - [Boulder Food Rescue](https://www.boulderfoodrescue.org/) (bonus points: they do it on bicycles)
 - More operations listed on the [Food Rescue Hero website](https://www.foodrescuehero.org/food-rescue-hero-network)
@@ -23,7 +22,6 @@ Here are a few examples of organizations that pick up food that's headed for the
 Here are a few nearby farms growing food organically:
 
 - [Hornsby Farms](https://hornsbyfarms.com/) in Auburn, AL is a small family farm. (Not sure how I feel about plasticulture 🤔)
-- ???
 
 ## Lost crops
 
@@ -31,4 +29,4 @@ Here are a few nearby farms growing food organically:
 
 ## Coffee
 
-[Cafe Campesino](https://www.cafecampesino.com/) is a small coffee roaster in Americus, GA that gets their coffee from a [cooperatively owned and operated coffee importing organization](https://coopcoffees.coop/).
+[Cafe Campesino](https://www.cafecampesino.com/) is a small coffee roaster in Americus, GA that gets their beans from a [cooperatively owned and operated coffee importing organization](https://coopcoffees.coop/).
