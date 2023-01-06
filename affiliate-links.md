@@ -11,7 +11,7 @@ Use [this referral link](https://usefathom.com/ref/BLQQDD) to sign up. You get $
 
 ## UsabilityHub
 
-Sign up for a free account at www.usabilityhub.com (or log into your existing account).
+Sign up for a free account at [usabilityhub.com](https:/usabilityhub.com) (or log into your existing account).
 
 To get a **10% discount on a Basic or Pro plan**:
 
