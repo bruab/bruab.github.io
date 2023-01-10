@@ -21,7 +21,7 @@ Click this button to trigger a conversion:
 
 <script>
 function fireEvent() {
-  gtag('event', 'special_click', {
+  gtag('event', 'click', {
     'button': 'Convert button',
     'purpose': 'testing'
   });
