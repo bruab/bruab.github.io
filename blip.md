@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Links and freebiesa for FreelanceU listeners
+title: Blip newsletter
 ---
 
-## (Coming soon)
+A monthly newsletter about the distant future, seen through the lens of the weird present and situated in the deep south.
