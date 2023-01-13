@@ -45,3 +45,4 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-target-blank
+  - jekyll-feed
