@@ -5,7 +5,7 @@ date: 2023-01-11
 tags: []
 ---
 
-The tool I use to send newsletters has these two options for notifications:
+The [tool](/stack) I use to send newsletters has these two options for notifications:
 
 [![screenshot of notifications, subscribes enabled and unsubscribes disabled](/images/unsubscribe-notifications.png)](/images/unsubscribe-notifications.png)
 
