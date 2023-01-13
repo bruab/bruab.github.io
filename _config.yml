@@ -46,3 +46,4 @@ plugins:
   - jemoji
   - jekyll-target-blank
   - jekyll-feed
+  - jekyll-sitemap
