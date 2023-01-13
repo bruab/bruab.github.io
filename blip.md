@@ -7,4 +7,4 @@ A monthly newsletter about the distant future, seen through the lens of the weir
 
 {% include blip_subscribe.html %}
 
-(Unsubscribe anytime, [guilt free](/why-i-don-t-check-unsubscribes/){:target="_blank"}{:rel="noopener noreferrer"}.)
+(Unsubscribe anytime, [guilt free](/why-i-dont-check-unsubscribes/){:target="_blank"}{:rel="noopener noreferrer"}.)
