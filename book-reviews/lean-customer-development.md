@@ -59,7 +59,7 @@ These are not quote-unquote early adopters—that crowd is just into trying new 
 
 ---
 
-If you tap into ppl's desire to help, and fix things, and sound smart, while addressing their concerns about time, commitment, and privacy, people will talk to you.
+If you tap into people's desire to help, and fix things, and sound smart, while addressing their concerns about time, commitment, and privacy, people will talk to you.
 
 If you do all that and nobody wants to talk, your problem doesn't exist or you're asking the wrong folks.
 
