@@ -103,7 +103,7 @@ We know what we've tried in the past that didn't work, but we don't necessarily 
 
 ---
 
-Questions with no clear right or wrong answer >>>
+Questions with no clear right or wrong answer are the best type of questions.
 
 ---
 
