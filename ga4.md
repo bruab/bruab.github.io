@@ -45,4 +45,4 @@ Quick Zoom call. No sales pitch.
 
 You'll come away with a clear sense of your options and the project requirements, whether you decide to work with me or not.
 
-<div class="center"><a class="btn primary-cta" href="https://calendly.com/briandavidhall/20">Book a chat</a></div>
+<div class="center"><a class="btn primary-cta" href="https://cal.com/briandavidhall/google-analytics-omg">Book a chat</a></div>
