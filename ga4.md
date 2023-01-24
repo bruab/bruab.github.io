@@ -13,15 +13,13 @@ You've got
 
 LOL of course not. It's okay though.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2c-Dx_EzkN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I can help you:
 
 ### Just get it done
 
 Set up a bare bones GA4 installation so you'll have historical data when the deadline comes
-
-### Explore alternatives to Google Analytics
-
-Maybe it's time to consider another option? We should talk. (You'll notice there's no GA snippet on this site.)
 
 ### Do it right
 
@@ -32,6 +30,10 @@ Need BigQuery for data retention? No worries.
 Want to send data to a European-based server to avoid issues with US-based data storage? Understood.
 
 I'll build out a GA4 installation that's way better than your current setup, and train everyone on how to use it.
+
+### Explore alternatives to Google Analytics
+
+Maybe it's time to consider another option? We should talk. (You'll notice there's no GA snippet on this site.)
 
 ## The clock is ticking ⏰
 
