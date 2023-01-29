@@ -13,7 +13,7 @@ Here's what I'm working on at the moment*
 
 ## Human stuff
 
-- Growing cabbage, winter greens, winter wheat, and several trees: lemon, tangerine, persimmon, avocado
+- Growing cabbage, winter greens, winter wheat, goosefoot, and several trees: lemon, tangerine, persimmon, avocado
 - Brewing beer with some friends
 - Mulching leaves and twigs
 - Learning carpentry
@@ -23,6 +23,7 @@ Here's what I'm working on at the moment*
 Doing conversion strategy work for clients in the following spaces:
 
 - Accounts payable automation 🧾
+- Construction management 🏗
 
 ## Reading
 
@@ -31,4 +32,4 @@ Doing conversion strategy work for clients in the following spaces:
 - _Word of Mouth Marketing_ by Andy Sernovitz
 - _Negroes With Guns_ by Robert F. Williams
 
-_*Last updated 1/22/23_
+_*Last updated 1/29/23_
