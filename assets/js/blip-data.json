@@ -1,0 +1,37 @@
+{
+  "moments": [
+    {
+      "description": "Formation of earth",
+      "title": "Formation of earth",
+      "date": "-2020/12/02"
+    },
+    {
+      "description": "foo",
+      "title": "bar",
+      "date": "2020/12/09"
+    }
+  ],
+  "ranges": [
+    {
+      "description": "The long weird present",
+      "title": "Blip",
+      "start": "1900/01/01",
+      "end": "2139/12/31",
+      "color": "#00a950"
+    },
+    {
+      "description": "range2",
+      "title": "range2",
+      "start": "2020/11/29",
+      "end": "2020/12/11",
+      "color": "#00a950"
+    },
+    {
+      "description": "range3",
+      "title": "range3",
+      "start": "2020/12/11",
+      "end": "2021/06/30",
+      "color": "#00a950"
+    }
+  ]
+ }
