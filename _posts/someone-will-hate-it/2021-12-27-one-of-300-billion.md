@@ -3,7 +3,7 @@ layout: swhi
 title: "One of 300 billion"
 date: 2021-12-27
 permalink: /one-of-300-billion/
-categories: ["Someone Will Hate It"]
+categories: ["Haterism"]
 ---
 
 Email doesn’t have a single, heroic inventor. Like most innovations in science and technology, it was developed by a number of people over the course of years.

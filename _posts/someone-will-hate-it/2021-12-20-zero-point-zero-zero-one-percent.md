@@ -3,7 +3,7 @@ layout: swhi
 title: "Zero point zero one percent"
 date: 2021-12-20
 permalink: /zero-point-zero-one-percent/
-categories: ["Someone Will Hate It"]
+categories: ["Haterism"]
 ---
 
 It was inevitable that archetypical tortured artist Vincent Van Gogh would make an appearance in this series.

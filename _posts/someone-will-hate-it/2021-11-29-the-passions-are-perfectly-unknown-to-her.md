@@ -3,7 +3,7 @@ layout: swhi
 title: '"The passions are perfectly unknown to her"'
 date: 2021-11-29
 tags: []
-categories: ["Someone Will Hate It"]
+categories: ["Haterism"]
 ---
 
 Whether you get fired up about 19th century English literature or not, there’s a pretty good chance you’re familiar with the works of Jane Austen.

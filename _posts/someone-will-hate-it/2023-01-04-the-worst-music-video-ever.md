@@ -3,7 +3,7 @@ layout: post
 title: "The worst music video ever"
 date: "2023-01-04"
 permalink: /the-worst-music-video-ever/
-categories: ["Someone Will Hate It"]
+categories: ["Haterism"]
 ---
 
 Seems like thick-skinned-ness is unevenly distributed among humans. The fact that you're reading this likely means that you're vulnerable to taking criticism personally*.

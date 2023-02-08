@@ -3,7 +3,7 @@ layout: swhi
 title: "When they decide you don't exist"
 date: 2022-01-24
 permalink: /when-they-decide-you-dont-exist/
-categories: ["Someone Will Hate It"]
+categories: ["Haterism"]
 ---
 
 The year is 1138.

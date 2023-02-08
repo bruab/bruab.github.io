@@ -3,7 +3,7 @@ layout: swhi
 title: '"Appallingly bad"'
 date: 2022-03-08
 permalink: /appallingly-bad/
-categories: ["Someone Will Hate It"]
+categories: ["Haterism"]
 ---
 
 Back in the 1990s, people watched a lot of TV and went to a lot of movies. You could even watch movie critics on TV. And if you did, you probably watched Siskel & Ebert.

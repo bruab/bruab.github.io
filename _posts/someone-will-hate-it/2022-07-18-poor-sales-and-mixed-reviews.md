@@ -4,7 +4,7 @@ title: "Poor sales and mixed reviews"
 date: 2022-07-18
 permalink: /poor-sales-and-mixed-reviews/
 image: /images/someone-will-hate-it/nick-drake.jpg
-categories: ["Someone Will Hate It"]
+categories: ["Haterism"]
 ---
 
 Singer-songwriter Nick Drake released three albums before dying from an overdose of antidepressants. He was 26.

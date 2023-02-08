@@ -3,7 +3,7 @@ layout: swhi
 title: '"... whatever you have to do to keep moving forward"'
 date: 2022-01-17
 permalink: /whatever-you-have-to-do-to-keep-moving-forward/
-categories: ["Someone Will Hate It"]
+categories: ["Haterism"]
 ---
 
 Today in the United States we celebrate Martin Luther King Jr. Day. Pundits from all over the political spectrum will gather on Twitter and tv news to quote and misquote King, a Nobel Peace Prize winner and national hero.

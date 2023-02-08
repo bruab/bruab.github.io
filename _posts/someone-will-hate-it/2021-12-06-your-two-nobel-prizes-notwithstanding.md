@@ -3,7 +3,7 @@ layout: swhi
 title: "Your two Nobel Prizes notwithstanding"
 date: 2021-12-06
 permalink: /your-two-nobel-prizes-notwithstanding/
-categories: ["Someone Will Hate It"]
+categories: ["Haterism"]
 ---
 
 Marie Curie and her husband, Pierre, were awarded the 1903 Nobel Prize for Physics in recognition of their research into radioactivity.
