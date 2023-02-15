@@ -40,7 +40,7 @@ And most importantly, being able to decide whom I work with and on what terms is
 
 ### Introspection
 
-I have spent, and continue to spend, a ton of time journaling, reading and reflecting, and talking to others about feelings. (Feel free to browse [dozens of tweets](https://twitter.com/search?q=from%3Abriandavidhall%20(feelings%20OR%20feels)&src=typed_query) on the topic.)
+I have spent, and continue to spend, a ton of time journaling, reading and reflecting, and talking to others about feelings.
 
 Originally I thought of this as a core value, but really I think it gives me the courage and self awareness to be authentic, reduces stress that would compromise my health, and is in fact a form of learning.
 
