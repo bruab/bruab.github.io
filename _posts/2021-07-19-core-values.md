@@ -4,13 +4,13 @@ title: "Core values"
 date: "2021-07-19"
 ---
 
-After much introspection and a dozen or so woo-woo "find yourself" exercises, books, and workshops, these are the 3 things I value most.
+After much introspection and a dozen or so woo-woo "find yourself" [exercises](https://personalvalu.es/), [books](https://parachutebook.com/), and workshops, these are the 3 things I value most.
 
 ## Health
 
 Yeah yeah yeah "if you don't have your health you don't have anything" we all know this, but by default we go on eating poorly, working too much, staring too long at screens, sacrificing sleep, and failing to get enough physical activity.
 
-Trying real hard to put my money where my mouth is here. I'm [ruthless](https://twitter.com/briandavidhall/status/1417118148277506049?s=20) with minimizing screen time. I eat one plant-based meal a day. I'm learning to dance & do BMX bike tricks, to the tune of 2 hours a day.
+Trying real hard to put my money where my mouth is here. I only use my phone for podcasts, music, phone calls and texting. I eat one meal a day, with an emphasis on fresh and locally sourced ingredients. I work out 4-5 mornings a week, and do yard work with hand tools (wheelbarrow, shovel, scythe). I take breaks and go for bike rides.
 
 ## Authenticity
 
@@ -53,3 +53,7 @@ Spending time in nature and also not destroying it are important to me. In a sen
 This one's a mouthful. Since I can remember, I've been motivated to improve quality of life and add meaning to _everyone's_ work life, not just my own.
 
 It's still something I'm passionate about, but now I just see it as another way to value authenticity - alienation springs from being forced into a role where you have to suppress your authentic self.
+
+---
+
+**Edit (2/15/23):** Updated `Health` (I gave up on learning BMX bike tricks but added daily workouts). Also deleted links to Twitter.
