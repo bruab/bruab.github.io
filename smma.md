@@ -13,6 +13,10 @@ Don't hesitate to [get in touch with me](/contact) if you have any questions.
 
 Available [here](https://docs.google.com/presentation/d/14-Rr4CLR1rI3DQ-3_tFwDiiG6B6HHHGBBJJi80PTPFE/edit?usp=sharing).
 
+## UTM link builder
+
+It's here: https://ga-dev-tools.google/ga4/campaign-url-builder/
+
 ## Script: Requesting Google Analytics 4 access
 
 > Hi `{CLIENT}`,
