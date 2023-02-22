@@ -15,7 +15,7 @@ These organizations can afford to devote $5-25k per month to making measured imp
 
 But what about online businesses that are just ... smaller? How can I "do CRO" for them in a way that they can afford, and is sustainable for me?
 
-To try and figure this out, I've written a [book](https://gum.co/your-website-sucks), and I'm promoting it on [podcasts](/guest-spots).
+To try and figure this out, I've written a [book](https://yourwebsitesucks.fyi/), and I'm promoting it on [podcasts](/guest-spots).
 
 I've also gotten back on [Upwork](https://www.upwork.com/freelancers/~01f89afda742da31b3) to see if I can meet clients there.
 
@@ -39,7 +39,7 @@ And if you're in Alabama, or the southeast, we should [chat](/contact) about you
 
 ### Be a guy who writes books for a living
 
-A big part of publishing my [first book](https://gum.co/your-website-sucks) was to check a box that says "wrote and published a book."
+A big part of publishing my [first book](https://yourwebsitesucks.fyi/) was to check a box that says "wrote and published a book."
 
 (Even before that, I published a smol [guide to B2B niches](https://gum.co/niche-list) in order to check a box that says "assembled and published a PDF.")
 
@@ -47,4 +47,4 @@ The book has its own mission, but it's part of a broader, longer term project to
 
 I figure the best way to make this happen is to keep writing and publishing books, getting better at the process *and* developing a clearer picture of the overlap between stuff I want to write about and stuff people will buy books about.
 
-You can help with this project by [buying my book](https://gum.co/your-website-sucks), subscribing to my [newsletter](/newsletter), and hitting Reply once in a while to offer feedback or encouragement. Thank you.
+You can help with this project by [buying my book](https://yourwebsitesucks.fyi/), subscribing to my [newsletter](/newsletter), and hitting Reply once in a while to offer feedback or encouragement. Thank you.

@@ -5,7 +5,7 @@ date: 2023-01-11
 tags: []
 ---
 
-Here's an illustration from [my book](https://gum.co/your-website-sucks):
+Here's an illustration from [my book](https://yourwebsitesucks.fyi/):
 
 [![image of bad SEO copy](/images/foreclosed-home.png)](/images/foreclosed-home.png)
 

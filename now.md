@@ -6,10 +6,10 @@ Here's what I'm working on at the moment*
 
 ## Creative stuff
 
-- Publishing a [book about websites](https://helpthisbook.com/briandavidhall/your-website-sucks)
+- Promoting a [book about websites](https://yourwebsitesucks.fyi/)
+- Aiming to finish a new book (about criticism & creativity) by March 2023
 - Writing a [weekly newsletter](/newsletter) and a [monthly newsletter](/blip)
 - Writing utopian science fiction for [30 minutes a week](https://lu.ma/fiction-pomodoros)
-- Aiming to finish a new book (about criticism & creativity) by March 2023
 
 ## Human stuff
 
