@@ -51,22 +51,6 @@ Free with [this link](https://briandavidhall.gumroad.com/l/sell-and-deliver-cro/
 
 # Events
 
-## Work on your site
+## Social pomododros 🍅
 
-{% include image.html url="/images/woys-cover.png" alt="cover image for Work on your site" %}
-
-Show up, say hi, then: Heads down, knocking out your website update & improvement TODO list. [Here's the link](https://lu.ma/work-on-your-site).
-
----
-
-## Long game outreach club
-
-{% include image.html url="/images/lgoc-cover.png" alt="cover image for Long game outreach club" %}
-
-Get together with freelancers, business owners, creators, and others, then devote half an hour to thoughtfully expanding your network in a spam-free fashion. Sign up [here](https://lu.ma/long-game).
-
----
-
-## Snowflake Fiction Pomodoros
-
-Meet up with other amateur fiction writers for a 30 minute focused writing block. Join [here](https://lu.ma/fiction-pomodoros).
+Every Tuesday at 11am US-Central, I host a casual-yet-focused coworking session. More info [here](/social-pomodoros).

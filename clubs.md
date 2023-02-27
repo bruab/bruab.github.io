@@ -3,4 +3,4 @@ layout: post
 title: Clubs
 ---
 
-{% include redirect.html url="/meetups/" %}
+{% include redirect.html url="/social-pomodoros/" %}

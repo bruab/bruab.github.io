@@ -18,9 +18,9 @@ Try it, it's fun!
 
 ---
 
-### I host 4 meetups a week! 😅
+### I host a weekly coworking session!
 
-Here's a [full list](/meetups).
+More info [here](/social-pomodoros).
 
 Stop by sometime!
 
