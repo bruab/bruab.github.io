@@ -10,6 +10,7 @@ There are several boxes you have to check before someone will buy your thing.
 Check out [Landing Page Audit-in-a-box](/free) for a full list, but for now let's just focus on two of them:
 
 ◻️ Do other people use it?
+
 ◻️ Yeah but what about ... ?
 
 The first concern is commonly addressed by providing "social proof"—evidence that the product is appreciated by actual human beings.
