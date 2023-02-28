@@ -1,8 +1,7 @@
 #!/bin/bash
-# Create a new jekyll post with the current date and the given title
+# Create a new jekyll post with the given date and title
 # and print the path to the post file.
 #
-# author: andreasl
 
 post_title="$1"
 [ -z "$post_title" ] && printf 'Error: Script needs a post title.\n' && exit 1
