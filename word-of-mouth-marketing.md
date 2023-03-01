@@ -34,7 +34,7 @@ Given it's published as part of the content marketing strategy for an ecomm plat
 
 It's got some helpful stats (which we should take with a grain of salt).
 
-- Google Ads click-through rates are going down (not to mentio cost per action)
+- Google Ads click-through rates are going down (not to mention cost per action)
 - Same for social media
 - Apparently 40% of leads come from word of mouth (?)
 
