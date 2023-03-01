@@ -1,0 +1,119 @@
+{
+  "scale": "cosmological",
+  "title": {
+    "text": {
+      "headline": "The history of croissants",
+      "text": "🥐"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "/images/homo-sapiens.png",
+        "thumbnail": "/images/homo-sapiens.png"
+      },
+      "start_date": {
+        "year": "-271821"
+      },
+      "display_date": "~300,000 years ago",
+      "text": {
+        "headline": "Homo sapiens",
+        "text": "The first modern humans appear on planet Earth, including your great-great-great-(x15,000)-grandparents."
+      }
+    },
+    {
+      "media": {
+        "url": "/images/flint.png",
+        "thumbnail": "/images/flint.png"
+      },
+      "start_date": {
+        "year": "-40000"
+      },
+      "display_date": "~40,000 years ago",
+      "text": {
+        "headline": "Fire",
+        "text": "Humans figure out how to start fires using flint."
+      }
+    },
+    {
+      "media": {
+        "url": "/images/hieroglyphics.png",
+        "thumbnail": "/images/hieroglyphics-thumb.png"
+      },
+      "start_date": {
+        "year": "-7000"
+      },
+      "display_date": "~7,000 years ago",
+      "text": {
+        "headline": "Agriculture + civilization",
+        "text": "Humans start cultivating crops (including wheat)"
+      }
+    },
+    {
+      "media": {
+        "url": "/images/kifli.jpeg",
+        "thumbnail": "/images/kifli.jpeg"
+      },
+      "start_date": {
+        "year": "-800"
+      },
+      "display_date": "~800 years ago",
+      "text": {
+        "headline": "Kifli",
+        "text": "First recorded recipe for kifli, an early, cookie-like version of croissants."
+      }
+    },
+    {
+      "media": {
+        "url": "/images/boulangerie-viennoise.jpeg",
+        "thumbnail": "/images/boulangerie-viennoise.jpeg"
+      },
+      "start_date": {
+        "year": "-200"
+      },
+      "display_date": "~200 years ago",
+      "text": {
+        "headline": "Croissants",
+        "text": "First croissant bakery opens in Paris."
+      }
+    },
+    {
+      "media": {
+        "url": "/images/roller-mills.jpeg",
+        "thumbnail": "/images/roller-mills.jpeg"
+      },
+      "start_date": {
+        "year": "-150"
+      },
+      "display_date": "~150 years ago",
+      "text": {
+        "headline": "Roller mills",
+        "text": "The introduction of roller mills increases output and allows for a finer finished product."
+      }
+    },
+    {
+      "start_date": {
+        "year": "0"
+      },
+      "display_date": "(now)",
+      "text": {
+        "headline": "You are here",
+        "text": "Welcome to the present moment. (It is what it is.)"
+      }
+    },
+    {
+      "media": {
+        "url": "/images/space-croissant.png",
+        "thumbnail": "/images/space-croissant.png"
+      },
+      "start_date": {
+        "year": "300000"
+      },
+      "display_date": "300,000 years from now",
+      "text": {
+        "headline": "Distant future",
+        "text": "In another 300,000 years, will we still eat croissants? NO ONE KNOWS"
+      }
+    }
+  ]
+}

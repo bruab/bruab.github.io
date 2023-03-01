@@ -1,0 +1,19 @@
+<link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+<script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+<div id='timeline-embed' style="width: 100%; height: 400px"></div>
+
+<script type="text/javascript">
+  var options = {
+    timenav_height: 50,
+    timenav_min_height: 50,
+    scale_factor: 2
+  } 
+  timeline = new TL.Timeline('timeline-embed', '/assets/json/croissants-timeline.json', options);
+</script>
+
+<style type="text/css">
+.tl-timeaxis-tick-text {
+  visibility: hidden;
+}
+</style>

@@ -9,9 +9,11 @@ The flaky, buttery delight known as the croissant has only been around for a cou
 
 But croissants represent a refinement of a recipe that's been around for nearly a thousand years, and which represents quite a bit of technological sophistication in its own right.
 
-{% include image.html url="/images/kifli-croissant.png" alt="kifli and croissant side by side" %}
+{% include croissants_timeline.html %}
 
 The central European [kifli](https://en.wikipedia.org/wiki/Kifli) is a crescent-shaped treat, sometimes a roll and sometimes a cookie. The first documented mention of kifli was in 1227, and no doubt they'd been on breakfast plates for some time before then.
+
+{% include image.html url="/images/kifli-croissant.png" alt="kifli and croissant side by side" %}
 
 To make kifli, humans had to discover and control fire, and learn to build ovens that allow us to regulate temperature while baking. We had to adopt agriculture, domesticate wheat, and implement a division of labor that creates a surplus of the crop. We had to invent the mill, to process wheat into flour. And we had to have some type of understanding of yeast, and how it works.
 
@@ -42,3 +44,4 @@ But if you _do_ think of them as technology, as I would urge you to, they might 
 Croissants represent an evolution of an already-beloved part of everyday life, one that builds on existing knowledge and harnesses a deep understanding of how the world works in order to produce something that is _absolutely delightful_.
 
 This is what technology should do for us. Don't look at robot police dogs, or [babbling automata](why-i-wont-use-ai), or a [weird thing that flies around your home in order to sell you stuff](https://arstechnica.com/gadgets/2021/09/amazon-takes-on-nest-with-an-ultra-cheap-60-smart-thermostat/)  and ask "Hmm, how might this be useful?" Ask instead: "Is this as good as a croissant?"
+
