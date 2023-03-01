@@ -53,3 +53,9 @@ _-- Jean-Paul Sartre, [The Words](https://archive.org/details/words00jean/page/2
 
 _-- Arthur C. Clarke, [Los Angeles Free Press interview](https://quoteinvestigator.com/2018/11/11/goal/)_
 
+---
+
+> For at least another hundred years we must pretend to ourselves and to every one that fair is foul and foul is fair; for foul is useful and fair is not. Avarice and usury and precaution must be our gods for a little longer still.
+
+_-- John Maynard Keynes, [Economic Possibilities for our Grandchildren](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf), 1930_
+
