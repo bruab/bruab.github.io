@@ -59,3 +59,10 @@ _-- Arthur C. Clarke, [Los Angeles Free Press interview](https://quoteinvestigat
 
 _-- John Maynard Keynes, [Economic Possibilities for our Grandchildren](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf), 1930_
 
+---
+
+> “The law, in its majestic equality, forbids the rich as well as the poor to sleep under bridges, to beg in the streets, and to steal bread.”
+
+_-- Anatole France, [Le Lys Rouge](https://fr.wikisource.org/wiki/Le_Lys_rouge/VII)_
+
+
