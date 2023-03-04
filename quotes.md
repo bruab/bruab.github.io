@@ -49,12 +49,6 @@ _-- Karl Marx, [Capital: Volume 3, Ch. 48](https://www.marxists.org/archive/marx
 
 ---
 
-> I attempted to reveal the silence of being by a thwarted rustling of words and, what was most important, I confused things with their names: that amounts to believing.
-
-_-- Jean-Paul Sartre, [The Words](https://archive.org/details/words00jean/page/250/mode/2up?q=%22thwarted+rustling+of+words%22)_
-
----
-
 > The goal of the future is full unemployment, so we can play.
 
 _-- Arthur C. Clarke, [Los Angeles Free Press interview](https://quoteinvestigator.com/2018/11/11/goal/)_
@@ -67,7 +61,7 @@ _-- John Maynard Keynes, [Economic Possibilities for our Grandchildren](http://w
 
 ---
 
-> “The law, in its majestic equality, forbids the rich as well as the poor to sleep under bridges, to beg in the streets, and to steal bread.”
+> The law, in its majestic equality, forbids the rich as well as the poor to sleep under bridges, to beg in the streets, and to steal bread.
 
 _-- Anatole France, [Le Lys Rouge](https://fr.wikisource.org/wiki/Le_Lys_rouge/VII)_
 
