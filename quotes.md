@@ -13,6 +13,12 @@ _-- Zhuangzi_
 
 ---
 
+> I was taught when there's somethin' you can change around / Keep quiet, you got nothin' to complain about / You got work to do
+
+_-- Mos Def, [Champion Requiem](https://genius.com/1236260)_
+
+---
+
 > If you want to build a ship, don’t drum up people to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.
 
 _-- Antoine de Saint-Exupery_
