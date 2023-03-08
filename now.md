@@ -6,7 +6,7 @@ Here's what I'm working on at the moment*
 
 ## Creative stuff
 
-- Promoting a [book about websites](https://yourwebsitesucks.fyi/)
+- Promoting a [book about websites](https://www.amazon.com/dp/B0BVSXB5W7)
 - Aiming to finish a new book (about criticism & creativity) by March 2023
 - Writing a [weekly newsletter](/newsletter) and a [monthly newsletter](/blip)
 - Writing utopian science fiction for [30 minutes a week](https://lu.ma/fiction-pomodoros)

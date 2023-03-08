@@ -3,7 +3,7 @@ layout: no-footer
 title: Coaching
 ---
 
-You can (and should!) take the fabulous [courses](/courses) I've put together, and read my amazing [book](https://yourwebsitesucks.fyi/). 
+You can (and should!) take the fabulous [courses](/courses) I've put together, and read my amazing [book](https://www.amazon.com/dp/B0BVSXB5W7). 
 
 You can (and should!) also sign up for my ever-informative [newsletter](/newsletter), and stop by my [weekly website working sessions](https://lu.ma/work-on-your-site).
 

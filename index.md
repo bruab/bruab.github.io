@@ -4,7 +4,7 @@ layout: home
 
 ### I wrote a book!
 
-**Your Website Sucks, here's how to fix it** is available on [Gumroad](https://shop.briandavidhall.com/l/your-website-sucks) and [Amazon](https://www.amazon.com/dp/B0BVSXB5W7).
+**Your Website Sucks, here's how to fix it** is available on [Amazon](https://www.amazon.com/dp/B0BVSXB5W7).
 
 Go buy it!
 
