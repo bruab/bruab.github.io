@@ -8,12 +8,8 @@ Every Friday, I send a short, skimmable update on things I'm working on.
 
 Including but not limited to:
 
-- Excerpts from books I'm working on ...
-  - About [outreach](/long-game-outreach-manifesto)
-  - About [dealing with criticism](/someone-will-hate-it)
-  - About [epistemology](/we-dont-know-shit)
-  - About [freelance accounting](/you-have-to-learn-accounting-sorry)
-- Podcast appearances
+- Excerpts from books I'm working on (about [outreach](/long-game-outreach-manifesto), [dealing with criticism](/someone-will-hate-it), [epistemology](/we-dont-know-shit), and [freelance accounting](/you-have-to-learn-accounting-sorry).)
+- New videos & podcasts
 - Goings-on from the [meetups](/meetups) and events I host
 
 Sign up here:
