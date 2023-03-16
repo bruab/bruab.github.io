@@ -1,5 +1,5 @@
 ---
-layout: swhi
+layout: post
 title: '"... whatever you have to do to keep moving forward"'
 date: 2022-01-17
 permalink: /whatever-you-have-to-do-to-keep-moving-forward/

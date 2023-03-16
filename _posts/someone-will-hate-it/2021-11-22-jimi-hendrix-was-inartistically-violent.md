@@ -1,5 +1,5 @@
 ---
-layout: swhi
+layout: post
 title: "Jimi Hendrix was inartistically violent"
 date: "2021-11-22"
 permalink: /jimi-hendrix-was-inartistically-violent/

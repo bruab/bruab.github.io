@@ -1,5 +1,5 @@
 ---
-layout: swhi
+layout: post
 title: '"Too many notes"'
 date: 2021-12-13
 permalink: /too-many-notes/

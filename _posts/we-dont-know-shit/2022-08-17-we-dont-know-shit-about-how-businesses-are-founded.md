@@ -1,5 +1,5 @@
 ---
-layout: wedk
+layout: post
 title: "We don't know shit about how businesses are founded"
 date: 2022-08-17
 permalink: /we-dont-know-shit-about-how-businesses-are-founded/

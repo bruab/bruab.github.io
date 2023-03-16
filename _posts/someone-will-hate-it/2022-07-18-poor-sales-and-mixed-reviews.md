@@ -1,5 +1,5 @@
 ---
-layout: swhi
+layout: post
 title: "Poor sales and mixed reviews"
 date: 2022-07-18
 permalink: /poor-sales-and-mixed-reviews/

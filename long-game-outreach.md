@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: no-footer
 title: Long game outreach
 permalink: /long-game-outreach/
 ---

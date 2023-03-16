@@ -16,7 +16,7 @@ Here are the tools I use to do stuff:
 - ScreenFlow - for recording and editing videos
 - Final Cut Pro X - same as ☝️ but I'm still learning the tool
 - Camo - Lets me use an old iphone with a cracked screen as a webcam
-- Buttondown - to send my [newsletter](/newsletter)
+- ConvertKit - to send my [newsletter](/newsletter)
 - Gumroad - to sell [books and courses](https://shop.briandavidhall.com/)
 - Vellum - to edit [books](/books)
 - Namecheap - to buy domain names which I sometimes use

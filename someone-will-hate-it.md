@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: no-footer
 title: Someone will hate it
 permalink: /someone-will-hate-it/
 ---

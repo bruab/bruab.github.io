@@ -1,5 +1,5 @@
 ---
-layout: swhi
+layout: post
 title: "When they decide you don't exist"
 date: 2022-01-24
 permalink: /when-they-decide-you-dont-exist/

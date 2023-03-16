@@ -1,5 +1,5 @@
 ---
-layout: swhi
+layout: post
 title: "The hopelessly vulgar music of Ludwig van Beethoven"
 date: 2022-11-07
 permalink: /the-hopelessly-vulgar-music-of-ludwig-van-beethoven/

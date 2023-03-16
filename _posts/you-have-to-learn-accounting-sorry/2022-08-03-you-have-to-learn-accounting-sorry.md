@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: no-footer
 title: "You have to learn accounting (sorry)"
 date: 2022-08-03
 permalink: /you-have-to-learn-accounting-sorry/
