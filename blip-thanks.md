@@ -16,7 +16,7 @@ And if you feel like reading something right this moment, here are some previous
 
 <script>
 window.addEventListener('load', (event) => {
-  fathom.trackGoal('HCYQNDZN', 0);
+  fathom.trackGoal('TPAE2NET', 0);
 });
 </script>
 
