@@ -1,5 +1,5 @@
 ---
-layout: lgo
+layout: post
 title: "What to do during your first outreach session"
 date: 2022-11-01
 permalink: /what-to-do-during-your-first-outreach-session/

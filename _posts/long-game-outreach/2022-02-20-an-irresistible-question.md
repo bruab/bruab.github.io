@@ -1,5 +1,5 @@
 ---
-layout: lgo
+layout: post
 title: "An irresistible question"
 date: "2022-02-20"
 categories: ["Long Game Outreach"]
