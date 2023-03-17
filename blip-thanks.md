@@ -1,15 +1,18 @@
 ---
 layout: no-footer
-title: Thanks for subscribing!
+title: Thanks for subscribing to Blip!
 ---
 
 ![gif of me typing, seeing a new subscriber, giving thumbs up](/images/newsletter-ty.gif)
 
-You'll get an email toward the end of every month.
+You'll get an email month or so.
 
 If you ever have a question or suggestion, just hit Reply on any email. I read every message.
 
-And if you feel like reading something right this moment, check out my old [posts](/blog) or take a look at my [now](/now) page.
+And if you feel like reading something right this moment, here are some previous posts:
+
+- [Blip 000: Weird present](/blip/000)
+- [Blip 001: Croissants and coffee on the porch](/blip/001)
 
 <script>
 window.addEventListener('load', (event) => {
@@ -18,7 +21,7 @@ window.addEventListener('load', (event) => {
 </script>
 
 <script>
-setCookie('s', 'y');
+setCookie('b', 'y');
 
 /* Set a cross-subdomain cookie */
 function setCookie(name, value, optDays) {
