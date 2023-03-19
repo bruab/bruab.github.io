@@ -13,7 +13,7 @@ Thanks for listening! Here are a few things you might find useful. (And don't he
 
 Videos and resources to help you _plan_ a website for your freelance business, and make sure your offer and copy is motivating to potential clients.
 
-Access it [here](https://gum.co/freelance-website-blueprint).
+Access it [here](https://briandavidhall.gumroad.com/l/freelance-website-blueprint/freepage).
 
 Already got a website? Check out ...
 
