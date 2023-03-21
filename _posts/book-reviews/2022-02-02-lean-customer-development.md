@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Book review: Lean Customer Development"
+categories: ["Book reviews"]
+date: 2022-02-02
+image: /images/lean-customer-development.png
 ---
 
 [![lean customer development book cover](/images/lean-customer-development.png)](/images/lean-customer-development.png)
