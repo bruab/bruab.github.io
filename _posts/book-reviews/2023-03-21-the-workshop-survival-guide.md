@@ -12,6 +12,7 @@ image: /images/workshop-survival-guide.jpeg
 
 **Why read it?** Short, quick read, but thorough. Whatever issues you might have as a facilitator, there's a straightforward model for how to improve them in this book. Also, great stories.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6zIUVTITbb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Notes:**
 
