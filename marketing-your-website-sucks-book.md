@@ -47,5 +47,9 @@ I appeared on the [Freelance Podclass](https://www.freelanceu.com/freeupodcast/w
 
 I offered listeners a [free course](https://gum.co/freelance-website-blueprint) and a few have signed up. Maybe some will buy the book at some point. Overall, though, I found the coordination and pressure of recording an interview to be pretty draining, so I decided to focus on writing guest blog posts instead.
 
+### Listing ebook on non-Kindle marketplaces (March 2023)
+
+I used Draft2Digital to list my book on [Apple Books](https://books.apple.com/us/book/id6446703556) and [Barnes and Noble](https://www.barnesandnoble.com/w/your-website-sucks-brian-david-hall/1143252488;jsessionid=9E6A7C270BD882C045BD53C6715565F2.prodny_store01-atgap16?ean=2940166936639), plus a few places I've never even heard of: [Rakuten Kobo](https://www.kobo.com/us/en/ebook/your-website-sucks), [Smashwords](https://www.smashwords.com/books/view/1367956), Tolino, Borrow Box.
+
 ### (to be continued)
 
