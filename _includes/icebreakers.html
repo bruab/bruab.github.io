@@ -1,0 +1,73 @@
+<script>
+  var icebreakers = [
+    "What song was your teenage anthem?",
+    "What's something you feel proud of this week?",
+    "What's your most-played song lately?",
+    "Waffles or pancackes?",
+    "Describe yourself in three words.",
+    "What's something on your bucket list?",
+    "What's the first album you ever bought?",
+    "What's something new you tried lately?",
+    "What's the last great TV show you watched?",
+    "Tell us a weird fact you happen to know for no reason.",
+    "Would you rather speak 10 languages or play 10 instruments?",
+    "Which two companies would you like to be sponsored by?",
+    "If you could make an office rule that everyone had to follow for a day, what would it be?",
+    "What is the best concert/ festival you have ever been to?",
+    "What three items would you bring with you on a deserted island?",
+    "What is your favorite season?",
+    "What’s your favorite holiday?",
+    "What is your favorite winter meal?",
+    "If you could live in a different country for a year, which country would you choose?",
+    "How has your taste in music changed in the past 10 years?",
+    "Tell us about the room you're in.",
+    "What did you eat for breakfast?",
+    "Tell us about your morning routine.",
+    "Coffee, tea, or (other)?",
+    "What's your zombie apocalypse skill?",
+    "What's your go-to karaoke song?",
+    "If you had to delete all but 3 apps from your smartphone, which ones would you keep?",
+    "What was the worst job you ever had?",
+    "What is your favorite dessert?",
+    "What languages do you know how to speak?",
+    "What’s the weirdest food you’ve ever eaten?",
+    "If you could bring back any fashion trend what would it be?",
+    "Do you play any sports?",
+    "Do you play any instruments?",
+    "What song or album could you listen to on repeat?",
+    "What is the best dish you can cook?",
+    ""
+  ];
+
+  // Add event listener for button click
+  document.addEventListener(
+    "click",
+    function(event) {
+      if (event.target.matches(".get-another")) {
+        update();
+      }
+    },
+    false
+  );
+  document.querySelector(".get-another").click(update);
+
+  // Update placehlder niche
+  update();
+
+  function update() {
+    console.log("update");
+    var icebreaker = randomFromArray(icebreakers);
+
+    document.querySelector(".icebreaker").innerText = icebreaker;
+  }
+
+  function randomFromArray(array) {
+    return array[Math.floor(Math.random() * array.length)];
+  }
+</script>
+
+<style>
+  .icebreaker {
+    font-size: 4em;
+  }
+</style>
