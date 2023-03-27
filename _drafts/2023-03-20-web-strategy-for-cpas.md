@@ -7,11 +7,12 @@ date: 2023-03-20
 # How to optimize your website for leads
 
 - intro
+  - prioritize, not every pixel matters
+  - design & copy make a difference but not as much as a clear offer, so focus on that
 
 - decide on your offer
   - probably "reach out"
   - but consider "book a call"
-  - could be "download this resource" but be sure you can bring in clients via email
 
 ## Decide on your offer
 
@@ -47,11 +48,35 @@ If it's "Contact us"—what kind of followup should they expect, and how soon? W
 If it's "Book a call"—what questions will you answer during the call? What should they prepare before showing up, and what will they take away from the conversation? What hesitation might they feel about scheduling this conversation, and can you address them directly? (For example, by saying "This isn't a sales pitch. It's just a quick discussion to better understand your tax and financial situation.")
 
 
+- TODO more on each path? like .. 3 tips for each?
+  - contact us
+    - set expectations
+    - reduce form fields
+    - remove distractions
+  - schedule a call
+    - set expectations
+    - anticipate hesitation ("no sales pitch")
+    - make the value clear
+  - in either case
+    - verify mobile experience
+    - make sure it works lol
 
 - make it obvious, make it appealing
   - this means, by default, eliminating clutter and popups and stuff
   - ask for only what you need and explain why you're asking
 
+## Get feedback from actual humans
+
+You could hire an agency and pay them tens of thousands of dollars to conduct usability studies on your website. But it's possible to uncover the biggest issues with a few quick rounds of informal user testing.
+
+Here's how to do it:
+
+- Find a friend, colleague, or a stranger in a cafe—someone who hasn't used your website before
+- Recruit them: "I'm making some updates to my website and want to get an outsider's view. Can you spare 5 minutes to help out?"
+- Prepare them: "Imagine you're looking for a CPA. You need someone who works with small businesses*. Visit this address, find out if it meets your needs, and if so, take the next step toward hiring me. Go slowly and share your thought process out loud (even if that seems a little weird)"
+- Watch them: Let them navigate your site and talk through what they're doing. You'll learn a lot, and if there's any confusing language, or it's hard to find important information, you'll know it right away. You'll also be able to catch any friction with your signup or scheduling process
+
+Do just 3-5 of these sessions, and you'll know what (if anything) needs fixing on your site. Once that's taken care of, you can relax, knowing that your website is working to bring in leads.
 
 - test it in the wild
   - hallway usability testing
