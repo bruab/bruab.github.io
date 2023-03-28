@@ -5,6 +5,7 @@ title: Stack
 
 Here are the tools I use to do stuff:
 
+- [GitHub Pages](https://pages.github.com/), to host this site and [others](/sites)
 - [Fathom analytics](https://usefathom.com/ref/BLQQDD) - to tell me where people go on this site and [others](/websites) (affiliate link 💰)
 - [UsabilityHub](https://usabilityhub.com/) - for quick user research studies. ([See here](/affiliate-links) for coupon codes! You can get 10% off a subscription & 20 free testing credits)
 - Canva - to design amazing YouTube thumbnails
