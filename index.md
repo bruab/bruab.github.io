@@ -6,8 +6,6 @@ layout: home
 
 {% include yws-hero.html %}
 
-<br />
-
 <center><a class="btn primary-cta" href="https://www.amazon.com/dp/B0BVSXB5W7">BUY IT</a></center>
 
 ---
