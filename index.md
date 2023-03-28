@@ -2,11 +2,13 @@
 layout: home
 ---
 
-### I wrote a book!
+## My book is available on Amazon!
 
-**Your Website Sucks, here's how to fix it** is available on [Amazon](https://www.amazon.com/dp/B0BVSXB5W7).
+{% include yws-hero.html %}
 
-Go buy it!
+<br />
+
+<center><a class="btn primary-cta" href="https://www.amazon.com/dp/B0BVSXB5W7">BUY IT</a></center>
 
 ---
 
@@ -28,7 +30,7 @@ Stop by sometime!
 
 ### I look like this:
 
-[![](images/me-with-chickens.png)](images/me-with-chickens.png)
+[![](/images/me-with-chickens.png)](/images/me-with-chickens.png)
 
 You can get in [contact](/contact) with me, or read some [posts](/blog).
 

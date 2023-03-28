@@ -1,0 +1,14 @@
+<div class="image-wrapper" >
+    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+      <img class="hero" src="/images/yws-hero-1.png" alt="my book, ravenous fans, jeff b" onmouseenter="highlight(this)" onmouseleave="unhighlight(this)">
+    </a>
+</div>
+
+<script>
+  function highlight(image) {
+    image.src = "/images/yws-hero-2.png";
+  }
+  function unhighlight(image) {
+    image.src = "/images/yws-hero-1.png"; //Gray Image
+  }
+</script>
