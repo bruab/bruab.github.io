@@ -6,11 +6,11 @@ date: 2023-03-20
 
 # How to optimize your website for leads
 
-User experience matters—that's why companies like Amazon, Google, and Bing conduct [thousands of experiments per year](https://hbr.org/2017/09/the-surprising-power-of-online-experiments). Even a minor tweak in the layout or wording of a page can have an impact on visitor behavior.
+Your website's copy and layout matter—that's why companies like Amazon, Google, and Bing conduct [thousands of experiments per year](https://hbr.org/2017/09/the-surprising-power-of-online-experiments). Even a minor tweak in the layout or wording of a page can have an impact on visitor behavior.
 
 Of course, those sites also have millions of visitors per day. Your firm doesn't have that luxury, but you can still make changes that improve your chances of converting site visitors into leads.
 
-It all starts with prioritization. The top of the page is more important than what's at the bottom. Headings and buttons matter more than body text. And the most important element of all is the specific action you ask visitors to take.
+It all starts with prioritization: The top of the page is more important than what's at the bottom. Headings and buttons matter more than paragraph text. And the most important element of all is the specific action you ask visitors to take.
 
 ## Decide on your offer
 
@@ -57,7 +57,7 @@ While you're at it, remove any form fields you don't need. Don't ask them to typ
 
 Compare the following two forms. Which one would you be more likely to fill out?
 
-TODO_FORM_EXAMPLES
+{% include image.html url="/images/long-form-short-form.png" %}
 
 ### Optimizing "Book a call"
 
@@ -74,6 +74,8 @@ Once you've made these updates to your site, _be sure to  TODO ...
   - in either case
     - verify mobile experience
     - make sure it works lol
+
+{% include image.html url="/images/mobile-cpa.png" caption="If your page is hard to read, people just won't read it." %}
 
 ## Get feedback from actual humans
 
