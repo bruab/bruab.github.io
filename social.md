@@ -7,7 +7,7 @@ I'm not on social media, in an effort to be [less miserable](https://garden.bria
 
 I do still share videos on [YouTube](https://www.youtube.com/@briandavidhall).
 
-Feel free to stop by any of these places, but don't hesitate to [contact](/contact) me directly.
+Don't hesitate to [contact](/contact) me directly, or show up at a [coworking session](/social-pomodoros) and ask me about it.
 
 ---
 
