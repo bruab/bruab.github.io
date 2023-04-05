@@ -11,6 +11,10 @@ Here are a few of my favorite examples.
 
 Tiff Zhang's [Startup Generator](http://tiffzhang.com/startup/) is the best thing ever.
 
+## Icebreakers
+
+I made a [page](/icebreakers) that prompts you with an icebreaker for your boring zoom calls.
+
 ## Niche service offerings
 
 I built a [niche generator](/niche-generator) to inspire service providers to focus their offering (and/or buy my $3 niche ebook).

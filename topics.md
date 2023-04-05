@@ -14,14 +14,19 @@ Here's a partial list of stuff I like to talk about.
     - Remote work culture
     - Effective meetings
     - Deep work
+    - App overload
+    - Migrating away from Google products
+    - Doing things from the command line
 - Website stuff
     - UX, analytics, conversion
+    - Online advertising and whether or not it's broken
 - World cultures
     - Korea
     - Spain
 - Food
     - Vegan-curious cooking
     - Everything is Bad For You
+    - Italian cooking
 - Philosophy
     - Taoism
     - Metamodernism
@@ -39,4 +44,3 @@ Here's a partial list of stuff I like to talk about.
     - Many many more
 
 Please feel free to draw from this list for small talk on our next call. If we don't have a call scheduled, feel free to [reach out](/contact).
-
