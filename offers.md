@@ -22,3 +22,7 @@ I will probably try _selling_ seeds and starters, but if you just want a few see
 ## Website audit (trade)
 
 I [sell these for $250](/audit), but if you're reading this and can't afford that, let's try and work out a trade.
+
+---
+
+_This page was inspired by attending an [Offers and Needs Market](https://offersandneeds.com/). If you think that sounds interesting, you should try one!_

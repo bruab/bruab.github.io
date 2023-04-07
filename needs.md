@@ -18,3 +18,7 @@ If you know about this stuff and are patient enough to answer some dumb question
 ## Alpha / beta readers for my book about criticism (or the next one)
 
 There's no telling exactly what phase the book will be in as you read this, but I've almost always got something in need of feedback. Just [get in touch](/contact) and let me know you're available to help.
+
+---
+
+_This page was inspired by attending an [Offers and Needs Market](https://offersandneeds.com/). If you think that sounds interesting, you should try one!_
