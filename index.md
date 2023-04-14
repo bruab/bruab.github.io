@@ -30,6 +30,6 @@ Stop by sometime!
 
 [![](/images/me-with-chickens.png)](/images/me-with-chickens.png)
 
-You can get in [contact](/contact) with me, or read some [posts](/blog).
+You can get in [contact](/contact) with me, or read some [posts](/blog). Or for slightly shorter (and spicier) takes, check out my [digital garden](https://garden.briandavidhall.com/).
 
 Thanks for visiting.
