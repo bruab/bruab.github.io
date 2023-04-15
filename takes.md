@@ -3,6 +3,12 @@ layout: post
 title: Takes
 ---
 
+> the only truly deplorable kink is the urge to legislate what other people do in the bedroom
+
+_5:12 PM • Saturday, April 15, 2023_
+
+---
+
 > trying to understand the social phenomenon where lazy thinkers gain clout by making grandiose proclamations about the inevitable disruption `{tech thing}` will bring. we saw this with crypto, metaverse, now with ai. i am tired
 
 _6:04 PM • Wednesday, April 12, 2023_
