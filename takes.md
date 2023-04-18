@@ -3,6 +3,12 @@ layout: post
 title: Takes
 ---
 
+> just talked to a guy who had a linkedin promotional group of 15 people, each of whom posted 3x/week for several months, and consistently commented on each other's posts in an attempt to game the algorithm. result: lots of impressions, hardly any comments from outside the group, zero new business.
+
+_10:30 AM • Tuesday, April 18, 2023_
+
+---
+
 > "To accept opinions [...] is to gain the good solid feeling of being correct without having to think" okay that explains a lot. (via: c wright mills)
 
 _6:48 AM • Tuesday, April 18, 2023_
