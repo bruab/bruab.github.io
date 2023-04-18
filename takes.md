@@ -3,6 +3,12 @@ layout: post
 title: Takes
 ---
 
+> "To accept opinions [...] is to gain the good solid feeling of being correct without having to think" okay that explains a lot. (via: c wright mills)
+
+_6:48 AM • Tuesday, April 18, 2023_
+
+---
+
 > the only truly deplorable kink is the urge to legislate what other people do in the bedroom
 
 _5:12 PM • Saturday, April 15, 2023_
