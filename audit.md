@@ -42,6 +42,4 @@ I’ll condense everything I know about what visitors expect, what moves the nee
 
 ## "What does it cost?"
 
-A website audit costs $250, paid up front.
-
-<div class="center"><a class="btn primary-cta" href="https://buy.stripe.com/9AQaI36yh3jy5m86oo">Get an audit</a></div>
+I've sold these audits for $300 in the past, but nowadays they're free / trade / donation optional. If you'd like one, just [get in touch](/contact).

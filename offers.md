@@ -19,9 +19,9 @@ _Assuming everything goes according to plan_, I'll be growing goosefoot and a fe
 
 I will probably try _selling_ seeds and starters, but if you just want a few seeds to try planting, [let me know](/contact).
 
-## Website audit (trade)
+## Website audit (trade / donation)
 
-I [sell these for $250](/audit), but if you're reading this and can't afford that, let's try and work out a trade.
+See [here](/audit) for more info.
 
 ---
 
