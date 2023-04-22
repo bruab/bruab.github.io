@@ -29,6 +29,8 @@ Here are the tools I use to do stuff:
 - Reeder - to read RSS feeds
 - Overcast - to listen to podcasts
 
-Here's a little map of what stuff I store locally vs. on other people's computers (a.k.a. "the cloud"):
+Here's a little map of what stuff I store locally vs. on other people's computers (a.k.a. "the cloud").
+
+(If the image makes your eyeballs bleed, the short version is "web hosting and email in the cloud, other stuff local.")
 
 {% include image.html url="/images/map-of-tools-and-platforms.png" %}
