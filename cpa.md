@@ -7,17 +7,6 @@ Thanks for reading my post in Accounting Today! Here are a couple resources you 
 
 ## Free 
 
-### Freelance Website Blueprint
-
-{% include image.html url="/images/fwb-cover.png" alt="cover image for Freelance Website Blueprint" %}
-
-Videos and resources to help you _plan_ a website for your freelance business, and make sure your offer and copy is motivating to potential clients.
-
-Access it [here](https://briandavidhall.gumroad.com/l/freelance-website-blueprint/freepage).
-
-Already got a website? Check out ...
-
-
 ### First Impressions Workshop
 
 {% include image.html url="/images/fiw-cover.png" alt="cover image for First Impressions Workshop" %}
