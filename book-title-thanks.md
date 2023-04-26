@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: no-footer
 title: Thanks for voting!
 ---
 
