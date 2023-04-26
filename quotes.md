@@ -37,6 +37,12 @@ _-- Unknown_
 
 ---
 
+> To avoid criticism say nothing, do nothing, be nothing.
+
+_-- Elbert Hubbard, Little Journeys to the Homes of the Great Vol. 3: American Statesmen_
+
+---
+
 > Necessitous men are not free men.
 
 _-- Franklin D Roosevelt, [State of the Union (January 11, 1944)](https://web.archive.org/web/20160114073828/http://millercenter.org/president/fdroosevelt/speeches/speech-3955)_
