@@ -26,6 +26,6 @@ Here's what I'm working on at the moment*
 
 ## Reading
 
-- _The Power Elite_ by C. Wright Mills 
+- _Are Prisons Obsolete?_ by Angela Y. Davis
 
-_*Last updated 4/7/23_
+_*Last updated 4/30/23_
