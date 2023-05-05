@@ -9,7 +9,7 @@ You should have a digital garden. I'd like to help you make one.
 
 By my own (made up) definition, a digital garden is a shareable public archive of how your mind works. A tiny website with short, concise, opinionated, uniquely-you pages that sum up your beliefs, priorities, and most important insights.
 
-To see an example, here's [mine](https://garden.briandavidhall.com/). Just a few of the benefits I got from creating this:
+To see an example, take a look at [mine](https://garden.briandavidhall.com/){:target="_blank"}{:rel="noopener noreferrer"}. Just a few of the benefits I got from creating this:
 
 - I found connections in my own thinking I was previously unaware of
 - I can share a link to a page as a way to say "Here's background on why I'm saying what I'm saying"
