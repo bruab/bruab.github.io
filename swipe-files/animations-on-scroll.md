@@ -12,7 +12,7 @@ But I've found an example where I think these flourishes are actually appropriat
 
 If you choose to read, the animations serve to slow you down deliberately, because the text is short, and it's not meant to be scanned. Here's what it looks like:
 
-<a href="https://www.loom.com/share/2a2eb0ebd7ac488b94b2b6dfcc69aeed"> <img src="https://cdn.loom.com/sessions/thumbnails/2a2eb0ebd7ac488b94b2b6dfcc69aeed-with-play.gif"> </a>
+<a href="https://d.pr/v/mWHBz8"> <img src="/images/animation-on-scroll.png"> </a>
 
 So, I'll walk back my position on this, just a bit. If you have a section of your site where the only action available is to read (not skim or scan!), you may use animations. Otherwise, please get rid of them.
 
