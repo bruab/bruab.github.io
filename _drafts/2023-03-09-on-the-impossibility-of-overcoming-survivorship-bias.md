@@ -5,6 +5,8 @@ date: 2023-03-09
 tags: []
 ---
 
+TODO how bout this too https://www.newyorker.com/news/our-columnists/tony-hsieh-and-the-emptiness-of-the-tech-mogul-myth
+
 Imagine you've got dreams of becoming a fashion designer. It seems natural to study others who have succeeded in the field, so you start searching and come across this video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEw0Whi73C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
