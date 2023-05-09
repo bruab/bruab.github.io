@@ -3,6 +3,12 @@ layout: post
 title: Takes
 ---
 
+> resisting the urge to do more AI Discourse. what i see is a handful of bullies who take weird delight in the prospect of people's jobs going away, and a legion of cowards who accept the bullies' frame that "all this is inevitable" and settle for trying to win clout in the social prediction market of which industry will be decimated when, and how
+
+_7:24 AM • Tuesday, May 9, 2023_
+
+---
+
 > slack "threads" view is my own personal hell
 
 _12:08 PM • Wednesday, April 19, 2023_
@@ -32,6 +38,7 @@ _5:12 PM • Saturday, April 15, 2023_
 _6:04 PM • Wednesday, April 12, 2023_
 
 ---
+
 > as always i am devastated to confirm that 15 minutes of vigorous exercise makes me feel 100x better 😔
 
 _6:01 PM • Wednesday, April 12, 2023_
