@@ -9,7 +9,7 @@ Shamelessly collecting them here.
 
 ---
 
-> Clients rely on us to look after their websites, and makes Google's introduction of GA4 anÂ important issue for us. In turn, I needed a reliable partner to hold everything together on our side. Brian was the obvious person: he has the skill and demeanor to get the job done, whether that's managing clients' expectations, holding their hand as they migrate to GA4 themselves, or executing the whole project. I'm very happy to recommend Brian Hall's services.
+> Clients rely on us to look after their websites, and that makes Google's introduction of GA4 an important issue for us. In turn, I needed a reliable partner to hold everything together on our side. Brian was the obvious person: he has the skill and demeanor to get the job done, whether that's managing clients' expectations, holding their hand as they migrate to GA4 themselves, or executing the whole project. I'm very happy to recommend Brian Hall's services.
 
 [Chris Davidson](https://www.activepresence.com/) - _Managing Director, Active Presence_
 
