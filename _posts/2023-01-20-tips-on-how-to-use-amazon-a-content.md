@@ -5,7 +5,7 @@ date: 2023-01-20
 tags: []
 ---
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/3d84e8158a164aa9be7c3ccfebf8f68e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_592eeSwEeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 You've got _very little_ control over your Amazon book's product page, so most of your effort should go into:
 

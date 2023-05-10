@@ -9,8 +9,7 @@ Here are the tools I use to do stuff:
 - [Fathom analytics](https://usefathom.com/ref/BLQQDD) - to tell me where people go on this site and [others](/websites) (affiliate link 💰)
 - UsabilityHub - for quick user research studies. ([See here](/affiliate-links) for coupon codes! You can get 10% off a subscription & 20 free testing credits)
 - Canva - to design amazing YouTube thumbnails
-- Loom - to record [notes to myself](/vibes-based-project-management) and [website audits](/audits)
-- Droplr - to take and share screenshots
+- Droplr - to take & share screenshots, and to record [notes to myself](/vibes-based-project-management) & [website audits](/audits)
 - Protonmail - for email
 - Google Workspace - for docs, sheets, calendar
 - ScreenFlow - for recording and editing videos
