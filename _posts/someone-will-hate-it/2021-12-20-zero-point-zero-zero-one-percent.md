@@ -3,6 +3,8 @@ layout: post
 title: "Zero point zero one percent"
 date: 2021-12-20
 permalink: /zero-point-zero-one-percent/
+canonical: https://onestar.world/van-gogh/
+sitemap: false
 categories: ["Haterism"]
 ---
 

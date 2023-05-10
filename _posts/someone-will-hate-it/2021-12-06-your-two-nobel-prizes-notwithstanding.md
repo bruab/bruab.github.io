@@ -3,6 +3,8 @@ layout: post
 title: "Your two Nobel Prizes notwithstanding"
 date: 2021-12-06
 permalink: /your-two-nobel-prizes-notwithstanding/
+canonical: https://onestar.world/marie-curie/
+sitemap: false
 categories: ["Haterism"]
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: '"The passions are perfectly unknown to her"'
 date: 2021-11-29
 tags: []
+canonical: https://onestar.world/jane-austen/
+sitemap: false
 categories: ["Haterism"]
 ---
 

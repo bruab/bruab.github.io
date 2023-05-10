@@ -3,6 +3,8 @@ layout: post
 title: "When they decide you don't exist"
 date: 2022-01-24
 permalink: /when-they-decide-you-dont-exist/
+canonical: https://onestar.world/trota-of-salerno/
+sitemap: false
 categories: ["Haterism"]
 ---
 

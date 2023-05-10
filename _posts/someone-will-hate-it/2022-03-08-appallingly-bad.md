@@ -3,6 +3,8 @@ layout: post
 title: '"Appallingly bad"'
 date: 2022-03-08
 permalink: /appallingly-bad/
+canonical: https://onestar.world/jim-carrey/
+sitemap: false
 categories: ["Haterism"]
 ---
 

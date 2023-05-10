@@ -3,6 +3,8 @@ layout: post
 title: '"Too many notes"'
 date: 2021-12-13
 permalink: /too-many-notes/
+canonical: https://onestar.world/mozart/
+sitemap: false
 categories: ["Haterism"]
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: "The worst music video ever"
 date: "2023-01-04"
 permalink: /the-worst-music-video-ever/
+canonical: https://onestar.world/jan-terri/
+sitemap: false
 categories: ["Haterism"]
 ---
 

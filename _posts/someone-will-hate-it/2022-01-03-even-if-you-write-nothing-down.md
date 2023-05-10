@@ -3,6 +3,8 @@ layout: post
 title: "Even if you write nothing down"
 date: 2022-01-03
 permalink: /even-if-you-write-nothing-down/
+canonical: https://onestar.world/socrates/
+sitemap: false
 categories: ["Haterism"]
 ---
 
