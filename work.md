@@ -11,7 +11,7 @@ If you suspect your site could bring in more conversions than it does, and/or if
 
 I'm not currently taking on new retainer clients, but I'd still love to meet, hear about your situation, and figure out how I can be of assistance - just [get in touch](/contact).
 
-If you want to look at a proper resume, you can access it [here](https://docs.google.com/document/d/1WO-lOGfUrJxeeQIW9WpqR0xwUe0Yj5JF0oQKreFtyAI/edit?usp=sharing).
+If you want to look at a proper resume, you can access it [here](/resume.pdf).
 
 If you want a list of all the jobs I've ever had, starting with "cook at Dairy Queen," it's [here](/all-jobs).
 
