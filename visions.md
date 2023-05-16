@@ -9,7 +9,7 @@ Here are some visions I have for the future. If any of this sounds good to you, 
 
 ---
 
-> Everyone on earth has access to a terminal, and a VPS, and DNS. If they want, they can publish a personal website—as simple or as fancy as they like. They can also run an email server and/or a chat server. If _you_ want, using the internet can consist of visiting your friends' pages, reading about what they're up to, sending them messages. We support this infrastructure collectively because it's too important to let it rely on fickle things like advertising budgets and the whims of political or corporate leadership.
+> Everyone on earth has access to a terminal, and a VPS, and DNS. If they want, they can publish a personal website—as simple or as fancy as they like. They can also run an email server and/or a chat server. If *you* want, using the internet can consist of visiting your friends' pages, reading about what they're up to, sending them messages. We support this infrastructure collectively because it's too important to let it rely on fickle things like advertising budgets and the whims of political or corporate leadership.
 
 ---
 
