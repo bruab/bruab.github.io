@@ -45,13 +45,13 @@ Speaking of work, I have a [work](/work) page, an [education](/education) page, 
 
 I don't always sell services—sometimes I just introduce potential clients to smart and helpful people. There's a partial list of those smart and helpful people [here](/rolodex).
 
-I've made a page that lists [guest appearances](/guest-spots) I've made on other folks' podcasts and YouTube channels, and I usually make a dedicated page to share with their audience (e.g. my [FreelanceU page](/freelanceu) or my [Deliberate Freelancer](/deliberate-freelancer) page).
+I've got a page that lists [guest appearances](/guest-spots) I've made on other folks' podcasts and YouTube channels, and I usually make a dedicated page to share with their audience (e.g. my [FreelanceU page](/freelanceu) or my [Deliberate Freelancer](/deliberate-freelancer) page).
 
 Speaking of guest appearances, I also have a [media](/media) page.
 
 I quit social media and made a [page about that](/social). Then I missed posting, so I made a page for [takes](/takes).
 
-Some other pages that were born in the aftermath of leaving social media: a "let's be friends" link to share with fellow [conversion optimization folks](/cro-friends), a signup page for my [paper-and-snail-mail newsletter](/letters), 
+Some other pages that were born in the aftermath of leaving social media: a "let's be friends" link to share with fellow [conversion optimization folks](/cro-friends), a signup page for my [paper-and-snail-mail newsletter](/letters).
 
 Want to send me a message? Visit my [contact](/contact) page. (Want to send it encrypted? Here's my [public key](/public-key).)
 
