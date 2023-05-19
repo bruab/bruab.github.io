@@ -6,7 +6,7 @@ title: Pets
 ## François 🦮
 ![photo of yellow dog](/images/francois.png)
 
-## Socks 🐈‍⬛
+## Socks 🪦🐈‍⬛
 ![photo of cat](/images/socks.png)
 
 ## Paul, Hana, Kaylee, and Glauber Contessoto 🐓

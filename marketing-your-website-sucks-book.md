@@ -51,5 +51,13 @@ I offered listeners a [free course](https://gum.co/freelance-website-blueprint) 
 
 I used Draft2Digital to list my book on [Apple Books](https://books.apple.com/us/book/id6446703556) and [Barnes and Noble](https://www.barnesandnoble.com/w/your-website-sucks-brian-david-hall/1143252488;jsessionid=9E6A7C270BD882C045BD53C6715565F2.prodny_store01-atgap16?ean=2940166936639), plus a few places I've never even heard of: [Rakuten Kobo](https://www.kobo.com/us/en/ebook/your-website-sucks), [Smashwords](https://www.smashwords.com/books/view/1367956), Tolino, Borrow Box.
 
+### Flesh out book website (April 2023)
+
+I made some updates to [yourwebsitesucks.fyi](https://yourwebsitesucks.fyi/) to make it more conversion-friendly, so I can link to it in guest blog posts.
+
+### Guest blog post (April 2023)
+
+I published a post on [Accounting Today](https://www.accountingtoday.com/opinion/how-to-optimize-your-website-for-leads). The book website saw about 15 visits in the two weeks after publication.
+
 ### (to be continued)
 

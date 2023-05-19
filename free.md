@@ -3,7 +3,7 @@ layout: no-footer
 title: Free stuff
 ---
 
-Here's a list of courses you can take & events you can attend, completely free of charge. Made/hosted by yours truly.
+Here's a list of courses you can take, ebooks you can read, and events you can attend, completely free of charge. Made/written/hosted by yours truly.
 
 # Courses
 
@@ -46,6 +46,12 @@ Access it [here](https://briandavidhall.gumroad.com/l/freelance-website-blueprin
 25+ videos, slides, diagrams, and templates focused on the business side of Conversion Rate Optimization consulting.
 
 Free with [this link](https://briandavidhall.gumroad.com/l/sell-and-deliver-cro/free).
+
+---
+
+# Books
+
+Check out my [guide to session recordings](/session-recordings).
 
 ---
 

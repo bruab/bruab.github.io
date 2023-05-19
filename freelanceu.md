@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Links and freebiesa for FreelanceU listeners
+title: Links and freebies for FreelanceU listeners
 ---
 
 Thanks for listening! Here are a few things you might find useful. (And don't hesitate to [reach out](/contact) if you want to chat.)

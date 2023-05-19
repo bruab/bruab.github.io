@@ -4,6 +4,8 @@ title: Now
 ---
 Here's what I'm working on at the moment*
 
+Inspired by [NowNowNow.com](https://nownownow.com/).
+
 ## Creative stuff
 
 - Promoting a [book about websites](https://www.amazon.com/dp/B0BVSXB5W7)

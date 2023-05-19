@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Links and freebiesa for Deliberate Freelancer listeners
+title: Links and freebies for Deliberate Freelancer listeners
 ---
 
 Thanks for listening! Here are a few things you might find useful. (And don't hesitate to [reach out](/contact) if you want to chat.)

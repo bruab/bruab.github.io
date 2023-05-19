@@ -10,7 +10,7 @@ Understandably, considering all the tone deaf emails junking up your spam folder
 
 But when practiced with deliberation and authenticity, outreach will transform your life and your business.
 
-If you're willing to try out that point of view, consider signing up for a [coworking session](https://lu.ma/long-game).
+If you're willing to try out that point of view, consider signing up for a [coworking session](/social-pomodoros).
 
 Then read the [manifesto](/long-game-outreach-manifesto).
 
