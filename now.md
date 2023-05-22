@@ -9,13 +9,12 @@ Inspired by [NowNowNow.com](https://nownownow.com/).
 ## Creative stuff
 
 - Promoting a [book about websites](https://www.amazon.com/dp/B0BVSXB5W7)
-- Aiming to finish a new book (about criticism & creativity) by September 2023
+- Aiming to finish a [new book](https://onestar.world/) (about criticism & creativity) by September 2023
 - Writing a [weekly newsletter](/newsletter) and a [monthly newsletter](/blip)
 
 ## Human stuff
 
-- Growing cabbage, sunflowers, winter wheat, goosefoot, peppers, and several trees: lemon, tangerine, persimmon, avocado
-- Brewing [beer](https://eufaula.biz/beer) with some friends
+- Growing cabbage, sunflowers, goosefoot, peppers, watermelon, potatoes, and several trees: lemon, tangerine, persimmon, avocado
 - Brewing [mead](https://eufaula.biz/mead) too
 - Learning carpentry
 
@@ -25,9 +24,10 @@ Inspired by [NowNowNow.com](https://nownownow.com/).
   - Accounts payable automation 🧾
   - Construction management 🏗
 - Helping manage a community of nonfiction authors
+- Working as fractional CTO for a marketing agency
 
 ## Reading
 
-- _Are Prisons Obsolete?_ by Angela Y. Davis
+- _The Art of Asking_, by Amanda Palmer
 
-_*Last updated 4/30/23_
+_*Last updated 5/22/23_

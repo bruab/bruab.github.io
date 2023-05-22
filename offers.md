@@ -23,6 +23,10 @@ I will probably try _selling_ seeds and starters, but if you just want a few see
 
 See [here](/audit) for more info.
 
+## Marketing services (free for anyone working in local food production)
+
+See [here](/pro-bono) for more info.
+
 ---
 
 _This page was inspired by attending an [Offers and Needs Market](https://offersandneeds.com/). If you think that sounds interesting, you should try one!_
