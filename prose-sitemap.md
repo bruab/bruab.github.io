@@ -49,13 +49,13 @@ I've got a page that lists [guest appearances](/guest-spots) I've made on other 
 
 Speaking of guest appearances, I also have a [media](/media) page.
 
-I quit social media and made a [page about that](/social). Then I missed posting, so I made a page for [takes](/takes).
+I quit social media and made a [page about that](/social). Then I missed posting, so I made a page for [takes](/takes). I also made a page that lists my [beefs with Google](/beefs-with-google).
 
 Some other pages that were born in the aftermath of leaving social media: a "let's be friends" link to share with fellow [conversion optimization folks](/cro-friends), a signup page for my [paper-and-snail-mail newsletter](/letters).
 
 Want to send me a message? Visit my [contact](/contact) page. (Want to send it encrypted? Here's my [public key](/public-key).)
 
-There's some personal stuff here, like a page about my [pets](/pets). Some [fiction](/fiction) I've written. A collection of [quotes](/quotes) I like and [visions for the future](/visions). [Weird art](/weird-art) that inspires me, and [work that inspires me](/inspiration).
+There's some personal stuff here, like a page about my [pets](/pets). Some [fiction](/fiction) I've written. A collection of [quotes](/quotes) I like and [visions for the future](/visions). A list of [all the places I've ever lived](/places). [Weird art](/weird-art) that inspires me, and [work that inspires me](/inspiration).
 
 I typed all these words myself, and even have a page about [that](/human).
 
