@@ -9,9 +9,9 @@ Here's some stuff I could use help with. No pressure. (See also [Offers](/offers
 
 Getting more reviews for my first book, [Your Website Sucks](https://www.amazon.com/dp/B0BVSXB5W7) is a top priority for me, as I seek to find out if there's any chance of making nontrivial income from it. If you feel so moved to buy a copy and leave an honest review, I'll be forever grateful.
 
-## Alpha / beta readers for my book about criticism (or the next one)
+## Chats with people working in regenerative agriculture
 
-There's no telling exactly what phase the book will be in as you read this, but I've almost always got something in need of feedback. Just [get in touch](/contact) and let me know you're available to help.
+More info here: [Quest: Create a guide to regenerative agriculture opportunities](/quests/regen-ag).
 
 <br />
 
@@ -24,6 +24,12 @@ There's no telling exactly what phase the book will be in as you read this, but 
 ~~I'm slowly but surely migrating off Google Suite, and that means handling more of my own data. At some point I'll migrate my GitHub Pages-hosted websites to a VPS. How do I go about this without exposing my data to clever haxxorz?~~
 
 ~~If you know about this stuff and are patient enough to answer some dumb questions, I'm sure it'd be of great use to me.~~
+
+## ~~Alpha / beta readers for my book about criticism (or the next one)~~
+
+**Update:** I've got plenty of folks on the list! Now I just need to revise my first draft.
+
+~~There's no telling exactly what phase the book will be in as you read this, but I've almost always got something in need of feedback. Just [get in touch](/contact) and let me know you're available to help.~~
 
 ---
 
