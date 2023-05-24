@@ -105,6 +105,8 @@ More uses of prison/convict labor:
 - Making circuit boards
 - Making lingerie for Victoria's Secret
 
+A list of products made by just one program can be found here: https://www.unicor.gov/SopAlphaList.aspx
+
 ---
 
 Companies like [CoreCivic](https://www.corecivic.com/) who sell prison labor are paid per prisoner. It is in their shareholders' best interest for incarceration rates to increase.
