@@ -6,7 +6,7 @@ date: 2023-05-24
 image: /images/are-prisons-obsolete.png
 ---
 
-[![are prisons obsolete? book cover](/images/are-prisons-obsolete.jpeg)](/images/are-prisons-obsolete.jpeg)
+{% include image.html url="/images/are-prisons-obsolete.png" %}
 
 **Recommended:** Yes
 
