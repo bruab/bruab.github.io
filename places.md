@@ -5,7 +5,7 @@ title: "Places I've lived"
 
 Here’s a list of all the places I've lived, and when.
 
-- b1977 - 1979: Huntington Beach, CA
+- b1977-1979: Huntington Beach, CA
 - 1979-1980: Las Vegas, NV
 - 1980-1987: Winter Haven, FL
 - 1987-1987: Scottsdale, AZ
