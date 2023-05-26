@@ -24,7 +24,7 @@ True, at least for me.
 
 ---
 
-In the late 1960s, there were ~200,000 people in prison. That number increased by **10x** within 30 years.
+In the late 1960s, there were ~200,000 people in prison. That number increased by **10x** within 30 years. (Now it's at around 5.5 million.)
 
 Given how big the number is, how do we not have frequent and open debates about the effectiveness of incarceration?
 
@@ -38,7 +38,7 @@ The first state prison in California (San Quentin) opened in 1852. That's ... no
 
 ---
 
-1980s where when the boom in prison construction occurred. From 1980 to 1989 the number of prisons in California doubled. Two-thirds of currenltly existing prisons were built in that decade—to no great public outrcy.
+The 1980s were when the boom in prison construction occurred. From 1980 to 1989 the number of prisons in California doubled. Two-thirds of currenltly existing prisons were built in that decade—to no great public outrcy.
 
 ---
 
