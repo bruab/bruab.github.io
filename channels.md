@@ -9,8 +9,8 @@ It was a bit much.
 
 In an effort to simplify my life, reduce time spent staring at a screen, and limit the data I offer up for harvest, I'm seeking to reduce communications to just a few channels:
 
-- SMS for urgent messages only
-- Email and Signal for slowchats
+- **SMS** for urgent messages only
+- **Email and Signal** for slowchats
 
 I still use Slack, Notion, ClickUp, etc. for work, but I send all notifications to email. Having to jump between half a dozen UIs just to read updates is an absurd waste of cognitive power. Even if the UIs are beautiful!
 
