@@ -28,6 +28,6 @@ Inspired by [NowNowNow.com](https://nownownow.com/).
 
 ## Reading
 
-- _The Art of Asking_, by Amanda Palmer
+- _The One Straw Revolution_, by Masanobu Fukuoka
 
-_*Last updated 5/22/23_
+_*Last updated 6/5/2023_
