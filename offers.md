@@ -19,6 +19,10 @@ _Assuming everything goes according to plan_, I'll be growing goosefoot and a fe
 
 I will probably try _selling_ seeds and starters, but if you just want a few seeds to try planting, [let me know](/contact).
 
+## Linux lessons (free)
+
+I'm in the middle of migrating from OSX to Ubuntu Linux. If you're doing the same, or if you're interested in doing the same, and you need technical help or moral support, I'm happy to provide that. [Get in touch](/contact) and we can figure out logistics.
+
 ## Website audit (trade / donation)
 
 See [here](/audit) for more info.
