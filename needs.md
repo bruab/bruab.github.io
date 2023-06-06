@@ -13,6 +13,10 @@ Getting more reviews for my first book, [Your Website Sucks](https://www.amazon.
 
 More info here: [Quest: Create a guide to regenerative agriculture opportunities](/quests/regen-ag).
 
+## Answers to / opinions on open questions
+
+Here's a list of [stuff I'm trying to figure out](/open-questions). If you can help me figure it out, [please do](/contact).
+
 <br />
 
 # Needs that have been met :)
