@@ -5,6 +5,10 @@ title: Affiliate links
 
 Here's info on all the affiliate deals I've got going.
 
+## Calyx Institute
+
+Use [this link](https://members.calyxinstitute.org/r/jixkd) and get 1 free month! I replaced my Spectrum cable internet with a Calyx mobile hotspot and couldn't be happier .The service is more reliable, it's far cheaper, and my money goes to a nonprofit.
+
 ## Fathom Analytics
 
 Use [this referral link](https://usefathom.com/ref/BLQQDD) to sign up. You get $10 off (you're welcome!) and I get a 25% commission (thank you!)
