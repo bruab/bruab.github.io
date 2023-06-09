@@ -9,6 +9,10 @@ Here's some stuff I could use help with. No pressure. (See also [Offers](/offers
 
 Getting more reviews for my first book, [Your Website Sucks](https://www.amazon.com/dp/B0BVSXB5W7) is a top priority for me, as I seek to find out if there's any chance of making nontrivial income from it. If you feel so moved to buy a copy and leave an honest review, I'll be forever grateful.
 
+## Chats about criticism
+
+I'm working on a [website](https://onestar.world/) and a book or two on the topic, and I want to talk to anyone who's struggled with criticism, or fear of criticism. [Get in touch](/contact) and let's set up a time to talk. Your story might wind up in a book! (Only with your consent.)
+
 ## Chats with people working in regenerative agriculture
 
 More info here: [Quest: Create a guide to regenerative agriculture opportunities](/quests/regen-ag).
