@@ -11,4 +11,4 @@ I won't sell or share your info.
 
 I'm not sure how often I'll send something out—maybe every couple months? IDK. It's all just an experiment.
 
-(Thanks to `[redacted]` for the inspiration.)
+(Thanks to [Ben Ratkey](https://benratkey.com/what-hath-god-wrought.html) for the inspiration.)
