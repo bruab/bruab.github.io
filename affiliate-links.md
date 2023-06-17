@@ -7,7 +7,7 @@ Here's info on all the affiliate deals I've got going.
 
 ## Calyx Institute
 
-Use [this link](https://members.calyxinstitute.org/r/jixkd) and get 1 free month! I replaced my Spectrum cable internet with a Calyx mobile hotspot and couldn't be happier .The service is more reliable, it's far cheaper, and my money goes to a nonprofit.
+Use [this link](https://members.calyxinstitute.org/r/jixkd) and get 1 free month! I replaced my Spectrum cable internet with a Calyx mobile hotspot and couldn't be happier. The service is more reliable, it's far cheaper, and my money goes to a nonprofit.
 
 ## Fathom Analytics
 
