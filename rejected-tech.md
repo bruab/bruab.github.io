@@ -11,4 +11,4 @@ Here’s a partial list of technological innovations that humans decided to aban
 - Google Glass
 - Betamax
 - Laserdisc
-- Central vacuum systems (in the USA)
+- Central vacuum systems
