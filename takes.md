@@ -3,6 +3,12 @@ layout: post
 title: Takes
 ---
 
+> Figure 8 by elliott smith is the album i love so much that i've never heard another by the artist, because i always just want to listen to figure 8 again
+
+_2:07 PM • Friday, June 23, 2023_
+
+---
+
 > resisting the urge to do more AI Discourse. what i see is a handful of bullies who take weird delight in the prospect of people's jobs going away, and a legion of cowards who accept the bullies' frame that "all this is inevitable" and settle for trying to win clout in the social prediction market of which industry will be decimated when, and how
 
 _7:24 AM • Tuesday, May 9, 2023_
