@@ -19,7 +19,7 @@ It would be super cool if that guide looked something like this:
 
 I am here to make things amazing for you.
 
-<div class="center"><a href="https://docs.google.com/document/d/16uiOgnriqUtW_8R6QlBMUJ0LA4qZK92JAN1nA4joRCM/edit" class="btn">Get the guide</a></div>
+<div class="center"><a href="/session-recordings-guide.pdf" class="btn">Get the guide</a></div>
 
 Enjoy!
 
