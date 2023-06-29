@@ -3,6 +3,12 @@ layout: post
 title: Takes
 ---
 
+> your honor the plaintiff was harshing my mellow
+
+_06:51 AM • Thursday, June 29, 2023_
+
+---
+
 > Figure 8 by elliott smith is the album i love so much that i've never heard another by the artist, because i always just want to listen to figure 8 again
 
 _2:07 PM • Friday, June 23, 2023_
