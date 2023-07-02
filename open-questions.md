@@ -9,6 +9,12 @@ Here are a few things I'm trying to figure out. If you've got an opinion I'd [lo
 
 Just as a stunt, or proof of concept? I've been working at this for a while, casually, and I think the answer is no. But I'm trying to find out how close I can get.
 
+## How much food can you grow on 0.3 acres?
+
+That's about how much yard we've got. I want to grow food without pesticides or chemical fertilizers, with bonus points for [lost crops](/lost-crops). So it's not about optimizing calories per square foot so much as arriving at a conclusion like "this much land can grow X% of total food requirements for 2 humans."
+
+So I guess you can't _answer_ that for me, but if you can share your experience, or point me to resources on this topic, I'd be so very grateful. [Hit me up](/contact).
+
 ## Is it possible to feel good vibes about spending money on insurance?
 
 It's one of our bigger expenses. I can buy food from local farmers, which feels good. I can buy internet access from a [non-profit](https://members.calyxinstitute.org/r/jixkd)*—feels good. Can we buy auto, homeowner, and health insurance from a company whose success we actually give a shit about?

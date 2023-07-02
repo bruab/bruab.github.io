@@ -10,12 +10,12 @@ Inspired by [NowNowNow.com](https://nownownow.com/).
 
 - Promoting a [book about websites](https://www.amazon.com/dp/B0BVSXB5W7)
 - Aiming to finish a [new book](https://onestar.world/) (about criticism & creativity) by September 2023
-- Writing a [weekly newsletter](/newsletter) and a [monthly newsletter](/blip)
+- Writing a [twice-a-moon newsletter](/newsletter) and an [occasional newsletter](/blip)
 
 ## Human stuff
 
-- Growing cabbage, sunflowers, goosefoot, peppers, watermelon, potatoes, and several trees: lemon, tangerine, persimmon, avocado
-- Brewing [mead](https://eufaula.biz/mead) too
+- Growing cabbage, sunflowers, goosefoot, watermelon, potatoes, and several trees: lemon, tangerine, persimmon, avocado
+- Brewing [mead](https://eufaula.biz/mead)
 - Learning carpentry
 
 ## Client stuff
@@ -30,4 +30,4 @@ Inspired by [NowNowNow.com](https://nownownow.com/).
 
 - _The One Straw Revolution_, by Masanobu Fukuoka
 
-_*Last updated 6/5/2023_
+_*Last updated 7/1/2023_
