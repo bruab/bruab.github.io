@@ -31,6 +31,12 @@ _--Britt Daniel, [The Beast and Dragon, Adored](https://genius.com/Spoon-the-bea
 
 ---
 
+> There is not even a thought, or an invention, which is not common property, born of the past and the present. Thousands of inventors, known and unknown, who have died in poverty, have co-operated in the invention of each of these machines which embody the genius of man.
+
+_-- Peter Kropotkin, The Conquest of Bread_
+
+---
+
 > The measure of a society is how it treats its weakest members.
 
 _-- Unknown_
