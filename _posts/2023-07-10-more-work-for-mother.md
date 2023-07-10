@@ -118,4 +118,48 @@ Not just cans!
 
 > Indeed, by the end of the [19th] century, processed foods of all kinds—packaged dry cereals, pancake mixes, crackers and cookies machine-wrapped in paper containers, canned hams, and bottled corned beef—were part of the staple output of some of the largest, and most monopolistically organized, business enterprises in the nation.
 
+---
+
+Late 1800s to early 1900s saw huge changes in women's fashion.
+
+> the Sears Roebuck catalog, for example, did not contain a single item of women's clothing in 1894; but by 1920 it had ninety illustrated pages of female attire.
+
+Fashion itself changed to accommodate mass production of clothing - blouses and skirts over dresses.
+
+---
+
+By the mid-1900s you could buy in a store most of what was produced at home just a hundred years prior. But this meant _driving to the store, shopping, and waiting in lines_, which became a central responsibility of the housewife. 
+
+---
+
+Bathrooms with running water were prevalent by the 1920s.
+
+---
+
+In 1907, only 8% of households were wired for electricity. By 1920, it was 35%.
+
+---
+
+Gas heating and cooking were heavily subsidized, with stoves being _given_ away at one point. (This was to compete with electricity.)
+
+---
+
+This quote sums up the core thesis of the book:
+
+> Washing sheets with an automatic washing machine is considerably easier than washing them with one that has a wringer, itself considerably easier than washing them with a scrubboard and tub. Yet the easiest solution of all (at least from the point of view of the housewife) is to have someone else do it altogether—common practice in the nineteenth century and even in the first few decades of the twentieth ... the woman endowed with a Bendix would have found it _easier_ to do her laundry but, simultaneously, would have done _more_ laundry, and more of it herself, than either her mother or grandmother had.
+
+---
+
+She paints a picture of the technological marvels we might have enjoyed—apparently gas-powered refrigerators are way more efficient and reliable, but the dominant manufacturers (GE, GM, Westinghouse) were invested in electric fridges and so dominated the market.
+
+> Consumer "preference" can only be expressed for whatever is, in fact, available for purchase ...
+
+also
+
+> General Electric became interested in refrigerators because it was experiencing financial difficulties after the First World War and needed to develop a new and different line of goods. G.E. decided to manufacture compression, rather than absorption, refrigerators because it stood to make more profits from exploiting its own designs and its own expertise than someone else's.
+
+---
+
+In conclusion: the technology we live with isn't necessarily there because it makes life easier—certainly not for everyone—nor because it's something that consumers demanded. Sometimes technological innovations make it easier to do things we ought not to do in the first place. A large enough company can move a market and create demand for an inferior solution by stifling production of competing options and eliminating alternative solutions. We should ask more of the tools we use.
+---
 
