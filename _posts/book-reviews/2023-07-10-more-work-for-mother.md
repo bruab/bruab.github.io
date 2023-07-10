@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Book review: More Work for Mother"
+categories: ["Book reviews"]
 date: 2023-06-06
 tags: []
 image: /images/more-work-for-mother.png
