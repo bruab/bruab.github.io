@@ -26,3 +26,12 @@ TODO
 - long way to go
 
 cta
+
+---
+
+other notes
+
+- respect dirt
+- make a flowchart e.g. "do you own land? yes no" etc
+- why edible / why not decorative?
+- fibonacci pricing
