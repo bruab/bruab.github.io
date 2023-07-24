@@ -14,7 +14,7 @@ Inspired by [NowNowNow.com](https://nownownow.com/).
 
 ## Human stuff
 
-- Growing watermelon, cabbage, sunflowers, goosefoot, squash, potatoes, and several trees: lemon, tangerine, persimmon, avocado
+- Growing watermelon, cabbage, sunflowers, goosefoot, squash, potatoes, and several trees: lemon, tangerine, persimmon
 - Brewing [mead](https://eufaula.biz/mead)
 - Learning carpentry
 
@@ -30,4 +30,4 @@ Inspired by [NowNowNow.com](https://nownownow.com/).
 
 - _The One Straw Revolution_, by Masanobu Fukuoka
 
-_*Last updated 7/10/2023_
+_*Last updated 7/24/2023_

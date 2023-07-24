@@ -4,7 +4,7 @@ title: Newsletter
 permalink: /newsletter/
 ---
 
-Every Friday, I send a short, skimmable update on things I'm working on.
+Every couple weeks, I send a short, skimmable update on things I'm working on.
 
 Including but not limited to:
 

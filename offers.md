@@ -15,7 +15,7 @@ I'm happy to meet and chat about [lots of topics](/topics). Just [get in touch](
 
 ## Seeds (free)
 
-_Assuming everything goes according to plan_, I'll be growing goosefoot and a few other edible quote-unquote weeds this year. Once I have seeds to share, I'd love to send you some.
+I'm growing goosefoot (a [lost crop](/lost-crops), or weed, depending on whom you ask). Once I have seeds to share, I'd love to send you some.
 
 ## Linux lessons (free)
 
