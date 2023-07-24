@@ -3,6 +3,12 @@ layout: post
 title: Takes
 ---
 
+> when you die, you get back every moment you spent waiting for some bloated saas app to load, and it turns out it is like 25 years
+
+_04:26 PM • Monday, July 24, 2023_
+
+---
+
 > your honor the plaintiff was harshing my mellow
 
 _06:51 AM • Thursday, June 29, 2023_
