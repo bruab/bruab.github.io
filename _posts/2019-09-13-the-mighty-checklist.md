@@ -7,11 +7,11 @@ categories: ["Web strategy"]
 
 After two days of judgmental diatribes against anyone who would launch an A/B in a hurry ... here's how to launch an A/B test in a hurry:
 
-![A screenshot of several long and detailed checklists](/images/Screen-Shot-2019-09-13-at-8.51.51-AM-1024x550.png)
+![A screenshot of several long and detailed checklists](/images/many-checklists.png)
 
 If you're squinting on mobile, it's a screenshot of 7 checklists, like this:
 
-![A screenshot of a test launch checklist](/images/Screen-Shot-2019-09-13-at-8.54.28-AM.png)
+![A screenshot of a test launch checklist](/images/launch-checklist.png)
 
 Yesterday I launched four tests in under an hour. One had an issue with traffic allocation - it had been adjusted during the QA process. But the checklist caught it.
 
