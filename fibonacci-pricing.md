@@ -1,5 +1,5 @@
 ---
-layout: no-footer
+layout: post
 title: Fibonacci pricing
 ---
 
