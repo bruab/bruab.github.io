@@ -5,7 +5,7 @@ title: Fibonacci pricing
 
 Fibonacci pricing refers to selling a thing at ever-increasing price points which correspond to the numbers of the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence):
 
-0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
+$0 (free), $1, $1, $2, $3, $5, $8, $13, $21, $34, $55, $89, ...
 
 ## Why would you do this?
 
