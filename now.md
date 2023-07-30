@@ -28,6 +28,6 @@ Inspired by [NowNowNow.com](https://nownownow.com/).
 
 ## Reading
 
-- _The One Straw Revolution_, by Masanobu Fukuoka
+- _John Brown, a biography_ by W.E.B. DuBois
 
-_*Last updated 7/24/2023_
+_*Last updated 7/30/2023_
