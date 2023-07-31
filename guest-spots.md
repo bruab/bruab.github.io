@@ -5,6 +5,10 @@ title: Guest spots
 
 Here's a list of podcast / YouTube collaborations I've been involved in.
 
+## FreenaceU podcast 
+
+We walked through where to focus when setting up a website as a freelancer. Listen [here](https://www.freelanceu.com/freeupodcast/website-set-up-class/).
+
 ## Freelance Gems podcast (October '22)
 
 I talked to Isabel about web strategy for freelancers. Listen [here](https://anchor.fm/freelance-gems/episodes/WTF-is-Website-Strategy--with-Brian-David-Hall-e1p5tlq).
