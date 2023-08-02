@@ -8,6 +8,11 @@ title: A list of manifestos
 - [Long game outreach manifesto](/long-game-outreach-manifesto)
 - [We don't know shit (a manifesto)](/we-dont-know-shit)
 
+## By people I know
+
+- [Maker's Manifesto](https://www.othersideceramics.com/pages/makers-manifesto) by my wife 🥰
+- [The Ungated Manifesto](https://ungated.media/manifesto/) by Rob Hardy
+
 ## By others
 
 - [Declaration of the Rights of Man and of the Citizen](http://hrlibrary.umn.edu/education/frdeclaration.html), by the National Assembly of France
