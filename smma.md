@@ -11,7 +11,7 @@ Don't hesitate to [get in touch with me](/contact) if you have any questions.
 
 ## Slides
 
-Available [here](https://docs.google.com/presentation/d/14-Rr4CLR1rI3DQ-3_tFwDiiG6B6HHHGBBJJi80PTPFE/edit?usp=sharing).
+Available [here](https://drive.google.com/file/d/1gCckjoC3kzhPQa2lOQ3XbeSHu_JhxH9J/view?usp=drive_link).
 
 ## UTM link builder
 
@@ -81,25 +81,8 @@ Free with [this link](https://briandavidhall.gumroad.com/l/sell-and-deliver-cro/
 
 ---
 
-# Free events (every Tuesday and Wednesday)
+# Free event (every Tuesday)
 
-## Work on your site
+## Social pomodoros
 
-{% include image.html url="/images/woys-cover.png" alt="cover image for Work on your site" %}
-
-Show up, say hi, then: Heads down, knocking out your website update & improvement TODO list. [Here's the link](https://lu.ma/work-on-your-site).
-
----
-
-## Long game outreach club
-
-{% include image.html url="/images/lgoc-cover.png" alt="cover image for Long game outreach club" %}
-
-Get together with freelancers, business owners, creators, and others, then devote half an hour to thoughtfully expanding your network in a spam-free fashion. Sign up [here](https://lu.ma/long-game).
-
----
-
-## Snowflake Fiction Pomodoros
-
-Meet up with other amateur fiction writers for a 30 minute focused writing block. Join [here](https://lu.ma/fiction-pomodoros).
-
+Stop by, say hello, get some work done. More info [here](/social-pomodoros).
