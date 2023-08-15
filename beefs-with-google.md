@@ -3,7 +3,7 @@ layout: post
 title: Beefs with Google
 ---
 
-Here’s a partial list of reasons I'd like to stop using Google.
+Here’s a partial list of reasons I'd like to stop using Google. (See also [Beefs with Apple](/beefs-with-apple).)
 
 ## They're huge
 
