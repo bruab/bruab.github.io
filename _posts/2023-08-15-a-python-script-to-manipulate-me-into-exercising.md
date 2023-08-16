@@ -17,15 +17,17 @@ I've tried and failed to do that lots of times. Here's how I tend to fail and ho
 
 "Ehh, I'll do it after this next meeting."
 
-Amazingly it is _never_ quite the right time to start a workout. When I'm more than an hour out from a meeting, there's no urgency. I've got plenty of time. When I'm less than an hour out, oops, too late, don't want to be late or show up all sweaty and out of breath!
+Amazingly it is _never_ quite the right time to start a workout. When I'm more than an hour out from a meeting, there's no urgency. I've got plenty of time. When I'm less than an hour out, oops, too late, don't want to be late or show up all sweaty and out of breath! Best to wait.
 
-Going to the gym solved this by giving me a set time to schedule around. (Though it also forced me to get up at 5:30am.)
+(Going to the gym solved this by giving me a set time to schedule around. Though it also forced me to get up at 5:30am.
 
 ## How I fail at home workouts: overthinking
 
-Should I do an hour of yoga? A session I've already done or should I try a new one?
+Should I do an hour of yoga? A class I've already done or should I try a new one?
 
 Actually, nevermind, I should probably do strength training. Hmm, should I go out in the yard and use the kettlebell or ...?
+
+(Going to the gym solved this by giving me a coach who told me exactly what to do, every day.)
 
 ## Coding around these failure modes
 
@@ -59,6 +61,8 @@ Here's what it looks like to run the script:
 
 {% include image.html url="/images/workouts-cli.png" %}
 
+That's it! Go do 82 sqats.
+
 There's no room for overthinking—it's just one exercise. There's no excuse for procrastination—it won't take more than ten minutes.
 
 And there's no changing my mind—the exercise has _already been written_ to my workout log. That's a resource that helps me [celebrate wins](https://garden.briandavidhall.com/celebrate-wins), but it only works if it's not full of lies.
@@ -67,5 +71,5 @@ I _could_ go open up the log and delete the exercise but ... that's kinda sad, a
 
 ## Try it if you like
 
-If you want to try this out, you can access the code [here](https://gitlab.com/-/snippets/2583887).) If you're not sure where to start with that, [get in touch](/contact) and I'll help.
+If you want to try this out, you can access the code [here](https://gitlab.com/-/snippets/2583887). (If you're not sure where to start with that, [get in touch](/contact) and I'll help.)
 
