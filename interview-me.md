@@ -5,7 +5,9 @@ title: Interview me
 
 I'd love to come on your podcast and give practical, industry-specific website strategy tips to your audience.
 
-I wrote a book on this topic ([_Your Website Sucks, Here's How To Fix It_](https://www.amazon.com/dp/B0BVSXB5W7)), so of course I'm looking to plug that. But more importantly, I want to dive in to examples and edge cases specific to your listeners, and too specific to make it into the book. For photographers: _How do you balance page speed with the need to show off your work?_ For software startups: _How do you go beyond simply talking about features?_ For small farms: _Should you highlight your CSA or growing your newsletter? Can you do both?_
+I wrote a [book](https://www.amazon.com/dp/B0BVSXB5W7) on this topic, so of course I'm looking to plug that. But more importantly, I want to dive in to examples and edge cases specific to your listeners, and too specific to make it into the book. 
+
+For photographers: _How do you balance page speed with the need to show off your work?_ For software startups: _How do you go beyond simply talking about features?_ For small farms: _Should you highlight your CSA or growing your newsletter? Can you do both?_
 
 You can find links to previous interviews [here](/guest-spots). I've got a bio and some headshots [here](/media).
 
