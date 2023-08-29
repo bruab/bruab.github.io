@@ -12,6 +12,7 @@ title: A list of manifestos
 
 - [Maker's Manifesto](https://www.othersideceramics.com/pages/makers-manifesto) by my wife 🥰
 - [The Ungated Manifesto](https://ungated.media/manifesto/) by Rob Hardy
+- [Core tenets of my dharma practice](https://docs.google.com/document/d/1yPuGt1HL27lxhFxERZJy48wHaat8XctnAm-zGw4wn1Y/edit?usp=sharing) by Christin Chong
 
 ## By others
 
