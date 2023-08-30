@@ -13,4 +13,4 @@ If that sounds like something you might be into, please complete this exciting f
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJuChX34HqzIRJA9qqb2KAs5JpKEu9LqwegAqqjFNiHPBrUA/viewform?embedded=true" width="640" height="1182" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-(This is a [#nopitch](/nopitch) offer™.)
+This is a [#nopitch](/nopitch) offer™.
