@@ -3,6 +3,19 @@ layout: post
 title: Takes
 ---
 
+<link rel="stylesheet" href="/assets/css/mastodon-timeline.css" />
+<script src="/assets/js/mastodon-timeline.js"></script>
+
+<div class="mt-timeline">
+  <div id="mt-body" class="mt-body" role="feed">
+    <div class="loading-spinner"></div>
+  </div>
+</div>
+
+---
+
+## Pre-Mastodon takes here 👇
+
 > when you die, you get back every moment you spent waiting for some bloated saas app to load, and it turns out it is like 25 years
 
 _04:26 PM • Monday, July 24, 2023_
