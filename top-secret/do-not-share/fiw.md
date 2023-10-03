@@ -99,8 +99,6 @@ Watch this 3 minute video:
 
 Now that you’ve got your results - specifically, the percentage of testers who **Got it** for each question ...
 
----
-
 ### Decide if you have a problem.
 
 The [UsabilityHub guide to five second tests](https://usabilityhub.com/guides/five-second-testing) says:
