@@ -16,6 +16,7 @@ Tell me what you really think. (If you want a response, go [here](/contact) inst
     name="_redirect"
     value="https://briandavidhall.com/feedback-thanks"
   />
+  <input type="hidden" name="_append" value="false" />
   <button class="btn" type="submit">Send</button>
 </form>
 
