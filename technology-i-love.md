@@ -9,6 +9,8 @@ While I can't control how other people feel when they hear my opinions and quest
 
 ## Fire (~2 million years ago)
 
+Good for staying warm, cooking food, 13/10 would discover again.
+
 ## Language (~200k years ago)
 
 "[Great for solving problems / after it creates a problem](https://genius.com/8651679)"—okay, true, but come on. Nothing beats being able to express yourself to others, even if imperfectly.
