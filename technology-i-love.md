@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: no-footer
 title: Technology I love
 ---
 
-I've been accused of being "depressing" in my attitudes toward new technology.
+I've been accused of being depressing in my attitudes toward new technology.
 
-While I can't control how other people feel when they hear my opinions and questions, I can certainly try to balance out my skepticism with some pure positivity. So here's a partial list, in rough chronological order, of the technologies I enjoy personally, and also see as having a net positive effect on humanity.
+I can't control how other people feel when they hear my opinions, but I can certainly try to balance out my skepticism with some pure positivity. So here's a partial list, in rough chronological order, of the technologies I enjoy personally, and also see as having a net positive effect on humanity.
 
 ## Fire (~2 million years ago)
 
@@ -49,4 +49,47 @@ I've collaborated with people from all over the world, whom I've never met in pe
 
 I'm a huge fan of the open source software project that powers most of the servers that bring you most of the internet. It's comprised of all sorts of handy tools for creating, editing, searching, organizing, and sharing text. You'll take my `grep` when you pry it from my cold, dead hands.
 
+---
 
+## Something's missing 🤔
+
+This list came from looking around me and focusing on the things that bring me health, connection, and joy. But surely I left out a few items.
+
+No pressure, but if there's something you suspect I omitted, feel free to suggest it here:
+
+<form action="https://submit-form.com/fzKU9kFd">
+  <textarea
+    id="message"
+    name="message"
+    required="true"
+  ></textarea>
+  <br />
+  <label for="name">Your name (optional)</label>
+  <input type="text" id="name" name="name" required="false" />
+  <input
+    type="hidden"
+    name="_redirect"
+    value="https://briandavidhall.com/feedback-thanks"
+  />
+  <input type="hidden" name="_append" value="false" />
+  <button class="btn" type="submit">Send</button>
+</form>
+
+<style type="text/css">
+textarea {
+  display: block;
+  width: 70%;
+  height: 250px;
+  padding: 8px;
+}
+label {
+  padding-top: 14px;
+}
+input {
+  display: block;
+  padding: 8px;
+}
+.btn {
+  margin: 20px 0;
+}
+</style>
