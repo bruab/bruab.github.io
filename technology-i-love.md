@@ -65,7 +65,7 @@ No pressure, but if there's something you suspect I omitted, feel free to sugges
   ></textarea>
   <br />
   <label for="name">Your name (optional)</label>
-  <input type="text" id="name" name="name" required="" />
+  <input type="text" id="name" name="name" />
   <input
     type="hidden"
     name="_redirect"
