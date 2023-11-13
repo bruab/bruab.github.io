@@ -62,6 +62,6 @@ Stuff like:
 
 Subscribe and I'll send you weekly updates as I write and research more on this topic (and others :).
 
-{% include newsletter-subscribe-form.html %}
+{% include convertkit-form.html uid="81f70327c4" formnumber="4956181" %}
 
 Cancel anytime. And I never look at unsubscribes, so you won't even hurt my feelings :)
