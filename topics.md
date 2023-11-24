@@ -24,6 +24,7 @@ Here's a partial list of stuff I like to talk about.
     - Korea
     - Spain
 - Food
+    - Regenerative agriculture
     - Vegan-curious cooking
     - Everything is Bad For You
     - Italian cooking
@@ -36,6 +37,7 @@ Here's a partial list of stuff I like to talk about.
     - Replication crisis
     - Neurodiversity
 - Politics
+    - Library governance
     - Class, caste, and racism
     - Media criticism, propaganda
 - Science fiction

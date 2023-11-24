@@ -5,7 +5,11 @@ title: Guest spots
 
 Here's a list of podcast / YouTube collaborations I've been involved in.
 
-## FreenaceU podcast 
+## Deliberate Freelancer
+
+Chatting with Mel about how to prioritize improving your website. Listen [here](https://meledits.com/169-quick-website-fixes-to-attract-more-clients-with-brian-hall/)
+
+## FreelanceU podcast 
 
 We walked through where to focus when setting up a website as a freelancer. Listen [here](https://www.freelanceu.com/freeupodcast/website-set-up-class/).
 
