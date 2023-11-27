@@ -3,7 +3,7 @@ layout: post
 title: Social pomodoros 🍅
 ---
 
-I host a weekly coworking session, every Tuesday at 11am US-Central.
+I host a weekly coworking session, every Tuesday at 12pm US-Eastern.
 
 We take a few minutes to catch up, then spend 30 minutes heads down, writing/editing/organizing or doing whatever One Thing we most need to focus on.
 
