@@ -17,6 +17,10 @@ Good for staying warm, cooking food, 13/10 would discover again.
 
 Language gives us song, and jokes, and an efficient way to transmit knowledge generationally. I wouldn't want to live without it.
 
+## Cheese (~7,000 years ago)
+
+Okay so the stuff in the grocery store is produced in a way that's pretty terrible for cows, the atmosphere, and probably whoever eats it. Still, the basic concept of turning milk into tangy sustenance that keeps ... good stuff, I'm a fan. (Thanks @tw for the suggestion.)
+
 ## Writing (~6,000 years ago)
 
 Spoken language gives us a way to connect with those around us, and to carry stories from generation to generation. But _written_ language goes so much further. It lets us learn from people far away from us in time and space, and the only limitation is how much time we can devote to reading. One of the best technologies ever.
@@ -24,6 +28,10 @@ Spoken language gives us a way to connect with those around us, and to carry sto
 ## Soap (~5,000 years ago)
 
 Highly underrated invention. It saves lives and makes us smell nice. I'm not sure if there is any downside to making and using soap. If you haven't tried it before, you should.
+
+## Variolation (~900 years ago)
+
+This early form of disease prevention is a [precursor to modern vaccines](https://en.wikipedia.org/wiki/Variolation). Helping avoid mass death and disablement is a great use for technology, I'm a fan. (Thanks @ja for the suggestion.)
 
 ## The printing press (~600 years ago)
 
@@ -36,6 +44,14 @@ Nothing against horses or walking, but I think bikes are the best method of tran
 ## The camera (~200 years ago)
 
 If we didn't have a way to take cat photos, we could never have invented ...
+
+## Indoor plumbing (~200 years ago)
+
+Sanitation, convenience, can't beat it. (Thanks @tw for the suggestion.)
+
+## Antibiotics (~100 years ago)
+
+A huge win in the struggle againts bacterial infection. Of course the bacteria [have not given up](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/), but this invention sure put humans at an advantage.
 
 ## The Internet (~50 years ago)
 
