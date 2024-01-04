@@ -5,11 +5,11 @@ date: 2023-12-31
 tags: []
 ---
 
-Let's do a roundup of my successes as an oNlInE crEatOr for the past few years.
+Let's do a roundup of my successes as an oNLiNe crEatOr for the past few years.
 
-Courses: I've made $X from Y courses, which I marketed on social media and via online events. Current MRR: $0
+Courses: I've made $456 from 7 courses, which I marketed on social media and via online events. Current MRR: $0
 
-Books: I've made $Z from 2 books, which I've scarcely marketed at all. Current MRR: breaking even on Amazon Ad fees.
+Books: I've made $3,242 from 2 books, which I've scarcely marketed at all. Current MRR: breaking even on Amazon Ads, which I've set & will forget until I hit 1,000 copies sold.
 
 In looking back at all the time I've spent trying to earn a living from what's in my brain (but not as a consultant), I notice a few striking facts:
 
@@ -18,7 +18,9 @@ In looking back at all the time I've spent trying to earn a living from what's i
 - I _really like_ writing books
 - I've actually sold some books
 
-A standard business model as an oNlInE crEatOr is to have a "ladder" of products. The free stuff on social media, maybe a book, a paid course that costs a bit more, a deluxe course that costs more than that, some sort of elite coaching or consulting service that's the most expensive of all.
+## BEsT PracTIceS for oNLiNe crEatOrs
+
+A standard business model as an oNLiNe crEatOr is to have a "ladder" of products. The free stuff on social media, maybe a book, a paid course that costs a bit more, a deluxe course that costs more than that, some sort of elite coaching or consulting service that's the most expensive of all.
 
 Most of the work that goes into running a business like that sounds terrible to me. So I had this wild idea: What if I just sold books?
 
@@ -36,4 +38,4 @@ So for 2024, I've decided I'll just sell books. If you're reading this, and you 
 
 [briandavidhall.com/books](/books)
 
-And if you _have_ bought a book or two—thanks so very much. I won't be asking you to part with any more money anytime soon. But if there's some kind of help you think I can give, feel free to [ask](/contact). If I can help you out in a way that also gets more people to buy my books, I'll do it—simple as that.
+And if you _have_ bought a book or two—thanks so very much. I won't be asking you to part with any more money anytime soon. But if there's anything I can do for you, feel free to [ask](/contact). If I can help you out in a way that also gets more people to buy my books, I'll do it—simple as that.
