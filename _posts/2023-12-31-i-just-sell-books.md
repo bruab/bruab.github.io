@@ -26,7 +26,7 @@ Most of the work that goes into running a business like that sounds terrible to 
 
 For one, I'd make all my existing courses free, forever, and make sure that they encourage people to buy my books.
 
-I might make more courses in the future—_if_ I reasonably believe that the course will get people to uby one of my books. But I wouldn't charge for the courses—unless I somehow conclude that _charging_ for the course will lead to more book sales than not charging.
+I might make more courses in the future—_if_ I decide making a course will get people to buy one of my books. But I wouldn't charge for the courses—unless I somehow conclude that _charging_ for the course will lead to more book sales.
 
 Same goes for online events, or even communities—anything goes, if it helps with book sales.
 
@@ -38,4 +38,4 @@ So for 2024, I've decided I'll just sell books. If you're reading this, and you 
 
 [briandavidhall.com/books](/books)
 
-And if you _have_ bought a book or two—thanks so very much. I won't be asking you to part with any more money anytime soon. But if there's anything I can do for you, feel free to [ask](/contact). If I can help you out in a way that also gets more people to buy my books, I'll do it—simple as that.
+And if you _have_ bought a book or two—thanks so very much. I won't be asking you to part with any more money anytime soon. But if there's anything I can do for you, feel free to [ask](/contact).
