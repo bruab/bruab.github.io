@@ -5,7 +5,7 @@ date: 2024-01-12
 tags: []
 ---
 
-<video width="80%" controls><source src="http://video.sjc1.vultrobjects.com/2024-01-12_09-29-47-dont-use-chrome.mp4" type="video/mp4"></video>
+<video width="80%" controls><source src="https://video.sjc1.vultrobjects.com/2024-01-12_09-29-47-dont-use-chrome.mp4" type="video/mp4"></video>
 
 You know how Facebook tracks your every scroll, click, and view in order to build a profile of your habits and tastes, so they can sell access to your eyeballs based on that profile?
 
