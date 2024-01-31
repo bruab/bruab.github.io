@@ -5,7 +5,7 @@ title: Marketing Your Website Sucks (the book)
 
 This page is a chronological record of my efforts to sell my first book, [Your Website Sucks](https://www.amazon.com/dp/B0BVSXB5W7). My intention is to market the book actively until it's sold 1,000 copies.
 
-Current sales: 78 copies. (37 on Gumroad, 41 on Amazon)
+Current sales: 402 copies. (37 on Gumroad, 365 on Amazon)
 
 Here's what I've done:
 
@@ -63,6 +63,12 @@ I published a post on [Accounting Today](https://www.accountingtoday.com/opinion
 
 I've been emailing friends and colleagues and pointedly asking if they'd be willing to buy a copy. It's led to some great conversations, lots of kind encouragement, and a handful of sales + reviews.
 
+### Guest podcast appearance (May 2023)
+
+I appeared on the [Deliberate Freelancer podcast](https://meledits.com/169-quick-website-fixes-to-attract-more-clients-with-brian-hall/) to plug my book.
+
+At least one human being has listened to this interview and bought my book!
+
 ### Add "Read a sample" option to book website (June 2023)
 
 I created an email flow so folks can get 6 sample chapters in PDF format in exchange for their email address. Currently not driving any real traffic to the book website, but this makes it worth considering.
@@ -73,11 +79,40 @@ After finding that several of the platforms I'd previously identified as options
 
 I'll pivot back to podcast guest appearances, and look into giving some talks or trainings.
 
-### Reduce price of ebook
+### Reduce price of ebook (July 2023)
 
 I read about [someone else](https://twitter.com/p_millerd/status/1675675024911368193) having better results with a $4.99 price point compared with $9.99 and decided to try it. The book's not really optimized for Kindle, so it feels better to sell it cheaper.
 
 I don't feel great about the fact that some folks have bought it at the higher price point but ... it's $5. Live and learn :)
 
-### (to be continued)
+### Run some Amazon Ads (August 2023)
+
+I did my very best to follow the instructions of a now-unavailable Amazon Ads online course, and hit Publish.
+
+I launched two campaigns—one targeting keywords, one targeting similar books—with a maximum daily spend of $10 each.
+
+### Raise price of ebook (November 2023)
+
+A couple months after lowering the ebook price, I raised it back to $9.99. This decision was driven by:
+
+- Not seeing any sort of amazing spike in sales
+- Hearing Rob Fitzpatrick point out that someone has to buy, read, and take action on your book before they'll recommend it—and the the "read and take action" steps are the hard part
+
+### Tweak ad campaigns (November 2023)
+
+After a couple months' worth of data, I was able to turn off several keywords and product targets that weren't leading to any sales. But some of the other ones were, at approximately-break-even rates! So I doubled down on those.
+
+### Just ask people to buy the book (January 2024)
+
+After a long year, finally going back to my list of friends and colleagues and trying to be diligent about making sure they've got a copy if they want one.
+
+As a result, my book may be featured in an undergrad CS course this year!
+
+### Continue to tweak ads (January 2024)
+
+After 6 months, my ad campaigns have led to 200+ sales. The first couple months were pretty unprofitable, but things have gotten better as I've turned off underperforming ads, and as the book has accrued positive reviews.
+
+Given that my goal is to reach 1,000 seed readers, at this rate I'll be there by the end of 2024, on ads alone.
+
+This feels kind of lazy, and I don't love that I'm making bonus contributions to the Jeff Bezos Retirement Fund, but it frees me up to work on [other books](/books), so I'll continue with it, and possibly supplement it with more podcast appearances or other tactics.
 
