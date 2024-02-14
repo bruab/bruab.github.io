@@ -35,39 +35,39 @@ You'll find it at [briandavidhall.com/first-impressions-workshop/](/first-impres
 
 I use these liberally, create them without hesitation, often populate them manually and frequently discard them. But here are the ones that have stuck around for more than one email:
 
-### `EMAIL_FREQUENCY` 
+### EMAIL_FREQUENCY
 
 Can be `whenever`, `weekly`, or `big_announcements_only`. New subscribers default to `weekly` (see "Automations").
 
 A link in the footer offers subscribers the option to update their email frequency (see "Code snippets").
 
-### `PURCHASED_YWS` and `REVIEWED_YWS`
+### PURCHASED_YWS and REVIEWED_YWS
 
 Can be `true` or blank. I manually update `PURCHASED_YWS` when I know that someone has bought (or been given) a copy of [Your Website Sucks](https://www.amazon.com/dp/B0BVSXB5W7), so I can avoid asking them to buy it. (Same for `REVIEWED_YWS` and asking them to review it.)
 
-### `PURCHASED_ONE_STAR` and `REVIEWED_ONE_STAR`
+### PURCHASED_ONE_STAR and REVIEWED_ONE_STAR
 
 Same as above, but for [One Star](https://onestar.world/).
 
-### `YFTC_BETA_READER`
+### YFTC_BETA_READER
 
 Can be `round1`, `round2`, `coaching`, or blank. I manually update these fields _and_ allow subscribers to click a link to set it, so I can coordinate coaching calls or send out beta reading links.
 
-### `ONE_STAR_DAILY_STATUS` 
+### ONE_STAR_DAILY_STATUS 
 
 A newsletter within a newsletter—this custom field can be `subscribed`, `unsubscribed`, or blank.
 
 Anyone who opts in (via link click or form) to `subscribed` receives daily emails with quotes about dealing with criticism ... until I run out of quotes (see "Sequences"). If they opt out, they're marked `unsubscribed` so the daily emails stop, but they stay on my list.
 
-### `ONE_STAR_WEEKLY_STATUS`
+### ONE_STAR_WEEKLY_STATUS
 
 Same as above, but for weekly emails containing draft chapters of the book.
 
-### `CONFIRMED`
+### CONFIRMED
 
 I'm not using this yet! But it's on my todo list to stop using ConvertKit's auto-opt-in email to confirm addresses, and build a custom one instead, per [this post](https://createandsell.co/issues/double-opt-in-or-single-opt-in). Kind of like how the `ONE_STAR_DAILY_STATUS` and `ONE_STAR_WEEKLY_STATUS` work, but for all subscribers.
 
-### `ONBOARDING`
+### ONBOARDING
 
 For _some_ (but not yet all) free resources, this field is set to `true` when someone opts in so I can exclude them from chaotic weekly emails until I've prepared them for the experience. (The full package will involve a "[bridge sequence](https://createandsell.co/issues/email-list-value)" to transition them from the free resource to my weekly-ish emails, and an automation to update this custom field to `complete`.
 
@@ -94,6 +94,7 @@ Folks with `YFTC_BETA_READER` set to `round1`, `round2`, or `coaching`. Used to 
 Here's how I address people based on whether they've bought/reviewed my first book:
 
 ```
+{% raw %}
 {% if subscriber.purchased_yws == "TRUE" %}
     {% if subscriber.reviewed_yws == "TRUE" %}
 
@@ -110,12 +111,13 @@ Thanks for reading my book! Please consider leaving a review.
 Buy my book! (If you want.)
 
 {% endif %}
-
+{% endraw %}
 ```
 
 Here's the snippet from the footer of my weekly emails that lets subscribers adjust their email frequency:
 
 ```
+{% raw %}
 {% if subscriber.email_frequency == "weekly" %}
 
 Too many emails? Click here and I'll only send updates a few times a year, when something big happens.
@@ -133,6 +135,7 @@ And no hard feelings if you just want to unsubscribe (I never check unsubscribes
 No hard feelings if you want to unsubscribe (I never check unsubscribes).
 
 {% endif %}
+{% endraw %}
 ```
 
 ## Automations
@@ -169,3 +172,7 @@ On my todo list: actually create an opt-in form for this sequence.
 At the time of writing, 9 emails delivered on Mondays, each containing a chapter of the book.
 
 Todo: create an email opt-in :)
+
+---
+
+If you've read this far, you've probably either got questions or advice for me. I'd love to hear either. Just hit Reply on any email I've sent you. (If I've never sent you an email, sign up below :)
