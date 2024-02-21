@@ -7,9 +7,9 @@ tags: []
 
 Let's do a roundup of my successes as an oNLiNe crEatOr for the past few years.
 
-Courses: I've made $456 from 7 courses, which I marketed on social media and via online events. Current MRR: $0
+**Courses:** I've made $456 from 7 courses, which I marketed on social media and via online events. Current MRR: $0
 
-Books: I've made $3,242 from 2 books, which I've scarcely marketed at all. Current MRR: breaking even on Amazon Ads, which I've set & will forget until I hit 1,000 copies sold.
+**Books:** I've made $3,242 from 2 books, which I've scarcely marketed at all. Current MRR: breaking even on Amazon Ads, which I've set & will forget until I hit 1,000 copies sold.
 
 In looking back at all the time I've spent trying to earn a living from what's in my brain (but not as a consultant), I notice a few striking facts:
 

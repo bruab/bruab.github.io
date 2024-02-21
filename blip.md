@@ -1,16 +1,12 @@
 ---
-layout: no-footer
-title: Blip newsletter
+layout: post
+title: Blip 
 ---
 
-A monthly-ish newsletter about the distant future, seen through the lens of the weird present, situated in the deep south.
-
-{% include convertkit-form.html uid="71d40bda1c" formnumber="4949209" %}
-
-(Unsubscribe anytime, [guilt free](/why-i-dont-check-unsubscribes/){:target="_blank"}{:rel="noopener noreferrer"}.)
-
----
+A book-in-progress about the distant future, seen through the lens of the weird present, situated in the deep south.
 
 Here are some of the exciting events we'll consider:
 
 {% include blip_timeline.html %}
+
+For updates, sign up for my weekly-ish work in progress updates below, or just [reach out](/contact) and ask me how it's going :)
