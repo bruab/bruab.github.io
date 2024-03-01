@@ -17,6 +17,7 @@ title: A list of manifestos
 
 ## By others
 
+- [About Ideas Now Manifesto](https://aboutideasnow.com/about), by Peter Hagen and Louis Barcay (I think)
 - [Declaration of the Rights of Man and of the Citizen](http://hrlibrary.umn.edu/education/frdeclaration.html), by the National Assembly of France
 - [focus: A simplicity manifesto in the Age of Distraction](http://focusmanifesto.s3.amazonaws.com/FocusFree.pdf), by Leo Babauta
 - [The Founding and Manifesto of Futurism](https://www.italianfuturism.org/manifestos/foundingmanifesto/), by F. T. Marinetti
