@@ -2,8 +2,6 @@
 layout: post
 title: "How to grow a fucking plant"
 date: 1970-01-01
-permalink: /TODO/
-tags: []
 ---
 
 TODO

@@ -2,7 +2,7 @@
 layout: post
 title: "[draft] TODO"
 date: 1970-01-01
-permalink: /TODO/
+permalink: /sample-post/
 tags: []
 ---
 
