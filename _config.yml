@@ -4,6 +4,14 @@ url: https://briandavidhall.com # root address of the site
 description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug/
+include: ['_pages']
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+#permalink: pretty
 
 favicon: "./favicon.ico"
 
