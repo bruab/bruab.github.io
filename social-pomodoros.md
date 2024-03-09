@@ -5,14 +5,12 @@ title: Social pomodoros 🍅
 
 I host a weekly coworking session, every Tuesday at 12pm US-Eastern.
 
-We take a few minutes to catch up, then spend 30 minutes heads down, writing/editing/organizing or doing whatever One Thing we most need to focus on.
+We take a few minutes to check in, then spend 30 minutes heads down, writing/editing/organizing or doing whatever One Thing we most need to focus on.
 
-Then we take a few more minutes to check in and share our results.
+Then we take a few more minutes to share our results.
 
 Doesn't sound like much, but it's 🦄magical✨. Even [Johns Hopkins University](https://www.hopkinsmedicine.org/fac_development/career-path/wags.html) says so.
 
-If you'd like to drop by, [click here](https://calendar.google.com/calendar/u/0?cid=Y19iOTQ4OWYyOTNlNjUyODA4ZWZlZDdmMzQzZmU4ZDczZGU5N2RkZTdhZmJlNGNlYzhkMmMzNTRkNmIxM2IxNmUwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to access the calendar, and add them to your Google (or other) Calendar app.
-
-Or just [reach out](/contact) for the meeting details.
+If you'd like to drop by, [register here](https://lu.ma/social-pomodoro).
 
 Hope to see you soon!
