@@ -9,20 +9,22 @@ Because I'm working on a book titled _Your First Three Clients_, which will help
 
 So my plan is to coach at least a dozen humans through what I _hope_ is a low stress, repeatable method of client-getting. Find the gaps between what I think makes sense and what actually makes sense. You get clients, your clients get _you_, I get a better book, [win win win](https://garden.briandavidhall.com/seek-win-win-wins).
 
-Here are the details:
+## What I'm offering
 
-- Group coaching calls, online, every other Thursday at 12pm Eastern
-  - 45 minutes
-  - 2-10 attendees
-  - Format:
-    - 5-10 minute discussion on potential clients
-    - 5-10 minute discussion on potential partners
-    - 5-10 minute discussion on supporters 
-    - 10 minute working session (send a message or two!)
-    - 5-10 minute wrapup
-  - Email support inbetween sessions
+- **Strategy help** - Who are your clients, how can you find them, how should you approach them?
+- **Templates and scripts** - No need to stare at a blank page when it's time to send a message or followup
+- **Accountability** - Weekly-ish check-ins to help ensure you put in the work
+- **Encouragement** - You don't necessarily _need_ a cheerleader, but surely it can't hurt
 
-If that sounds like something you might be into, just [send me a message](/contact) (or hit reply on any email I've ever sent you) and say something like "Hey sign me up for the group coaching sessions."
+## How it works
 
-This is a [#nopitch](/nopitch) offer™. Once the second draft of the book is ready for beta reading, I'll start selling "early access + coaching calls + digital copy of the book when it's published." But if you opt in now, you get the whole package for free.
+- **Kickoff call on Zoom** - Outline your current situation, your goals, talk about any clients or leads you've already got
+- **Async check-ins via SMS / Signal / Whatsapp** - I will check in on you proactively, hopefully that's not annoying
+- **Ad hoc voice calls whenever helpful** - When you need to vent, or do a brain dump, or talk through a complex situation
+
+If that sounds like something you might be into, just [send me a message](/contact) (or hit reply on any email I've ever sent you) and say something like "Hey let's see if you can help me find some clients."
+
+## What's it cost?
+
+Once my book comes out, I ask that you buy one copy for every client you've found. (It will be $19 paperback, $9.99 on Kindle.)
 
