@@ -11,6 +11,8 @@ Then we take a few more minutes to share our results.
 
 Doesn't sound like much, but it's 🦄magical✨. Even [Johns Hopkins University](https://www.hopkinsmedicine.org/fac_development/career-path/wags.html) says so.
 
-If you'd like to drop by, [register here](https://lu.ma/social-pomodoro).
+If you'd like to drop by, [click here](https://calendar.google.com/calendar/u/0?cid=Y19iOTQ4OWYyOTNlNjUyODA4ZWZlZDdmMzQzZmU4ZDczZGU5N2RkZTdhZmJlNGNlYzhkMmMzNTRkNmIxM2IxNmUwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to access the calendar, and add them to your Google (or other) Calendar app.
+
+Or just [reach out](/contact) for the meeting details.
 
 Hope to see you soon!
