@@ -1,6 +1,6 @@
 <div class="image-wrapper" >
     <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
-      <img src="{{ include.url }}" alt="{{ include.alt }}"/>
+      <img src="{{ include.url }}" alt="{{ include.alt }}" {% if include.maxheight %} style="max-height: {{ include.maxheight }};" {% endif %} />
     </a>
     {% if include.caption %}
         <p class="image-caption">{{ include.caption }}</p>
