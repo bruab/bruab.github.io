@@ -80,11 +80,13 @@ And of course, you _do_ have an app store, so it's up to you to resist the impul
 
 ## Easy version
 
-Don't want to buy a phone and install a custom operating system? That's understandable. For me, the three features that actually stop me from neurotically checking my phone are:
+Don't want to buy a phone and install a custom operating system? That's understandable. 
 
-1. There's no feed—no social media, news, newsletters, etc.
-2. There are no games or entertainment apps
-3. The interface itself is less visually stimulating
+For me, the three crucial features that actually break the compulsive phone-checking habit are:
+
+1. No feeds to check—no social media, news, newsletters, etc.
+2. No games or entertainment apps
+3. A less visually stimulating interface
 
 You can achieve these results by simply:
 
