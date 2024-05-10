@@ -6,7 +6,7 @@ date: 2024-05-01
 
 I've been tempted, for _years_ now, by the [Light Phone](https://www.thelightphone.com/).
 
-"Designed to used as little as possible"—sounds great, considering the phones most of use are the product of decades of research into the most effective means of hijacking our brains for compulsive scrolling.
+"Designed to be used as little as possible"—sounds great, considering the phones most of use are the product of decades of research into the most effective means of hijacking our brains for compulsive scrolling.
 
 But the Light Phone doesn't work for me. I love that the screen is black and white. I appreciate that there's no email, social media, news, etc.—just calls and messages.
 
