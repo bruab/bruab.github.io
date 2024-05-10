@@ -14,7 +14,7 @@ The problem is that I get messages via multiple platforms, not just SMS.
 
 Specifically, I talk to people through Signal, WhatsApp, and Slack. And a phone that blocks those channels would be more annoying than calming.
 
-So I fashioned myself a Light Phone-esque device that supports the messaging apps I need. Here's how.
+So I fashioned myself a Light Phone-esque device that supports the messaging apps I need. Here's how. (If it all seems like a bit too much, you can skip to the [easy version](#easy-version).)
 
 {% include image.html caption="My phone lock screen, home screen, and apps menu" alt="My phone lock screen, home screen, and apps menu" title="My phone lock screen, home screen, and apps menu" url="/images/diy-lightphone.png" %}
 
@@ -77,6 +77,21 @@ If you find it a source of temptation, you can disable its network access by nav
 Tap "Network" under the "Allowed" list, then choose "Don't allow."
 
 And of course, you _do_ have an app store, so it's up to you to resist the impulse to install email, social media apps, or whatever it is that drives you to stare at your phone. I think you're up to the challenge, though.
+
+## Easy version
+
+Don't want to buy a phone and install a custom operating system? That's understandable. For me, the three features that actually stop me from neurotically checking my phone are:
+
+1. There's no feed—no social media, news, newsletters, etc.
+2. There are no games or entertainment apps
+3. The interface itself is less visually stimulating
+
+You can achieve these results by simply:
+
+- Deleting all apps except must-have messaging platforms
+- Turning off animations ([instructions](https://www.howtogeek.com/415161/does-looking-at-your-phone-make-you-dizzy-disable-animations/)) and enabling grayscale mode ([instructions](https://www.theverge.com/23637672/grayscale-iphone-android-pixel-samsung-galaxy-how-to))
+
+I chose to start with a new phone because I wanted to run GrapheneOS, and I wanted to run GrapheneOS because Google's Android and Apple's iOS both spy on you and serve you ads, which I find annoying. But if you don't care about that, skip all the nerd steps and just start deleting stuff!
 
 ## Please share
 
