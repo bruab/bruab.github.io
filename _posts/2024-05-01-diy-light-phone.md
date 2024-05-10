@@ -32,7 +32,7 @@ Here are the instructions:
 
 [https://grapheneos.org/install/web](https://grapheneos.org/install/web)
 
-They're detailed and might seem kind of technical. But there's nothing more complicated than "plub phone into computer," "choose this option in that menu" or "click this button and wait."
+They're detailed and might seem kind of technical. But there's nothing more complicated than "plug phone into computer," "choose this option in that menu" or "click this button and wait."
 
 Follow them _slowly and carefully_—as if you were baking a cake, and forgetting the cream of tartar would ruin the recipe.
 
