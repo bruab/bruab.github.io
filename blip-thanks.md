@@ -5,7 +5,7 @@ title: Thanks for subscribing to Blip!
 
 ![gif of me typing, seeing a new subscriber, giving thumbs up](/images/newsletter-ty.gif)
 
-You'll get an email month or so.
+You'll get an email every month or so.
 
 If you ever have a question or suggestion, just hit Reply on any email. I read every message.
 
