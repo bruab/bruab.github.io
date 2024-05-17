@@ -3,7 +3,7 @@ layout: no-footer
 title: I will help you make 3 meaningful improvements to your website (for free)
 ---
 
-In this hybrid email course, we'll sort out your website goals and identify 3 meaningful improvements you can make.
+In this [hybrid email course](/hybrid-email-course), we'll sort out your website goals and identify 3 meaningful improvements you can make.
 
 {% include convertkit-form.html uid="809b51c9f4" formnumber="6579369" cta="Sign Up" courseoptin="3mi" %}
 
