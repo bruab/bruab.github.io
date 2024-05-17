@@ -5,7 +5,7 @@ title: Marketing Your Website Sucks (the book)
 
 This page is a chronological record of my efforts to sell my first book, [Your Website Sucks](https://www.amazon.com/dp/B0BVSXB5W7). My intention is to market the book actively until it's sold 1,000 copies.
 
-Current sales: 402 copies. (37 on Gumroad, 365 on Amazon)
+Current sales: 539 copies. (44 on Gumroad, 495 on Amazon)
 
 Here's what I've done:
 
@@ -116,3 +116,6 @@ Given that my goal is to reach 1,000 seed readers, at this rate I'll be there by
 
 This feels kind of lazy, and I don't love that I'm making bonus contributions to the Jeff Bezos Retirement Fund, but it frees me up to work on [other books](/books), so I'll continue with it, and possibly supplement it with more podcast appearances or other tactics.
 
+### Launch a hybrid email course
+
+I set up an [email course](/free-courses/improve-website/) where I promise to help people with their websites, with the intention of asking them to buy the book as compensation. Possibly setting a record for the least efficient marketing strategy ever imagined.
