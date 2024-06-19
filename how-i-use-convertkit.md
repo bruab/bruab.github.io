@@ -15,7 +15,7 @@ This is a major gripe of mine with ConvertKit—they really want you to use thei
 
 Available at [yourwebsitesucks.fyi](https://yourwebsitesucks.fyi/). Uses the built-in ConvertKit confirmation flow (for now! see "Custom fields > CONFIRMED") to send subscribers to a top secret PDF with sample chapters from the book.
 
-On my todo list: Follow up with a couple emails with additional tips, then warn subscribers they're about to be dumped onto my weekly-ish email list.
+After that, they get an email with a bonus chapter, and then another one, and then a "bridge" email saying "okay thanks for reading, I've now sent you ~1/4 of my book so that's it, but you're on my weekly-ish list."
 
 ### Generic email signup
 
