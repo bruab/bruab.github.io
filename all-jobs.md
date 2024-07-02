@@ -29,3 +29,4 @@ In chronological order:
 - Solutions engineer at a martech startup
 - "Consultant"
 - Nursery owner
+- Librarian at a nonfiction authors' community

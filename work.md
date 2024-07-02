@@ -1,17 +1,14 @@
 ---
-layout: post
+layout: no-footer
 title: Work
 ---
 
-Hi there! I'm flattered that you might want to work together (or that you're curious about the work I do).
+Hi there! I'm flattered that you're curious about the work I do. Currently:
 
-I focus on website strategy + customer research. 
+- I'm a partner at [Useful Books](https://www.usefulbooks.com/), where we help authors write recommendable nonfiction
+- I'm writing a couple [books](/books) myself
 
-If you suspect your site could bring in more conversions than it does, and/or if you don't have a super clear picture of what motivates your customers to do business with you, I can probably help.
+In the past, I've done a ton of stuff, starting with "cook at Dairy Queen"—you can view a full list of all my jobs [here](/all-jobs). (Or you can look at a more traditional [resume](/resume.pdf).)
 
-I'm not currently taking on new retainer clients, but I'd still love to meet, hear about your situation, and figure out how I can be of assistance - just [get in touch](/contact).
-
-If you want to look at a proper resume, you can access it [here](/resume.pdf).
-
-If you want a list of all the jobs I've ever had, starting with "cook at Dairy Queen," it's [here](/all-jobs).
+If you'd like to work with me, I'm even more flattered. You'll find more info [here](/work-with-me).
 
