@@ -36,6 +36,14 @@
 
   <!-- Fathom -->
   <script src="https://cdn.usefathom.com/script.js" data-site="SSAEJXEO" defer></script>
+  <!-- Track 404s -->
+  <script>
+   document.addEventListener('DOMContentLoaded', function() {
+    var path = window.location.pathname;
+    fathom.trackEvent('404: ' + path);
+  });
+  </script>
   <!-- / Fathom -->
+
 
 </head>
