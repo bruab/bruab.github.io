@@ -9,7 +9,7 @@ _This post was originally sent out as an email to [my now-defunct mailing list](
 
 Been a minute since I sent an email. But I've been staying busy. Mostly staring at this thing:
 
-![](/images/1010px-Plutchik-wheel.svg.png)
+![](/images/plutchik-wheel.jpg)
 
 It's Robert Plutchik's wheel of emotions, or the Feels Wheel as I like to call it.
 
