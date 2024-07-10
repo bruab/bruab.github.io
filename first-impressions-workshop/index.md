@@ -11,7 +11,7 @@ Here's why you should care:
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lWyV7RpzAeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-Sign up here and I'll email you the first lesson right away:
+Sign up here and I'll email you the course right away:
 
 {% include convertkit-form.html uid="67535a653a" formnumber="5361218" cta="GET THE COURSE" %}
 
@@ -25,13 +25,13 @@ Sign up here and I'll email you the first lesson right away:
 
 Here are the lessons:
 
-- Intro - why you should do a 5 second test and what you'll
+- **Intro:** Why you should do a 5 second test and what you'll
 learn
-- Setup - Choose a page, choose your questions
-- Create a free UsabilityHub account and claim your test
-credits
-- Create and launch your test!
-- Analyze your results
-- Decide what to do next
+- **Setup:** Choose a page, choose your questions
+- **Create:** Get a free UsabilityHub account and claim your test
+cr**edits:**
+- **Create:** Set up and launch your test!
+- **Analyze:** Make sense of your results
+- **Decide:** Figure out what to do next
 
-6 emails, 6 videos, and a PDF. 100% FREE. 
+6 videos and a PDF. 100% FREE. 
