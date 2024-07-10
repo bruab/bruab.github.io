@@ -3,9 +3,15 @@ layout: post
 title: How I use Convertkit
 ---
 
+**Edit (July 2024):** After several months of wrangling multiple Sequences, Automations, and Custom Tags, I torched almost all of my ConvertKit fanciness. I still have different forms for different free offers (documented below) but most of the rest of this page is obsolete. I'm preserving it as a historical document, and as a reminder that I, too, fall victim to the [urge to automate](/against-automation). 
+
+---
+
 If you decide to get fancy with ConvertKit you _have_ to document your settings somewhere, because clicking around in the ConvertKit interface to find stuff is painfully slow. And because it gets so complicated, so fast, that you need it all written down in one place. I'm writing stuff down in this public post.
 
 In particular, this is a reference for the forms, custom fields, segments, code snippets, automations, and sequences I use and maintain. (I [don't use tags](https://createandsell.co/issues/dont-use-tags) except to facilitate automations.)
+
+**Edit:** I've returned to using tags because they're easier to set up, and you can always create & populate a custom field based on tags ... if you really need to.
 
 ## Forms
 
@@ -17,6 +23,8 @@ Available at [yourwebsitesucks.fyi](https://yourwebsitesucks.fyi/). Uses the bui
 
 After that, they get an email with a bonus chapter, and then another one, and then a "bridge" email saying "okay thanks for reading, I've now sent you ~1/4 of my book so that's it, but you're on my weekly-ish list."
 
+**Edit:** I killed the followup emails. When someone signs up, they get sample chapters right away. Then I get an email telling me they subscribed, so I just reach out with an artisanal, hand-typed message to welcome them and give them a heads up about my weekly emails. Much simpler and more authentic, doesn't take much time, worth it in my opinion.
+
 ### Generic email signup
 
 This is the form at the bottom of this page! And most pages on this site. It simply drops you into my weekly email list.
@@ -27,9 +35,13 @@ This is an invisible form that only exists to add members who opt in to one of m
 
 Right now it simply drops subscribers onto my weekly-ish list with little or no warning :)
 
+**Edit:** I fixed the "little or no warning" issue by ... deciding to hand-type a welcome to everyone who signs up.
+
 ### First Impressions Workshop opt-in
 
 You'll find it at [briandavidhall.com/first-impressions-workshop/](/first-impressions-workshop/). It drops subscribers into a sequence (see below).
+
+**Edit:** No more sequence, it's just a PDF with instructions and links to videos. When someone signs up, I send them a hand-typed welcome message.
 
 ## Custom fields
 
@@ -41,17 +53,25 @@ Can be `whenever`, `weekly`, or `big_announcements_only`. New subscribers defaul
 
 A link in the footer offers subscribers the option to update their email frequency (see "Code snippets").
 
+**Edit:** Still using this one!
+
 ### PURCHASED_YWS and REVIEWED_YWS
 
 Can be `true` or blank. I manually update `PURCHASED_YWS` when I know that someone has bought (or been given) a copy of [Your Website Sucks](https://www.amazon.com/dp/B0BVSXB5W7), so I can avoid asking them to buy it. (Same for `REVIEWED_YWS` and asking them to review it.)
+
+**Edit:** This one still exists, though I question whether ConvertKit is the place to track this info ...
 
 ### PURCHASED_ONE_STAR and REVIEWED_ONE_STAR
 
 Same as above, but for [One Star](https://onestar.world/).
 
+**Edit:** I deleted these, decided to try another approach (which I've yet to figure out).
+
 ### YFTC_BETA_READER
 
 Can be `round1`, `round2`, `coaching`, or blank. I manually update these fields _and_ allow subscribers to click a link to set it, so I can coordinate coaching calls or send out beta reading links.
+
+**Edit:** Too complicated, stopped using it.
 
 ### ONE_STAR_DAILY_STATUS 
 
@@ -63,6 +83,8 @@ Anyone who opts in (via link click or form) to `subscribed` receives daily email
 
 Same as above, but for weekly emails containing draft chapters of the book.
 
+**Edit:** Keeping these for now, though I suspect it's more about sunk cost than actual interest.
+
 ### CONFIRMED
 
 I'm not using this yet! But it's on my todo list to stop using ConvertKit's auto-opt-in email to confirm addresses, and build a custom one instead, per [this post](https://createandsell.co/issues/double-opt-in-or-single-opt-in). Kind of like how the `ONE_STAR_DAILY_STATUS` and `ONE_STAR_WEEKLY_STATUS` work, but for all subscribers.
@@ -70,6 +92,8 @@ I'm not using this yet! But it's on my todo list to stop using ConvertKit's auto
 ### ONBOARDING
 
 For _some_ (but not yet all) free resources, this field is set to `true` when someone opts in so I can exclude them from chaotic weekly emails until I've prepared them for the experience. (The full package will involve a "[bridge sequence](https://createandsell.co/issues/email-list-value)" to transition them from the free resource to my weekly-ish emails, and an automation to update this custom field to `complete`.
+
+**Edit:** Not _gonna_ use it lol
 
 ## Segments
 
@@ -138,6 +162,8 @@ No hard feelings if you want to unsubscribe (I never check unsubscribes).
 {% endraw %}
 ```
 
+**Edit:** The snippet + email frequency thing's a keeper.
+
 ## Automations
 
 This is the messiest part of ConvertKit. Just a bunch of if-then rules strung together to add & remove people to sequences or update custom fields. Here's what I've got:
@@ -155,11 +181,15 @@ This is the messiest part of ConvertKit. Just a bunch of if-then rules strung to
 - Any form signup -> Set `EMAIL_FREQUENCY` to `weekly`
 - First Impressions Workshop form signup -> Set `ONBOARDING` to `true`, add to the email course sequence, then set `ONBOARDING` to `complete`
 
+**Edit:** I removed the First Impressions Workshop trigger, and deleted some (undocumented) Visual Automations I'd set up.
+
 ## Sequences
 
 ### First Impressions Workshop
 
 An email course with 7 lessons. (Find it [here](/first-impressions-workshop/).)
+
+**Edit:** As noted above, now it's just a PDF.
 
 ### One Star daily
 
