@@ -1,6 +1,6 @@
 ---
 layout: no-footer
-title: [STL1] Decide on a distro
+title: "[STL1] Decide on a distro"
 ---
 
 Thanks for signing up! (And confirming your email and all that stuff.)
