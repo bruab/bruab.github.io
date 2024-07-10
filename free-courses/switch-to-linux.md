@@ -5,7 +5,7 @@ title: I will help you switch to Linux
 
 In this [hybrid email course](/hybrid-email-course), I'll troubleshoot, coach, and commiserate until you're able to use Linux for (most of) your daily computing needs.
 
-{% include convertkit-form.html uid="809b51c9f4" formnumber="6579369" cta="Sign Up" courseoptin="stl" %}
+{% include convertkit-form.html uid="fb5171e022" formnumber="6813761" cta="Sign Up" %}
 
 ## Why switch?
 
