@@ -87,7 +87,7 @@ At this point you might rightfully ask, "So what?"
 
 Here's why I think this framework is useful. The deeper down the stack you operate, the bigger impact you'll have on the world.
 
-Engaging with others as a staunch feminist—_if you can pull it off_—will ultimately have a more healing effect than debating on current events at the top of the stack. Getting one human to reject (or even question) their sexism is a bigger win that besting someone on a policy point.
+Engaging with others as a staunch feminist—_if you can pull it off_—will ultimately have a more healing effect than debating on current events at the top of the stack. Getting one human to reject (or even question) their sexism is a bigger win than besting someone on a policy point.
 
 If you're able to operate at the very bottom of the stack—like Jesus and the rest of those guys—that's great! But it's not a perfect fit for everyone, and we shouldn't all try and become shamans.
 
