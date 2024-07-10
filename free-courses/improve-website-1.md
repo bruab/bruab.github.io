@@ -5,7 +5,7 @@ title: "[3MI] Welcome to 3 meaningful improvements! Let's go"
 
 Thanks for signing up! (And confirming your email and all that stuff.)
 
-We have to tackle "meaningful" before we start improving, so please Reply with two things:
+We have to tackle "meaningful" before we start improving, so please go back to the email you just received and Reply with two things:
 
 1. A link to your website
 2. The main thing you want people to do when they visit
