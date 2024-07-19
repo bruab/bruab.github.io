@@ -5,15 +5,13 @@ date: "2020-05-08"
 categories: ["Web strategy"]
 ---
 
-_This post was originally sent out as an email to [my now-defunct mailing list](https://briandavidhall.com/newsletters-are-bad-actually/). You can read all such posts [here](https://briandavidhall.com/category/newsletter/), if you like._
-
 Been a minute since I sent an email. But I've been staying busy. Mostly staring at this thing:
 
 ![](/images/plutchik-wheel.jpg)
 
 It's Robert Plutchik's wheel of emotions, or the Feels Wheel as I like to call it.
 
-I've learned that science knows more about, say, earthworm reproductive habits than human emotions. (The latter is just [harder to study](https://twitter.com/briandavidhall/status/1256283602888900609).)
+I've learned that science knows more about, say, earthworm reproductive habits than human emotions. (The latter is just harder to study.)
 
 The Feels Wheel is by no means an authoritative representation of all emotion, but it's the best guide we've got.
 
