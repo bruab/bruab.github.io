@@ -15,7 +15,7 @@ There's a lot _not_ to love, too. We will never reach a point where we get hundr
 
 There are lots of other metrics we might choose. Higher volume and easier to track. Stuff like "posts in the community" or "minutes of course video viewed." 
 
-We're better off ignoring those. Writing a book takes a long time, hours and hours of heads down focus. If you're stuck, we hope we provide the best forum to post in, or the best minutes of video to watch—but most of an author's time is spent not-stuck, doing the work. Posting and watching videos can be a way to procrastinate, can easily have a _negative_ correlated with finishing and publishing your book.
+We're better off ignoring those. Writing a book takes a long time, hours and hours of heads down focus. If you're stuck, we hope we provide the best forum to post in, or the best minutes of video to watch—but most of an author's time is spent not-stuck, doing the work. Posting and watching videos can be a way to procrastinate, can easily have a _negative_ correlated with finishing and publishing your book. We certainly _could_ optimize those metrics. We could also optimize for [dead snakes](/optimizing-for-dead-snakes).
 
 There are some upstream metrics worth watching, though. An important part of our recommended process is sharing an early (but intelligible) draft of your book and getting reader feedback. This is (a) an easy place to get stuck and (b) an achievement worth celebrating. So I'll be instrumenting our system to tell us when folks reach this milestone (so we can congratulate them!), and when they've spent a little too long on the verge of it (so we can see if maybe they really are stuck).
 
