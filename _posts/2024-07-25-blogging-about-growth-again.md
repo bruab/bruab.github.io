@@ -15,7 +15,7 @@ My situation has changed, though, and all of a sudden I'm driven to write about 
 
 What's different is: I'm a partner at [Useful Books](https://www.usefulbooks.com/). I'm not "in charge of growth" because we're not structured like that, but there's nobody stopping me from "doing growth" and if I do it, I get a share of the upside.
 
-And it's that whole experience of people—or more often systems—_stopping_ me from doing growth that's part of why I stopped opining on it. After at least a dozen posts' worth of shaking my fist at the institutional issues that [hamper](/urgency-culture) [experimentation](/no-more-interesting-results-please) [programs](/hidden-kpi-looking-busy) ... what else is there to say? I shut up to avoid becoming too bitter.
+And it's that whole experience of people—or more often systems—_stopping_ me from doing growth that's part of why I quit bothering to opine on it. After at least a dozen posts' worth of shaking my fist at the institutional issues that [hamper](/urgency-culture) [experimentation](/no-more-interesting-results-please) [programs](/hidden-kpi-looking-busy) ... what else is there to say? I shut up to avoid becoming too bitter.
 
 There's none of that happening now, though. All excuses gone. I don't have a cowardly CMO forbidding me from running a test that "feels risky" and I don't have a target of "5 A/B tests a month" to keep me busy. I can do pretty much whatever I can plausibly defend to the rest of the team. And conversely, if I focus on the wrong things, it's just my own time I'm wasting. Time I could be spending with [my wife](https://www.othersideceramics.com/pages/story) or [these ridiculous dogs](/pets).
 
