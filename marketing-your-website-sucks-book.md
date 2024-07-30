@@ -5,7 +5,7 @@ title: Marketing Your Website Sucks (the book)
 
 This page is a chronological record of my efforts to sell my first book, [Your Website Sucks](https://www.amazon.com/dp/B0BVSXB5W7). My intention is to market the book actively until it's sold 1,000 copies.
 
-Current sales: 539 copies. (44 on Gumroad, 495 on Amazon)
+Current sales: 618 copies. (45 on Gumroad, 573 on Amazon)
 
 Here's what I've done:
 
