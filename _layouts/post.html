@@ -2,15 +2,27 @@
 layout: default
 ---
 
-<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
-<h1 class="post-title">{{ page.title }}</h1>
-<br />
-{% include date_and_social_share.html %}
-{{ content }}
+<header class="site-masthead">
+  <h1 class="smol-header"><a href="/">Brian David Hall</a></h1>
+</header>
 
-<hr />
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
-<h4 id="footer-heading">Next time I write something, I'll let you know.</h4>
-<p class="italic scrunched" id="footer-paragraph">Sign up and get a quick, skimmable update on what I'm publishing / recording / building / thinking, every Friday.</p>
+  {% if page.title != "" %}
+    <h1 class="post-title divided p-name" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+  {% endif %}
 
-{% include convertkit-form.html uid="81f70327c4" formnumber="4956181" %}
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+  </div>
+
+</article>
+

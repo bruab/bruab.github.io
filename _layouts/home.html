@@ -2,46 +2,52 @@
 layout: default
 ---
 
-<header>
-{% if site.theme_config.show_navbar == true %}
-  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-  <div class="dashed"></div>
-{% endif %}
-
-  <h1>{{ site.title }}</h1>
-  {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
+<header class="site-masthead">
+  {% include menu.html %}
+  {% if site.title %}
+    <h1>
+      {{ site.title }}
+    </h1>
+  {% endif %}
+  {% if site.title %}
+    <h2>
+      {{ site.description }}
+    </h2>
   {% endif %}
 </header>
 
-{{ content }}
+<div class="homepage-image"><img src="assets/images/yws-cover.png" alt="Your Website Sucks book image"></div>
 
-{% if site.theme_config.show_projects == true %}
-  <h2>{{ site.theme_config.home.title_projects }}</h2>
-  {% include card_list.html collection=site.data.home.project_entries %}
-{% endif %}
+<main class="home" id="main" role="main" aria-label="Content">
 
-{% if site.theme_config.show_misc_list == true %}
-  <h2>{{ site.theme_config.home.title_misc_list }}</h2>
-  {% include vertical_list.html collection=site.data.home.misc_entries %}
-{% endif %}
+  <center><a class="cta" href="https://www.amazon.com/dp/B0BVSXB5W7">Buy on Amazon</a></center>
 
-{% if site.theme_config.show_blog == true %}
-  <h2>{{ site.theme_config.home.title_blog }}</h2>
-  {% include post_list.html %}
-{% endif %}
+  <div style="display: none;"><a id="sample-link" data-formkit-toggle="e1bf8f818b" href="https://skilled-mover-4977.ck.page/e1bf8f818b">Read a sample</a></div>
 
-{% if site.theme_config.show_old_projects == true %}
-  <h2>{{ site.theme_config.home.title_old_projects }}</h2>
-  {% include card_list.html collection=site.data.home.old_project_entries %}
-{% endif %}
+  <div style="margin-top: 30px">
+    <center>
+      <select onchange="onSelectChange(this.value)">
+          <option value="" selected disabled hidden>Do something else</option>
+        <option value="sample">Read a sample</option>
+        <option value="https://shop.briandavidhall.com/l/your-website-sucks">Buy the book (but not from Jeff Bezos)</option>
+        <option value="https://briandavidhall.com/anonymous-feedback/">Send the author a message</option>
+      </select>
+    </center>
+  </div>
 
+</main>
 
-{% if site.theme_config.show_footer == true %}
-  <footer>
-    <div class="dashed"></div>
-    <h4 id="footer-heading">Next time I write something, I'll let you know.</h4>
-    <p class="italic scrunched" id="footer-paragraph">Sign up and get a quick, skimmable update on what I'm publishing / recording / building / thinking, every Friday.</p>
-    {% include convertkit-form.html uid="81f70327c4" formnumber="4956181" %}
-  </footer>
-{% endif %}
+<script type="text/javascript">
+function onSelectChange(val) {
+  console.log('select');
+  console.log(val)
+  if (val == "sample") {
+    console.log('sample');
+    document.getElementById('sample-link').click();
+  } else {
+    location = val;
+  }
+}
+</script>
+
+<script async data-uid="e1bf8f818b" src="https://skilled-mover-4977.ck.page/e1bf8f818b/index.js"></script>

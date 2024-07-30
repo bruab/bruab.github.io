@@ -1,21 +1,40 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: "en" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
-        {%- include head.html -%}
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
+
+    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
+
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' }}?{{ site.time | date: '%s%N' }}">
+
+    <link rel="apple-touch-icon" href="{{ site.icon }}">
+
+    <!-- ConvertKit snippet TODO -->
+
+  <!-- Fathom - beautiful, simple website analytics TODO -->
+
+  <!-- Track 404s -->
+  <script>
+   document.addEventListener('DOMContentLoaded', function() {
+    var path = window.location.pathname;
+    fathom.trackEvent('404: ' + path);
+  });
+  </script>
+  <!-- / Fathom -->
+
+  </head>
   <body>
-    <main class="page-content" aria-label="Content">
-      <div class="w">
-        {{ content }}
-        {% if site.theme_config.appearance_toggle %}
-          {% include toggle_theme_button.html %}
-        {% endif %}
-        <div class="credits">
-          {%- if site.theme_config.show_copyright == true -%}
-          &copy;&nbsp;{{ "now" | date: "%Y" }}&nbsp;{{site.author}}
-          &nbsp;
-          {%- endif -%}
-        </div>
-      </div>
-    </main>
-    {% include footer_scripts.html %}
+
+    {{ content }}
+
+    {% include menu.html %}
+
+    <center class="copyright">&copy;&nbsp;{{ "now" | date: "%Y" }}&nbsp;{{site.author}}&nbsp;</center>
+
   </body>
 </html>
