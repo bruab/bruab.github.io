@@ -31,9 +31,9 @@ Figure out your message—maybe something like:
 
 - Asking for advice
 - Just checking in
-- Getting help with a research quest
+- Getting help with a [research quest](https://garden.briandavidhall.com/quests-are-better-than-pitches)
 
-[_Send one message_](https://yourfirstthreeclients.com/thoughtful-messages/).
+[Send one message](https://yourfirstthreeclients.com/thoughtful-messages/).
 
 ## (5-7 min) A peer or partner
 
@@ -46,9 +46,9 @@ Figure out your message—maybe something like:
 - Asking for advice
 - Just checking in
 - Commiserating on freelance-related challenges
-- Getting help with a research quest
+- Getting help with a [research quest](https://garden.briandavidhall.com/quests-are-better-than-pitches)
 
-[_Send one message_](https://yourfirstthreeclients.com/thoughtful-messages/).
+[Send one message](https://yourfirstthreeclients.com/thoughtful-messages/).
 
 ## (5-7 min) Someone who's rooting for you
 
@@ -61,7 +61,7 @@ Figure out your message—maybe something like:
 - An update on your client search
 - Asking if they know anyone in `{target industry}`
 
-[_Send one message_](https://yourfirstthreeclients.com/thoughtful-messages/).
+[Send one message](https://yourfirstthreeclients.com/thoughtful-messages/).
 
 ## (2min) Wrap up
 
