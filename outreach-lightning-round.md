@@ -7,6 +7,8 @@ Every Wednesday at 11:30am US-Eastern, I host a 30 minute working session focuse
 
 You're welcome to join! Send me an email, or reply to any email I've sent you, and I'll add you to the invite.
 
+<iframe style="border:0;" width="800" height="450" src="https://www.tella.tv/video/clzjzm6b4000309lbd47zfd8v/embed?b=0&title=0&a=1&loop=0&t=0&muted=0&wt=0" allowfullscreen allowtransparency></iframe>
+
 Here's the agenda.
 
 ## (3 min) Hello and get ready
