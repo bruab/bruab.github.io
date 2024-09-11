@@ -5,7 +5,7 @@ title: One Star feedback
 
 Thanks again for letting me send you a shoddy prototype of a book!
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.tella.tv/video/clx4r311002b309jo10vo5xkr/embed?b=0&title=0&a=1&loop=0&t=0&muted=0&wt=0" allowfullscreen allowtransparency><a href="https://www.tella.tv/video/clx4r311002b309jo10vo5xkr/view">Watch One Star feedback in Tella screen recorder</a></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ib8kqpc9mcg?si=D8SDaq9Lt9je_1ip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Here are a few of the open questions I'm pondering. Feel free to respond to them, or share literally anything else you're thinking, in the form below.
 
