@@ -27,7 +27,13 @@ _-- Antoine de Saint-Exupery_
 
 > Now all I need is a crew / One that can act as if
 
-_--Britt Daniel, [The Beast and Dragon, Adored](https://genius.com/Spoon-the-beast-and-dragon-adored-lyrics)_
+_-- Britt Daniel, [The Beast and Dragon, Adored](https://genius.com/Spoon-the-beast-and-dragon-adored-lyrics)_
+
+---
+
+> Deep down, below the surface of the average man's conscience, he hears a voice whispering, "There is something not right," no matter how much his rightness is supported by public opinion or moral code.
+
+_-- Carl Jung_
 
 ---
 
