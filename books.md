@@ -22,3 +22,7 @@ Stories of how critics slammed the greatest writers, artists, musicians, and sci
 ### [Your First Three Clients](/your-first-three-clients)
 
 A guide on how to find freelance work without being spammy, scammy, or salesy.
+
+### [How To Feel Your Feels](https://helpthisbook.com/briandavidhall/how-to-feel-your-feels)
+
+A short guide for rational men.
