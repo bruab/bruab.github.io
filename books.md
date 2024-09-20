@@ -19,7 +19,7 @@ A guide to help business owners fix the worst of what's broken with their websit
 
 Stories of how critics slammed the greatest writers, artists, musicians, and scientists in history.
 
-### [Your First Three Clients](/your-first-three-clients)
+### [Your First Three Clients](https://yourfirstthreeclients.com/)
 
 A guide on how to find freelance work without being spammy, scammy, or salesy.
 
