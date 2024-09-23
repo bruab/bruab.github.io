@@ -9,17 +9,50 @@ Here's some stuff I could use help with. No pressure. (See also [Offers](/offers
 
 Getting more reviews for my first book, [Your Website Sucks](https://www.amazon.com/dp/B0BVSXB5W7) is a top priority for me, as I seek to find out if there's any chance of making nontrivial income from it. If you feel so moved to buy a copy and leave an honest review, I'll be forever grateful.
 
-## Chats about criticism
+## Feedback on a short book about feelings
 
-I'm working on a [website](https://onestar.world/) and a book or two on the topic, and I want to talk to anyone who's struggled with criticism, or fear of criticism. [Get in touch](/contact) and let's set up a time to talk. Your story might wind up in a book! (Only with your consent.)
+You can leave it here:
 
-## Chats with people working in regenerative agriculture
+https://helpthisbook.com/briandavidhall/how-to-feel-your-feels
 
-More info here: [Quest: Create a guide to regenerative agriculture opportunities](/quests/regen-ag).
+... or just [get in touch](/contact).
 
-## Answers to / opinions on open questions
+## Suggestions for artists, actors, directors, writers, and scientists to include in my book about criticism
 
-Here's a list of [stuff I'm trying to figure out](/open-questions). If you can help me figure it out, [please do](/contact).
+You can get a feel for the tone of the book here:
+
+https://onestar.world/
+
+I'm looking to add about 20 more people. The loose criteria are:
+
+- Self-evidently famous or successful in their field
+- Ideally, not a dead white man (I've already written about lots of those)
+- Subject to harsh criticism or setbacks during their career (Optional! I'm happy to do the research)
+
+## Feedback on a short book about finding clients as a freelancer
+
+You can leave it here:
+
+https://helpthisbook.com/briandavidhall/your-first-three-clients
+
+... or just [get in touch](/contact).
+
+## Suggestions for podcasts I should appear on (or intros to hosts!)
+
+I'm looking to promote four different books. So if you listen to, or just somehow know about a podcast on one of these topics:
+
+- Criticism & creativity
+- Freelancing/consulting
+- Men and their (often repressed) emotions
+- Website UX
+
+... please please [get in touch](/contact). Or just leave an [anonymous suggestion](/anonymous-feedback).
+
+## Suggestions for newsletters and other publications I should write for
+
+Same topics as above! 
+
+What do you read that you think might make a good home for an original, heartfelt article on any of these subjects? Or do you happen to be a writer/publisher who's open to a guest post or collaboration? Please do [reach out](/contact).
 
 <br />
 

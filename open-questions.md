@@ -3,6 +3,12 @@ layout: post
 title: Open questions
 ---
 
+**Note:** This page is no longer maintained. Instead I just started adding questions to my [Needs](/needs) page. 
+
+The stuff below is from early 2023 and still ~50/50 relevant, but for real: check out that [Needs](/needs) page :)
+
+---
+
 Here are a few things I'm trying to figure out. If you've got an opinion I'd [love to hear it](/contact).
 
 ## As a consultant, is it possible to stop using Google products?
