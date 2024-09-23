@@ -9,6 +9,12 @@ Here's some stuff I could use help with. No pressure. (See also [Offers](/offers
 
 Getting more reviews for my first book, [Your Website Sucks](https://www.amazon.com/dp/B0BVSXB5W7) is a top priority for me, as I seek to find out if there's any chance of making nontrivial income from it. If you feel so moved to buy a copy and leave an honest review, I'll be forever grateful.
 
+## Your stories about finding clients
+
+Specifically, clients you found by simply sending an email (or message), getting an intro from someone you know. 
+
+These stories will help me write and market a book on the topic, and (with your permission) I'll share them as part of the supplemental resources for the book.
+
 ## Feedback on a short book about feelings
 
 You can leave it here:
