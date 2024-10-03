@@ -60,6 +60,10 @@ Same topics as above!
 
 What do you read that you think might make a good home for an original, heartfelt article on any of these subjects? Or do you happen to be a writer/publisher who's open to a guest post or collaboration? Please do [reach out](/contact).
 
+## Advice on reaching nonfiction authors, and aspiring nonfiction authors
+
+We haven't done a lot of marketing at [Useful Books](https://www.usefulbooks.com/), but I'm not opposed to the idea. If there's a way I can show up and be helpful—or put some of our [already-helpful stuff](/https://www.usefulbooks.com/resources)—in front of people who are writing a nonfiction book—or thinking about writing one ... fabulous. I'll do it. How though? [Get in touch](/contact) and let me know.
+
 <br />
 
 # Needs that have been met :)
