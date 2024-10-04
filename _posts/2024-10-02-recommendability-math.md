@@ -24,11 +24,11 @@ And they recommmend it to _two_ people per _month_? Unlikely. One recommendation
 
 (Combining these two assumptions gives us "1 recommendation per customer per year" on average.)
 
-And _every_ person they recommend it to goes out and buys it? That would be nice, but 1 in 5 is more likely.
+And _every_ person they recommend it to goes out and buys it? That would be nice, but 1 in 5 is a bit more likely.
 
-Now you're _forced_ to do some marketing. So you walk the streets with a megaphone until you get your first 100 sales.
+Now you're _forced_ to do some marketing. So you walk the streets with a megaphone until you get your first 100 customers.
 
-Your sales (assuming you do no further marketing) will look like this:
+Your sales (assuming you do no _further_ marketing) will look like this:
 
 - **Year 1:** 100 sales, 100 customers → 100 recommendations
 - **Year 2:** 20 sales, 100 + 20 = 120 customers → 120 recommendations
@@ -39,8 +39,10 @@ Your sales (assuming you do no further marketing) will look like this:
 
 You've got growth, but it's slow. It'll take you 14 years to cross the 1,000 customer mark. Hopefully you sell megayachts and not shoes.
 
-Somewhere inbetween these two models there's a world where recommendations bring you enough new business to keep you from having to do marketing. Where, though? 
+Here's the interesting bit: Somewhere _inbetween_ these two models there's a world where recommendations bring you a significant amount of new business—without absurd assumptions, and also without needing to wait several decades. 
 
-How many customers do you have to reach by conventional marketing, how many have to become recommenders, and how much recommending do they have to do? And how persuasive do they have to be?
+Where, though? How many initial customers do you have to reach by conventional marketing, how many have to become recommenders, how much recommending do they have to do? And how persuasive do they have to be?
 
-If you'd like to play around with those questions, clone [this spreadsheet](https://docs.google.com/spreadsheets/d/1wf0Xtl9WF7HZMM4cbuTVMt803ucphnC6alu8QN2Wl3E/edit?usp=sharing) and play around with it.
+If you'd like to play around with those questions, clone [this spreadsheet](https://docs.google.com/spreadsheets/d/1wf0Xtl9WF7HZMM4cbuTVMt803ucphnC6alu8QN2Wl3E/edit?usp=sharing) and tweak the numbers in the orange boxes. 
+
+([Let me know](/contact) how many years it'll take you to reach that 94,000,000,000th customer.)
