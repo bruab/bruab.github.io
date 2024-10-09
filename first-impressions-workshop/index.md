@@ -13,7 +13,7 @@ Here's why you should care:
 
 Sign up here and I'll email you the course right away:
 
-{% include convertkit-form.html uid="67535a653a" formnumber="5361218" cta="GET THE COURSE" %}
+{% include email_form.html %}
 
 ---
 

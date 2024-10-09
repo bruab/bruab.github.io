@@ -20,7 +20,7 @@ I hope it will help you overcome your worry.
 
 Sign up here:
 
-{% include convertkit-form.html uid="81f70327c4" formnumber="4956181" %}
+{% include email_form.html %}
 
 Cancel anytime.
 

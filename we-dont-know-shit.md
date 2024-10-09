@@ -57,6 +57,6 @@ Sign up 👇 to receive a weekly email about what I'm writing and researching.
 
 You'll get info on debunked research, and guidance on navigating the chaotic realm of truth (and what passes for it).
 
-{% include convertkit-form.html uid="81f70327c4" formnumber="4956181" %}
+{% include email_form.html %}
 
 Cancel anytime. And I never look at unsubscribes, so you won't even hurt my feelings :)

@@ -4,7 +4,7 @@ title: Newsletter
 permalink: /newsletter/
 ---
 
-Every Friday, I send a short, skimmable update on things I'm working on.
+Every full moon, I send a short, skimmable update on things I'm working on.
 
 Including but not limited to:
 
@@ -14,7 +14,7 @@ Including but not limited to:
 
 Sign up here:
 
-{% include convertkit-form.html uid="81f70327c4" formnumber="4956181" %}
+{% include email_form.html %}
 
 Cancel anytime.
 

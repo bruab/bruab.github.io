@@ -5,7 +5,7 @@ title: I will help you make 3 meaningful improvements to your website (for free)
 
 In this [hybrid email course](/hybrid-email-course), we'll sort out your website goals and identify 3 meaningful improvements you can make.
 
-{% include convertkit-form.html uid="ec0cab1a36" formnumber="6814504" cta="Sign Up" %}
+{% include email_form.html %}
 
 ## What's "meaningful"? What's an "improvement"?
 

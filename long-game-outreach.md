@@ -16,6 +16,6 @@ Then read the [manifesto](/long-game-outreach-manifesto).
 
 Then sign up to get a short weekly update on my research and experiments in outreach and beyond. I'll share scripts, strategies, and success stories.
 
-{% include convertkit-form.html uid="81f70327c4" formnumber="4956181" %}
+{% include email_form.html %}
 
 (Cancel anytime. And I never check unsubscribes, so you won't even hurt my feelings :)
