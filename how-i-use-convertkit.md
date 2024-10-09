@@ -3,6 +3,8 @@ layout: post
 title: How I use Convertkit
 ---
 
+**EDIT (October 2024):** After further backing away from all the fancy features of ConvertKit (now rebranded "Kit") I stopped using it altogether. I just do Gmail! Here's a list of [all the tools I use](/stack).
+
 **Edit (July 2024):** After several months of wrangling multiple Sequences, Automations, and Custom Tags, I torched almost all of my ConvertKit fanciness. I still have different forms for different free offers (documented below) but most of the rest of this page is obsolete. I'm preserving it as a historical document, and as a reminder that I, too, fall victim to the [urge to automate](/against-automation). 
 
 ---
