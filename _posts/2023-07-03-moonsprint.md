@@ -27,7 +27,7 @@ I'll send out a daily email with an update on what I finished. It'll be things l
 
 ## Join me! If you want. No pressure
 
-[Sign up here](https://skilled-mover-4977.ck.page/82702eb3da) to get the 14 daily emails.
+**Sign up here** to get the 14 daily emails. _(Note: sprint is over! though you can still sign up for my once-a-moon [newsletter](/newsletter).)_
 
 You can follow along quietly, or cheer me on if you'd like.
 
