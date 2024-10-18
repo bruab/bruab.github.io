@@ -45,7 +45,7 @@ Access it [here](https://briandavidhall.gumroad.com/l/freelance-website-blueprin
 
 25+ videos, slides, diagrams, and templates focused on the business side of Conversion Rate Optimization consulting.
 
-Free with [this link](https://briandavidhall.gumroad.com/l/sell-and-deliver-cro/free).
+Free with [this link](https://briandavidhall.gumroad.com/l/sell-and-deliver-cro/freeeee).
 
 ---
 
