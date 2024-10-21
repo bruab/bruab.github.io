@@ -8,6 +8,7 @@ title: A list of manifestos
 - [Long game outreach manifesto](/long-game-outreach-manifesto)
 - [We don't know shit (a manifesto)](/we-dont-know-shit)
 - [Let's make Zoom weird](/lets-make-zoom-weird)
+- [Spite Farms Manifesto](https://spitefarms.com/manifesto)
 
 ## By people I know
 
