@@ -5,8 +5,13 @@
     value="https://briandavidhall.com/newsletter-thanks/"
   />
   <input type="email" id="email" name="email" placeholder="Email" required="" />
+  <input type="hidden" id="url" name="url" value="briandavidhall.com" />
   <button type="submit"><span>Subscribe</span></button>
 </form>
+
+<script>
+document.getElementById('url').value = location.href;
+</script>
 
 <style>
   form {
