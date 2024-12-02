@@ -5,8 +5,6 @@ date: 2023-07-25
 tags: []
 ---
 
-<audio controls src="http://audio.sjc1.vultrobjects.com/why-im-writing-a-book-about-criticism.mp3"></audio>
-
 I'm writing a [book about criticism](https://onestar.world/)—specifically, the innumerable cases where critics get it _wrong_. 
 
 And not just critics—great artists' works are often ignored or disregarded by the general public, other artists, even their family and friends.

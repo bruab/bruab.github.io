@@ -5,7 +5,7 @@ date: 2024-01-04
 tags: [ vlogs ]
 ---
 
-<video width="80%" controls><source src="https://video.sjc1.vultrobjects.com/2024-01-04_09-31-25-not-allowed-to-edit-videos.mp4" type="video/mp4"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Nm42JFLlCM?si=7Mx8aikYgcGaYkBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I've created and edited hundreds of videos over the course of the last few years. I've used Descript, Screenflow, Final Cut Pro, and various in-app editors. I've shared these videos on my now-nearly-defunct YouTube channel, on my now-defunct TikTok account, for clients and [courses](/courses). I even hosted a now-defunct video creators' community, and explored running a video editing agency. (We served a couple clients, weren't optimistic about the uniqueness or margins of the business model ... it's now defunct :)
 
