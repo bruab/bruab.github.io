@@ -9,6 +9,8 @@ In the past I've advocated for [vibes-based project management](/vibes-based-pro
 
 In these situations, try the following.
 
+{% include image.html url="/images/anxiety-oriented-project-management.png" alt="a flowchart of the steps in this post" %}
+
 ## List out all your projects
 
 _Don't_ open up a todo app or project management tool and for fuck's sake do not ask a chatbot. Use a piece of paper or blank text file. If you can't remember a project, it's not important right now.
@@ -31,5 +33,4 @@ If you've truly chosen the most anxiety-inducing project to work on, this should
 
 Then do whatever you need to do—close some tabs, put on headphones, set a timer—and get to work. Then repeat.
 
-{% include image.html url="/images/anxiety-oriented-project-management.png" alt="a flowchart of the steps in this post" %}
 
