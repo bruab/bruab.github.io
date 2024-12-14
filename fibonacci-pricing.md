@@ -22,4 +22,4 @@ There are a couple of approaches.
 
 ## Where can I see examples?
 
-I don't think there are any yet, but I'm working on one.
+I'm currently offering [website jams](https://ko-fi.com/c/bfa9ada0b1) with fibonacci pricing.
