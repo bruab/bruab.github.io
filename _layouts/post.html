@@ -2,15 +2,29 @@
 layout: default
 ---
 
-<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
-<h1 class="post-title">{{ page.title }}</h1>
-<br />
-{% include date_and_social_share.html %}
-{{ content }}
+{% if site.data.menu %}
+  {% include menu.html %}
+{% else %}
+  {% include back-link.html %}
+{% endif %}
 
-<hr />
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
-<h4 id="footer-heading">Next time I write something, I'll let you know.</h4>
-<p class="italic scrunched" id="footer-paragraph">Sign up and get a quick, skimmable update on what I'm publishing / recording / building / thinking, every Friday.</p>
+  {% if page.title != "" %}
+    <h1 class="post-title divided p-name" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+  {% endif %}
 
-{% include email_form.html %}
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+  </div>
+
+</article>

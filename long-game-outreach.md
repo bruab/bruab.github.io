@@ -10,12 +10,8 @@ Understandably, considering all the tone deaf emails junking up your spam folder
 
 But when practiced with deliberation and authenticity, outreach will transform your life and your business.
 
-If you're willing to try out that point of view, consider signing up for a [coworking session](/social-pomodoros).
+If you're willing to try out that point of view, consider reading the [manifesto](/long-game-outreach-manifesto).
 
-Then read the [manifesto](/long-game-outreach-manifesto).
+Then read my book, [Your First Three Clients](https://yourfirstthreeclients.com/).
 
-Then sign up to get a short weekly update on my research and experiments in outreach and beyond. I'll share scripts, strategies, and success stories.
-
-{% include email_form.html %}
-
-(Cancel anytime. And I never check unsubscribes, so you won't even hurt my feelings :)
+The [get in touch](/contact) and let me know how your outreach efforts are going!

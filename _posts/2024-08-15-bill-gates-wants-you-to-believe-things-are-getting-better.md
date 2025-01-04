@@ -41,8 +41,6 @@ Just a pet theory, mind you. But it does have explanatory power over [similar](h
 
 One thing I'll say with confidence: We tell ourselves, and each other, stories. They're [not necessarily true](/reasons-dont-matter). So it's always worth asking why someone's telling the story they're telling, in the way they're telling it, to the audience they've chosen.
 
----
-
 [^1]: _If you want to read a whole book on this topic, [How to Lie with Statistics](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics) is short and surprisingly entertaining._
 [^2]: _The foundation has made at least [one substantial grant to OWID](https://www.inet.ox.ac.uk/news/our-world-in-data-new-funding), though they don't appear on the website's ["How we're funded" page](https://ourworldindata.org/funding)_
 

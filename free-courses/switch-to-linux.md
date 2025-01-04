@@ -3,9 +3,9 @@ layout: no-footer
 title: I will help you switch to Linux
 ---
 
-In this [hybrid email course](/hybrid-email-course), I'll troubleshoot, coach, and commiserate until you're able to use Linux for (most of) your daily computing needs.
+**Note:** This offer never took off, so I removed the signup form. Just [get in touch](/contact) if you want to try it :)
 
-{% include email_form.html %}
+In this [hybrid email course](/hybrid-email-course), I'll troubleshoot, coach, and commiserate until you're able to use Linux for (most of) your daily computing needs.
 
 ## Why switch?
 

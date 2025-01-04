@@ -1,0 +1,23 @@
+{% assign menu = site.data.menu %}
+
+{% if menu %}
+  <nav class="site-navigation" role="navigation">
+    <ul>
+    {% for item in site.data.menu %}
+      {% if page.url == "/" and item.url == "/" %}
+        {% assign class = "active" %}         
+      {% else %}
+        {% if page.url contains item.url and item.url != "/" %}      
+          {% assign class = "active" %}         
+        {% else %} 
+          {% assign class = nil %}
+        {% endif %}         
+      {% endif %}         
+        <li class="{{class}}">
+          <a href="{{ item.url }}">{{ item.title }} </a>
+      </li>
+    {% endfor %}
+    </ul>
+  </nav>
+{% endif %}
+

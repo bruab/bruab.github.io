@@ -5,7 +5,7 @@ date: 2024-01-12
 tags: []
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qtWYLlbjS-E?si=m65DhM4_122YDLaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/qtWYLlbjS-E?si=m65DhM4_122YDLaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Edit:** Based on the logic in this post, you should also [not use Firefox](https://github.com/mozilla/explainers/tree/main/ppa-experiment). Very frustrating! I'm currently trying out [qutebrowser](https://qutebrowser.org/index.html) and liking it, but ⚠ it's for people who like using the command line.
 

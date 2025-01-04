@@ -49,7 +49,7 @@ But hopefully _unlike_ you, I've been ghosted by two accountants, and audited tw
 
 What this taught me was that **I** have to learn accounting.
 
-So I'm writing a newsletter that sifts through all the technical language, conflicting advice, and mostly-irrelevant best practices in this space, and collects the bits that are relevant to US-based freelancers who don't a background in finance, and who grudgingly admit that they, too, have to learn accounting.
+So I'm writing a book that sifts through all the technical language, conflicting advice, and mostly-irrelevant best practices in this space, and collects the bits that are relevant to US-based freelancers who don't a background in finance, and who grudgingly admit that they, too, have to learn accounting.
 
 Stuff like:
 
@@ -60,8 +60,5 @@ Stuff like:
 - Where's the line between legal accounting requirements and nice-to-have best practices?
 - What financial reports should you actually create and pay attention to as a freelancer?
 
-Subscribe and I'll send you updates as I write and research more on this topic (and others :).
+[Support my work](/support) and I'll send you updates as I write and research more on this topic (and others :).
 
-{% include email_form.html %}
-
-Cancel anytime. And I never look at unsubscribes, so you won't even hurt my feelings :)

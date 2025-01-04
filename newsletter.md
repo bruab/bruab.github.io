@@ -12,10 +12,5 @@ Including but not limited to:
 - New videos & podcasts
 - Goings-on from the [meetups](/meetups) and events I host
 
-Sign up here:
+If you'd like to receive it, you can [support my work](/support) or just [get in touch](/contact) and say "add me to the list."
 
-{% include email_form.html %}
-
-Cancel anytime.
-
-(I [never check unsubscribes](/why-i-dont-check-unsubscribes), so you won't hurt my feelings.)

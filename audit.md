@@ -21,7 +21,7 @@ It’ll contain everything you need to decide whether to act or not, and I’ll 
 
 Here’s a sample video:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ksr7z3jo_s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/ksr7z3jo_s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can see more [here](https://www.youtube.com/playlist?list=PL7q12E_LbqGqQaDE1n4UdZi596JUm9aWy).
 

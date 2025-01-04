@@ -1,0 +1,11 @@
+$brand-color:         #c6e5fe;
+$highlight:           lighten($brand-color, 35%);
+$text-color:          rgba(11, 4, 4, 1);
+$muted-text-color:    rgba(11, 4, 4, 0.8);
+$font-family:         "EB Garamond", Garamond, "Times New Roman", serif;
+
+$on-bigphone:         375px;
+$on-tablet:           768px;
+$on-laptop:           960px;
+$on-desktop:          1200px;
+

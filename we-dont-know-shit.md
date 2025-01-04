@@ -49,14 +49,6 @@ A portion of our taxes going to waste on spurious research is a shame, but most 
 
 But if you're basing your diet on junk data gathered with a [questionable methodology](https://carcinisation.com/2020/12/11/survey-chicken/), it's possible you can have better health and tastier meals by evaluating that decision.
 
-I don't have all the answers (I don't know shit, either) - but I'll be figuring things out, in public.
+I don't have all the answers (I don't know shit, either) - but I'll be figuring things out, and eventually the fidnings will find their way into a book.
 
-And in your inbox, if you're open to that.
-
-Sign up 👇 to receive a weekly email about what I'm writing and researching.
-
-You'll get info on debunked research, and guidance on navigating the chaotic realm of truth (and what passes for it).
-
-{% include email_form.html %}
-
-Cancel anytime. And I never look at unsubscribes, so you won't even hurt my feelings :)
+[Support my work](/support) and I'll keep you posted on progress. And feel free to [reach out](/contact) if you've got more examples that fit this theme—maybe they'll end up in the book.

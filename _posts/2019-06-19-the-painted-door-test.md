@@ -9,11 +9,11 @@ A painted door (or "fake door") test is a special type of [de-risk it test](http
 
 [![painted door video thumbnail](/images/painted-door-video.png)](https://www.youtube.com/watch?v=FVxGnORt9eM)
 
-### What it is
+## What it is
 
 A painted door test lets you gauge interest in a new feature, product, page, or piece of functionality ... before you've built it. It involves updating your site with a link or callout that promises the new feature, then measuring clicks to see how many visitors _would_ try it if it existed.
 
-### When to use it
+## When to use it
 
 You should use a painted door when the feature you're considering will be expensive to implement, and you're unsure about demand. (Don't bother if you're already so in love with the idea that you'll build it no matter what.)
 
@@ -33,17 +33,17 @@ _It's packed full of tips, tricks, templates, and examples to make sure your nex
 
 * * *
 
-### Be careful
+## Be careful
 
 There are a couple ways this can go wrong.
 
-**Terrible UX**
+### Terrible UX
 
 What happens when I click the "Subscribe and save!" button - besides sending data to your analytics platform? If the answer is "nothing" then I'll be irritated, think your site is broken, and possibly lose faith in your jerky.
 
 Avoid this by setting up an email opt-in just for this project. When I click, let me know you're working on this feature and offer to notify me as soon as it's ready. (And follow up with these subscribers, no matter what you decide!)
 
-**Unusable data**
+### Unusable data
 
 A painted door test is less work than building the entire feature, but it's still work. If you run the test and find yourself no closer to a decision, that's a tragic failure.
 

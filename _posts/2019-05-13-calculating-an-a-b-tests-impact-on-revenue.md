@@ -7,7 +7,7 @@ categories: ["Web strategy"]
 
 "We got a win!" should excite everyone on the team, and "we've gained valuable insights about our users" should intrigue everyone. But if you want to capture the attention and interest of your CMO or CEO, you need a dollar sign in there somewhere. Let's look at how to calculate the value of a successful test.
 
-**The formula**
+## The formula
 
 The typical way to present this information is "Here's how much _more_ we'll make over (time period) by serving this winning variation to all visitors." To get there, we'll first choose a time period - for this example I'll use one year, but a monthly or quarterly figure can also make sense.
 
@@ -31,7 +31,7 @@ _Additional Revenue = Additional Conversions \* Value of a Conversion_
 
 Hopefully by now you've got a nice, big, encouraging number to report.
 
-**What you're assuming**
+## What you're assuming
 
 There's a good deal of uncertainty built into this calculation. In particular, we're assuming the following:
 
@@ -39,7 +39,7 @@ There's a good deal of uncertainty built into this calculation. In particular, w
 - Traffic will remain the same
 - Our historically-based average conversion value is relevant for the next year, and for this new experience
 
-**What you're leaving out**
+## What you're leaving out
 
 The cost of your optimization program! If your Additional Revenue figure is big enough, go ahead and stack it up against the salaries and benefits of your team, plus any costs that come with vendors and tools. Nothing like justifying your paycheck with a single test.
 

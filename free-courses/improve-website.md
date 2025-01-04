@@ -3,9 +3,9 @@ layout: no-footer
 title: I will help you make 3 meaningful improvements to your website (for free)
 ---
 
-In this [hybrid email course](/hybrid-email-course), we'll sort out your website goals and identify 3 meaningful improvements you can make.
+**Note:** This offer never took off, so I removed the signup form. Just [get in touch](/contact) if you want to try it :)
 
-{% include email_form.html %}
+In this [hybrid email course](/hybrid-email-course), we'll sort out your website goals and identify 3 meaningful improvements you can make.
 
 ## What's "meaningful"? What's an "improvement"?
 

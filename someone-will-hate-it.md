@@ -12,16 +12,4 @@ The good news is that this puts you in some excellent company. Think Mozart, Mar
 
 You can't avoid criticism, but you can remind yourself that it doesn't detract from how amazing you are.
 
-And this newsletter can remind you, too.
-
-Sign up and I'll send you a weekly update about what I'm working on, including articles about _undeniable geniuses_ being _absolutely dragged_ by critics, or peers, or random strangers, or all of the above.
-
-I hope it will help you overcome your worry.
-
-Sign up here:
-
-{% include email_form.html %}
-
-Cancel anytime.
-
-(It's okay if you hate my newsletter. It doesn't detract from how amazing I am :)
+The best way to do that is (surprise!) to buy my book on the topic, [One Star](https://onestar.world/).
