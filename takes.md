@@ -3,18 +3,9 @@ layout: post
 title: Takes
 ---
 
-<link rel="stylesheet" href="/assets/css/mastodon-timeline.css" />
-<script src="/assets/js/mastodon-timeline.js"></script>
+These days you can read all my hottest takes on Bluesky—I'm [@bdh.wtf](https://bsky.app/profile/bdh.wtf).
 
-<div class="mt-timeline">
-  <div id="mt-body" class="mt-body" role="feed">
-    <div class="loading-spinner"></div>
-  </div>
-</div>
-
----
-
-## Pre-Mastodon takes here 👇
+For a few years I was off all social media, but still had a few takes, so I collected them here:
 
 > when you die, you get back every moment you spent waiting for some bloated saas app to load, and it turns out it is like 25 years
 

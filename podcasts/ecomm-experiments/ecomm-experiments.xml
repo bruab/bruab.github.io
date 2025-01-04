@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Ecomm Experiments</title>
+    <description>Data-first optimization tips from ecommerce experts. Every episode features strategies on customer acquisition and conversion to help grow your store.</description>
+    <language>en</language>
+    <pubDate>Tue, 10 Aug 2021 05:00:00 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Aug 2021 05:00:10 +0000</lastBuildDate>
+    <image>
+      <link>https://briandavidhall.com/podcasts/ecomm-experiments/</link>
+      <title>Ecomm Experiments</title>
+      <url>https://briandavidhall.com/images/ecomm-cover.jpg</url>
+    </image>
+    <link>https://briandavidhall.com/podcasts/ecomm-experiments/</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Data-first optimization tips from ecommerce experts. Every episode features strategies on customer acquisition and conversion to help grow your store.</itunes:summary>
+    <itunes:author>Brian Hall</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://briandavidhall.com/images/ecomm-cover.jpg"/>
+    <itunes:keywords>cro, experimentation, conversion rate optimization, ecomm, ecommerce, optimization</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Brian David Hall</itunes:name>
+      <itunes:email>ecommexperiments@briandavidhall.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Business">
+      <itunes:category text="Marketing"/>
+    </itunes:category>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">3d25851f-17a5-4c90-973a-f2eb2cc95e18</guid>
+      <title>When and where to tell your story with AJ Davis</title>
+      <description><![CDATA[<p>AJ Davis, founder of Experiment Zone, breaks down results from an extremely effective category page tweak. She goes on to outline how to think about the role of each page on your site, where to add messaging about what makes your brand unique, and how to get that messaging right.</p><p>0:20 Intro<br />1:22 About the brand, and the category page experiment<br />3:53 Your default template might not be ideal<br />6:17 Different ways to explain your price point<br />7:39 Think of your ecomm website like a physical store<br />8:58 Remember humans have limited working memory when explaining your value<br />12:11 How to test your assumptions about what your value actually is<br />13:17 Where on the site to test value messaging<br />15:45 The surprising part of this experiment<br />17:45 A 30% increase in orders<br />20:43 How we knew this was worth testing<br />22:52 An example of why you shouldn't just go with intuition or best practices<br />25:30 What to do if you can't run experiments<br />26:43 Where to find AJ && a special offer :)</p><p>Watch on YouTube: </p><p><br />Conversion Deep Dive with AJ: <a href="https://experimentzone.com/services/conversion-deep-dive/">https://experimentzone.com/services/conversion-deep-dive/</a></p>
+]]></description>
+      <pubDate>Tue, 10 Aug 2021 05:00:00 +0000</pubDate>
+      <author>ecommexperiments@briandavidhall.com (Brian Hall)</author>
+      <link>https://archive.org/download/amazon-is-not-a-retailer-with-katie-mckee-from-morphology-consulting/aj-davis-on-ecomm-experiments.mp3</link>
+      <content:encoded><![CDATA[<p>AJ Davis, founder of Experiment Zone, breaks down results from an extremely effective category page tweak. She goes on to outline how to think about the role of each page on your site, where to add messaging about what makes your brand unique, and how to get that messaging right.</p><p>0:20 Intro<br />1:22 About the brand, and the category page experiment<br />3:53 Your default template might not be ideal<br />6:17 Different ways to explain your price point<br />7:39 Think of your ecomm website like a physical store<br />8:58 Remember humans have limited working memory when explaining your value<br />12:11 How to test your assumptions about what your value actually is<br />13:17 Where on the site to test value messaging<br />15:45 The surprising part of this experiment<br />17:45 A 30% increase in orders<br />20:43 How we knew this was worth testing<br />22:52 An example of why you shouldn't just go with intuition or best practices<br />25:30 What to do if you can't run experiments<br />26:43 Where to find AJ && a special offer :)</p><p>Watch on YouTube: </p><p><br />Conversion Deep Dive with AJ: <a href="https://experimentzone.com/services/conversion-deep-dive/">https://experimentzone.com/services/conversion-deep-dive/</a></p>
+]]></content:encoded>
+      <enclosure length="26582666" type="audio/mpeg" url="https://archive.org/download/amazon-is-not-a-retailer-with-katie-mckee-from-morphology-consulting/aj-davis-on-ecomm-experiments.mp3"/>
+      <itunes:title>When and where to tell your story with AJ Davis</itunes:title>
+      <itunes:author>Brian Hall</itunes:author>
+      <itunes:duration>00:27:41</itunes:duration>
+      <itunes:summary>AJ Davis, founder of Experiment Zone, breaks down results from an extremely effective category page tweak. She goes on to outline how to think about the role of each page on your site, where to add messaging about what makes your brand unique, and how to get that messaging right.</itunes:summary>
+      <itunes:subtitle>AJ Davis, founder of Experiment Zone, breaks down results from an extremely effective category page tweak. She goes on to outline how to think about the role of each page on your site, where to add messaging about what makes your brand unique, and how to get that messaging right.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">cbb967e7-f092-4103-9b9e-1813dbd3d36f</guid>
+      <title>Amazon is Not a Retailer with Katie McKee</title>
+      <description><![CDATA[<p>Katie McKee, founder of Morphology Consulting, explains how Amazon, retailers, and your branded site all fit together.</p><p>1:31 Why some brands have issues with Amazon<br />2:46 Amazon is not a retailer<br />5:04 Amazon scrapes pricing, deal with it<br />6:28 If your go to market is off, you'll likely make up for that in trade spend<br />7:29 Forecasting with retailers vs Amazon<br />8:40 Selling to traditional retailers *presumes* you'll run promotions<br />11:27 Amazon is a data platform<br />14:19 Amazon is rigid on operations<br />15:31 You need data people<br />15:52 ... all that free information ...<br />18:52 How to think about shoppers on Amazon vs brand store/site vs retailer<br />21:08 A brand store is not meant for revenue<br />22:48 A retailer is the third space ...<br />24:40 Example: deodorant!<br />26:47 Target doesn't punish you for not having stock. Amazon OTOH ...<br />28:45 One more example: furniture!<br />33:54 How to balance brand site, retailers, and Amazon<br />34:29 The 3 places where brands lose money</p><p>- Morphology Consulting: https://www.morphologylabs.com/<br />- Katie on Twitter: https://twitter.com/Katharine_Mckee</p>
+]]></description>
+      <pubDate>Fri, 28 May 2021 15:10:11 +0000</pubDate>
+      <author>ecommexperiments@briandavidhall.com (Brian Hall)</author>
+      <link>https://archive.org/download/amazon-is-not-a-retailer-with-katie-mckee-from-morphology-consulting/amazon-is-not-a-retailer-with-katie-mckee-from-morphology-consulting.mp3</link>
+      <content:encoded><![CDATA[<p>Katie McKee, founder of Morphology Consulting, explains how Amazon, retailers, and your branded site all fit together.</p><p>1:31 Why some brands have issues with Amazon<br />2:46 Amazon is not a retailer<br />5:04 Amazon scrapes pricing, deal with it<br />6:28 If your go to market is off, you'll likely make up for that in trade spend<br />7:29 Forecasting with retailers vs Amazon<br />8:40 Selling to traditional retailers *presumes* you'll run promotions<br />11:27 Amazon is a data platform<br />14:19 Amazon is rigid on operations<br />15:31 You need data people<br />15:52 ... all that free information ...<br />18:52 How to think about shoppers on Amazon vs brand store/site vs retailer<br />21:08 A brand store is not meant for revenue<br />22:48 A retailer is the third space ...<br />24:40 Example: deodorant!<br />26:47 Target doesn't punish you for not having stock. Amazon OTOH ...<br />28:45 One more example: furniture!<br />33:54 How to balance brand site, retailers, and Amazon<br />34:29 The 3 places where brands lose money</p><p>- Morphology Consulting: https://www.morphologylabs.com/<br />- Katie on Twitter: https://twitter.com/Katharine_Mckee</p>
+]]></content:encoded>
+      <enclosure length="38463389" type="audio/mpeg" url="https://archive.org/download/amazon-is-not-a-retailer-with-katie-mckee-from-morphology-consulting/amazon-is-not-a-retailer-with-katie-mckee-from-morphology-consulting.mp3"/>
+      <itunes:title>Amazon is Not a Retailer with Katie McKee</itunes:title>
+      <itunes:author>Brian Hall</itunes:author>
+      <itunes:duration>00:40:04</itunes:duration>
+      <itunes:summary>Why most brands get their Amazon strategy wrong (and how to get it right)</itunes:summary>
+      <itunes:subtitle>Why most brands get their Amazon strategy wrong (and how to get it right)</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">4c884170-bf89-4973-9326-e84040ef51ec</guid>
+      <title>Optimizing paid social video ads with Alison Roach from Ready Set</title>
+      <description><![CDATA[<p>Alison Roach, the Operations Manager at Ready Set, breaks down All The Things when it comes to video ads.</p><p><strong>Highlights</strong></p><ul><li>5:45 Downside of being too brand-focused</li><li>7:37 First concern is thumbstop</li><li>8:05 On messaging within an ad</li><li>8:33 After thumbstop, consideration</li><li>9:25 After consideration, a strong offer</li><li>10:37 Variables you can test with respect to single point of focus</li><li>12:19 Always go in with a framework</li><li>13:03 If you've only got one shot at a Facebook ad ...</li><li>17:20 Case study: Wild Alaskan Company</li><li>20:37 "The real test is when you try to scale"</li><li>22:09 First test was on the benefit messaging</li><li>27:45 User-generated content (UGC)</li><li>30:28 "A 4.5x increase in purchases and a 20% decrease in CPA"</li><li>33:39 Main takeaways from this series of experiments</li><li>35:23 Average video time</li><li>38:43 More on UGC</li></ul><p><strong>Links</strong></p><ul><li>[Ready Set](https://readyset.co/)</li><li>The [Wild Alaskan Company case study](https://www.facebook.com/business/success/wild-alaskan-company)</li><li>Alison on [LinkedIn](https://www.linkedin.com/in/alison-roach/)</li></ul>
+]]></description>
+      <pubDate>Wed, 19 May 2021 18:21:47 +0000</pubDate>
+      <author>ecommexperiments@briandavidhall.com (Brian Hall)</author>
+      <link>https://archive.org/download/amazon-is-not-a-retailer-with-katie-mckee-from-morphology-consulting/alison-roach-paid-social-video-ads.mp3</link>
+      <content:encoded><![CDATA[<p>Alison Roach, the Operations Manager at Ready Set, breaks down All The Things when it comes to video ads.</p><p><strong>Highlights</strong></p><ul><li>5:45 Downside of being too brand-focused</li><li>7:37 First concern is thumbstop</li><li>8:05 On messaging within an ad</li><li>8:33 After thumbstop, consideration</li><li>9:25 After consideration, a strong offer</li><li>10:37 Variables you can test with respect to single point of focus</li><li>12:19 Always go in with a framework</li><li>13:03 If you've only got one shot at a Facebook ad ...</li><li>17:20 Case study: Wild Alaskan Company</li><li>20:37 "The real test is when you try to scale"</li><li>22:09 First test was on the benefit messaging</li><li>27:45 User-generated content (UGC)</li><li>30:28 "A 4.5x increase in purchases and a 20% decrease in CPA"</li><li>33:39 Main takeaways from this series of experiments</li><li>35:23 Average video time</li><li>38:43 More on UGC</li></ul><p><strong>Links</strong></p><ul><li>[Ready Set](https://readyset.co/)</li><li>The [Wild Alaskan Company case study](https://www.facebook.com/business/success/wild-alaskan-company)</li><li>Alison on [LinkedIn](https://www.linkedin.com/in/alison-roach/)</li></ul>
+]]></content:encoded>
+      <enclosure length="38362243" type="audio/mpeg" url="https://archive.org/download/amazon-is-not-a-retailer-with-katie-mckee-from-morphology-consulting/alison-roach-paid-social-video-ads.mp3"/>
+      <itunes:title>Optimizing paid social video ads with Alison Roach from Ready Set</itunes:title>
+      <itunes:author>Brian Hall</itunes:author>
+      <itunes:duration>00:39:58</itunes:duration>
+      <itunes:summary>Tips on optimizing videos for your paid social campaigns - from thumbstop to conversion.
+
+Watch on YouTube: https://youtu.be/x6AEKZGKFeI</itunes:summary>
+      <itunes:subtitle>Tips on optimizing videos for your paid social campaigns - from thumbstop to conversion.
+
+Watch on YouTube: https://youtu.be/x6AEKZGKFeI</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">e8336e91-5d79-453c-a91d-7b155dea19e3</guid>
+      <title>01: Product page videos with Nichole and Claudiu from Reeview</title>
+      <description><![CDATA[<p>Nichole Elizabeth DeMeré and Claudiu Cioba from Reeview reveal <i>all the secrets</i> to effectively using video content on your ecomm product pages. </p><p>5:08 Average ROI is 150x 🤯 <br />6:17 Value of user-generated video for small stores <br />6:48 Value for large stores <br />9:07 In a word: what makes a good product video <br />9:26 Ideal length for a product video (and average view time across 100+ stores) <br />9:43 How many videos should you have per product? <br />11:12 Details from an experiment with grillrescue.com <br />12:22 Finding videos you didn't even know were out there :) <br />13:29 How many shoppers actually watch video reviews on-site? <br />16:32 What kind of widget works best? <br />21:06 Difference in video strategy for established brands vs newcomers <br />23:25 50% of shoppers concerned product won't look like the website when it arrives <br />25:04 What about site speed? </p><p><strong>Links: </strong></p><ul><li><a href="https://reeview.app/">https://reeview.app/</a></li><li>Nichole on Twitter: <a href="https://twitter.com/NikkiElizDemere">https://twitter.com/NikkiElizDemere</a></li><li>Claudiu on Twitter: <a href="https://twitter.com/claudiucioba">https://twitter.com/claudiucioba</a></li><li>Fatima Yousuf (Shopify) - thread on ecomm trends for 2021 <a href="https://twitter.com/fatimayusf/status/1346222109115244546">https://twitter.com/fatimayusf/status/1346222109115244546</a></li><li>Wyzowl report on shopper concerns: <a href="https://www.wyzowl.com/5-stats-ecommerce-needs-video/">https://www.wyzowl.com/5-stats-ecommerce-needs-video/</a></li></ul>
+]]></description>
+      <pubDate>Mon, 19 Apr 2021 17:00:14 +0000</pubDate>
+      <author>ecommexperiments@briandavidhall.com (Brian Hall)</author>
+      <link>https://archive.org/download/amazon-is-not-a-retailer-with-katie-mckee-from-morphology-consulting/nichole-and-claudiu-from-reeview.mp3</link>
+      <content:encoded><![CDATA[<p>Nichole Elizabeth DeMeré and Claudiu Cioba from Reeview reveal <i>all the secrets</i> to effectively using video content on your ecomm product pages. </p><p>5:08 Average ROI is 150x 🤯 <br />6:17 Value of user-generated video for small stores <br />6:48 Value for large stores <br />9:07 In a word: what makes a good product video <br />9:26 Ideal length for a product video (and average view time across 100+ stores) <br />9:43 How many videos should you have per product? <br />11:12 Details from an experiment with grillrescue.com <br />12:22 Finding videos you didn't even know were out there :) <br />13:29 How many shoppers actually watch video reviews on-site? <br />16:32 What kind of widget works best? <br />21:06 Difference in video strategy for established brands vs newcomers <br />23:25 50% of shoppers concerned product won't look like the website when it arrives <br />25:04 What about site speed? </p><p><strong>Links: </strong></p><ul><li><a href="https://reeview.app/">https://reeview.app/</a></li><li>Nichole on Twitter: <a href="https://twitter.com/NikkiElizDemere">https://twitter.com/NikkiElizDemere</a></li><li>Claudiu on Twitter: <a href="https://twitter.com/claudiucioba">https://twitter.com/claudiucioba</a></li><li>Fatima Yousuf (Shopify) - thread on ecomm trends for 2021 <a href="https://twitter.com/fatimayusf/status/1346222109115244546">https://twitter.com/fatimayusf/status/1346222109115244546</a></li><li>Wyzowl report on shopper concerns: <a href="https://www.wyzowl.com/5-stats-ecommerce-needs-video/">https://www.wyzowl.com/5-stats-ecommerce-needs-video/</a></li></ul>
+]]></content:encoded>
+      <enclosure length="31566645" type="audio/mpeg" url="https://archive.org/download/amazon-is-not-a-retailer-with-katie-mckee-from-morphology-consulting/nichole-and-claudiu-from-reeview.mp3"/>
+      <itunes:title>01: Product page videos with Nichole and Claudiu from Reeview</itunes:title>
+      <itunes:author>Brian Hall</itunes:author>
+      <itunes:duration>00:32:53</itunes:duration>
+      <itunes:summary>Nichole Elizabeth DeMeré and Claudiu Cioba from Reeview reveal all the secrets to effectively using video content on your ecomm product pages. </itunes:summary>
+      <itunes:subtitle>Nichole Elizabeth DeMeré and Claudiu Cioba from Reeview reveal all the secrets to effectively using video content on your ecomm product pages. </itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
