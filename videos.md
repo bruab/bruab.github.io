@@ -5,7 +5,7 @@ title: Videos
 
 I decided to make all my YouTube videos "Unlisted"—meaning, you cannot find me on YouTube.
 
-This is in part because I believe it's only a matter of time until the entire platform is [enshittified](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys), and in part as part of a commitment to simplify my life by _not_ trying to game their algorithm, win subscribers, etc.
+This is in part because I believe it's only a matter of time until the entire platform is [enshittified](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys), and in part as a commitment to simplify my life by _not_ trying to game their algorithm, win subscribers, etc.
 
 I do make videos, though! Here they all are, from most recent to oldest.
 
