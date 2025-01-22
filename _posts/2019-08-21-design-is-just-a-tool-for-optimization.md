@@ -5,14 +5,8 @@ date: "2019-08-21"
 categories: ["Web strategy"]
 ---
 
-What's the relationship between these two disciplines, and teams? One clearly supports the other.
+I took this post down because I think it sucks that my writing has been scraped without my consent to feed bullshit engines.
 
-Design's not the only tool you need for optimization; there's copy writing, frontend development, and statistical analysis. But without somebody steadily churning out mockups, you won't get too far.
+More on that in this [one remaining post](/my-final-blog-post).
 
-An optimization program operating at scale can chew through _tons_ of designs. Test 8 completely different homepage layouts, discard 7. Move on to another page 😅
-
-While each of those designs was created with an improved user experience in mind, most of them failed to deliver it. Which is fine! But without optimization, chances are you'd be using one of the inferior designs.
-
-So the design team provides ideas and theories in the form of variations, but it's the optimization process that decides their value, measures what users _actually_ respond to, and determines which experience will live on the site.
-
-(This post written by #teamoptimization)
+Feel free to [get in touch](/contact) if you want to chat.

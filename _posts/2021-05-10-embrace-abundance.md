@@ -4,8 +4,8 @@ title: "Embrace abundance"
 date: "2021-05-10"
 ---
 
-The universe is a vast place of limitless possibilities. So is the Earth, so is North America, the US ... even eastern Alabama is rich and teeming with talent and complexity and opportunity.
+I took this post down because I think it sucks that my writing has been scraped without my consent to feed bullshit engines.
 
-Seeing the world this way encourages you to try new things, share what you've got, encourage others to succeed. Which is the way people act in the world I want to inhabit.
+More on that in this [one remaining post](/my-final-blog-post).
 
-The alternative is to view the world as a place of scarcity and endless competition. Adopt this mindset and the rational use of your energy is to focus on taking from others and guarding your stash. Please don't be this way.
+Feel free to [get in touch](/contact) if you want to chat.

@@ -5,22 +5,8 @@ date: 2023-01-11
 tags: []
 ---
 
-The [tool](/stack) I use to send newsletters has these two options for notifications:
+I took this post down because I think it sucks that my writing has been scraped without my consent to feed bullshit engines.
 
-[![screenshot of notifications, subscribes enabled and unsubscribes disabled](/images/unsubscribe-notifications.png)](/images/unsubscribe-notifications.png)
+More on that in this [one remaining post](/my-final-blog-post).
 
-You'll notice I'm opted out of the unsubscribe messages.
-
-Here's why: Our brains are [wired to weigh losses more heavily than equivalent gains](https://www.nature.com/articles/srep08242).
-
-In other words, if you have $1,000 and I give you $100, you'll likely say "Cool, thanks." A mild, positive reaction.
-
-If you have $1,200 and you _lose_ $100, you will likely feel rage and despair. A much stronger reaction, even though the amount of change _and_ the end state were identical.
-
-As a [human](/why-i-wont-use-ai), I'm subject to this phenomenon. So I ask my email platform to send me celebratory GIFs when I get new subscribers ... and just stay quiet when they leave.
-
-What that means for you: You can subscribe, knowing that any future decision to unsubscribe will not hurt my feelings.
-
-What it means for me: I'm closer to achieving the very unbalanced ratio of good news to bad news that my brain requires in order to avoid rage and despair.
-
-So with all that said, 👇
+Feel free to [get in touch](/contact) if you want to chat.

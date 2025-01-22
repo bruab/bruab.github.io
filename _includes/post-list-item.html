@@ -2,8 +2,12 @@
   <a href="{{ post.url | absolute_url }}" class="post-link">
     <div class="post-link__heading">
       {% unless post.title == "" %}
-          <h1 class="post-link__title">      
+          <h1 class="post-link__title">
+            {% if post.published %}
             {{ post.title }}
+            {% else %}
+            <s> {{ post.title }}</s>
+            {% endif %}
           </h1>
       {% else %}
         {% include post-excerpt.html %}

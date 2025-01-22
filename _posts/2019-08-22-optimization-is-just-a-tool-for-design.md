@@ -5,14 +5,8 @@ date: "2019-08-22"
 categories: ["Web strategy"]
 ---
 
-What’s the relationship between these two disciplines, and teams? One clearly supports the other.
+I took this post down because I think it sucks that my writing has been scraped without my consent to feed bullshit engines.
 
-Design comes first. Without a complete, working design, there's nothing to optimize.
+More on that in this [one remaining post](/my-final-blog-post).
 
-Furthermore, while optimization and experimentation are a way to measure the impact of a design and ultimately improve it, they're just one of many ways to do that.
-
-In fact, you need to reach a fairly high level of traffic (technically [conversions](https://briandavidhall.com/does-visitor-count-matter/)) before you can even _begin_ to do A/B testing. Until you reach that point, optimization isn't even in the picture.
-
-So the optimization team provides feedback and metrics that inform decisions about the user experience, but it's the design team that creates it in the first place, and uses a _variety_ of research techniques - not just experimentation - to refine it.
-
-(This post written by #teamdesign)
+Feel free to [get in touch](/contact) if you want to chat.

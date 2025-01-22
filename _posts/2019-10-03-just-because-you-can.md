@@ -5,19 +5,8 @@ date: "2019-10-03"
 categories: ["Web strategy"]
 ---
 
-You can serve personalized experiences to visitors based on technical information you receive when they land on your site.
+I took this post down because I think it sucks that my writing has been scraped without my consent to feed bullshit engines.
 
-Things like:
+More on that in this [one remaining post](/my-final-blog-post).
 
-- Browser, and browser version
-- Time of day
-- Location
-- Device operating system
-
-You can build different variations, and use this info to write rules that decide who sees what.
-
-Or you can hand your variations off to a machine learning algorithm, which will crunch all the datas and decide for you.
-
-But if you were to make a wish list of things you'd like to know about your visitors in order to serve them more relevant content, I'll wager that stuff like browser or operating system would be pretty far down that list.
-
-You've got this data, which means you _can_ do personalization. But just for the record, you don't _have_ to.
+Feel free to [get in touch](/contact) if you want to chat.

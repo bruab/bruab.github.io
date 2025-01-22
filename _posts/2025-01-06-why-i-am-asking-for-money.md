@@ -2,6 +2,7 @@
 layout: post
 title: "Why I am asking for money"
 date: 2025-01-06
+published: true
 tags: []
 ---
 

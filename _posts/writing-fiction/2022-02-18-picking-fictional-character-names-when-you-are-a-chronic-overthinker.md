@@ -5,22 +5,8 @@ date: 2022-02-18
 categories: ["Writing fiction"]
 ---
 
-I've been writing a story over in [Snowflake Fiction Pomodoros](https://lu.ma/fiction-pomodoros), and after working with placeholder names for a while I decided it was time to commit. No more dialogue like
+I took this post down because I think it sucks that my writing has been scraped without my consent to feed bullshit engines.
 
-"... and when was the last time you talked to `$SupportingCharacter?`"
+More on that in this [one remaining post](/my-final-blog-post).
 
-Except ... I hated every name I picked. They all sounded so ... fictional.
-
-Fortunately I found a way to take the mental labor out of this task and make it fun. You will love it.
-
-Just visit this link: https://tiffzhang.com/startup/
-
-Each time you click it, you'll get a different, absurd, randomly-generated startup landing page.
-
-Each page contains an "Our Team" section with names and profile photos.
-
-![startup generator screenshot](/images/startup-generator-team.png)
-
-Just browse random made-up startups until you see a name that works for your nameless character.
-
-It's quick, fun, and will save you from second guessing yourself.
+Feel free to [get in touch](/contact) if you want to chat.

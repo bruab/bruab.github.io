@@ -2,6 +2,7 @@
 layout: post
 title: "My final blog post"
 date: 2025-01-13
+published: true
 tags: []
 ---
 
