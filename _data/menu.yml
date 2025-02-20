@@ -1,11 +1,11 @@
 - title: Home
   url: /
 
+- title: Daily emails
+  url: /daily-emails
+
 - title: Books
   url: /books
-
-- title: Blog
-  url: /blog
 
 - title: Support
   url: /support
